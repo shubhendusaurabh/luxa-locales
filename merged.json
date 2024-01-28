@@ -1,0 +1,3704 @@
+{
+  "archive-compress": {
+    "h1": "Compress files online for free",
+    "h2": "Compress multiple files and folder to zip format online",
+    "details": {
+      "h3": "How to zip/compress files online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all files you want to zip either by drag and drop section or choose file by click on input area.",
+        "Optionally you can set a password.",
+        "Click on <strong>Compress</strong> button to zip and download the zip file.",
+        "You can remove existing file by clicking the delete button on the right.",
+        "You can add new files at any time.",
+        "You can click on reset button if you want to create new file."
+      ],
+      "p2": [
+        {
+          "What is file compresser?": [
+            "A file compressor is a program or tool that is used to reduce the size of a file or group of files. This can be done by removing unnecessary data, using compression algorithms, or by other means. ",
+            "The compressed file can then be easily transferred or stored, taking up less space. Some common file compression formats include ZIP, RAR, and GZIP."
+          ]
+        },
+        {
+          "What are the uses of file compresser?": [
+            "Reducing the amount of storage space required for a file.",
+            "Making it easier to transfer a file over the internet or through other networks.",
+            "Saving bandwidth when downloading or uploading a file.",
+            "Encrypting the file for security purpose",
+            "Reducing the time it takes to open or load a file."
+          ]
+        },
+        {
+          "What some common archive formats?": [
+            "ZIP",
+            "RAR",
+            "TAR",
+            "GZIP",
+            "7Z",
+            "ISO",
+            "BZIP2",
+            "LZMA",
+            "CAB",
+            "ARJ",
+            "LZH",
+            "ACE",
+            "Z",
+            "DMG (for MacOS)",
+            "ISO (for CD/DVD images)"
+          ]
+        }
+      ]
+    },
+    "Processing {{count}} of {{length}}": "Processing {{count}} of {{length}}",
+    "Compress": "Compress",
+    "Password": "Password",
+    "Password (optional)": "Password (optional)",
+    "Reset": "Reset",
+    "Files": "Files",
+    "Remove": "Remove",
+    "h1 format": "Compress in {{format}} files",
+    "h2 format": "Compress multiple files and folder to {{format}} online"
+  },
+  "archive-convert": {
+    "h1": "Convert compressed files online for free",
+    "h2": "Convert files from archived file online",
+    "details": {
+      "h3": "How to Convert archive files to Zip file online?",
+      "p": [
+        "You can also remove certain files to reduce size.",
+        "You can change/remove password from compressed file.",
+        "Supported Formats: <em>ZIP</em>, <em>7Z</em>, <em>RAR</em>, <em>TAR</em>, <em>LZH</em> etc."
+      ],
+      "li": [
+        "Drag & drop a zip file or select a file by clicking on input area.",
+        "Click on <strong>List files</strong> button to view files list.",
+        "If zip file is password protected, input password in password field.",
+        "You can download files individually."
+      ],
+      "p2": [
+        {
+          "What is archive converter?": [
+            "An archive converter is a tool or software that is used to convert archive files from one format to another. For example, it can convert a .rar file to a .zip file, or a .7z file to a .tar file. ",
+            "This allows the user to extract the contents of the archive and access the files in a format that is compatible with their device or application. ",
+            "Additionally, it can also convert between different compression methods and levels as well."
+          ]
+        },
+        {
+          "What some common archive formats?": [
+            "ZIP",
+            "RAR",
+            "TAR",
+            "GZIP",
+            "7Z",
+            "ISO",
+            "BZIP2",
+            "LZMA",
+            "CAB",
+            "ARJ",
+            "LZH",
+            "ACE",
+            "Z",
+            "DMG (for MacOS)",
+            "ISO (for CD/DVD images)"
+          ]
+        },
+        {
+          "What are uses of converting archive formats?": [
+            "Allowing a user to extract the contents of an archive in a format that their computer or device can handle.",
+            "Reducing the size of an archive file for easier storage or sharing.",
+            "Converting an archive file to a format that is compatible with a specific program or application.",
+            "Changing the encryption method used on an archive file.",
+            "Converting an archive file to a format that is more widely supported, for better compatibility with other devices and systems.",
+            "Changing the compression method used on an archive file.",
+            "Merging multiple archive files into one.",
+            "Splitting an archive file into multiple smaller parts for easier sharing.",
+            "Extracting a selected part of an archive file.",
+            "Extracting the contents of a corrupted archive file that cannot be opened using its native software."
+          ]
+        }
+      ]
+    },
+    "List Files": "List Files",
+    "Convert": "Convert",
+    "Password": "Password",
+    "New Password": "New Password",
+    "files": "files",
+    "Reset": "Reset",
+    "Remove": "Remove",
+    "{{to}} Converter": "{{to}} Converter",
+    "Convert to {{to}} or from {{to}}": "Convert to {{to}} or from {{to}}",
+    "Convert file to {{to}} or from {{to}}": "Convert file to {{to}} or from {{to}}",
+    "Convert {{from}} to {{to}}": "Convert {{from}} to {{to}}",
+    "Convert {{from}} files to {{to}}": "Convert {{from}} files to {{to}}",
+    "Converter": "Compressed File Converter",
+    "Convert Description": "Convert compressed archives in other formats"
+  },
+  "archive-extract": {
+    "h1": "Extract files from {{from}} online",
+    "h2": "Unpack and view files from {{from}} file online for free",
+    "details": {
+      "h3": "How to Unzip/Extract files online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Drag & drop a zip file or select a file by clicking on input area.",
+        "Click on <strong>List files</strong> button to view files list.",
+        "If zip file is password protected, input password in password field.",
+        "You can download files individually."
+      ],
+      "p2": [
+        {
+          "What is compressed file extractor?": [
+            "A compressed file extracter is a software tool or program that allows users to extract or unpack the contents of a compressed file, such as a .zip, .rar, .7z, .tar, .gz, or other archive file format. ",
+            "This tool can be used to extract files from an archive and extract the files from the archive. The extracted files can then be used or viewed as normal files."
+          ]
+        },
+        {
+          "What the uses of file extractor?": [
+            "Extracting files and folders from a compressed archive to access the individual files.",
+            "Extracting files from an archive to a specific location, such as a different directory or hard drive.",
+            "Extracting files from an archive to a password-protected location.",
+            "Extracting files from an archive to a specific location and preserving the original file structure of the archive.",
+            "Extracting files from an archive to view and edit the files without having to open the archive every time.",
+            "Extracting files from an archive to share the individual files with others who may not have the software to open the archive file."
+          ]
+        }
+      ]
+    },
+    "List files": "List files",
+    "Reset": "Reset",
+    "Download": "Download",
+    "Files": "Files",
+    "Password": "Password",
+    "{{to}} Extractor": "{{to}} Extractor",
+    "files": "files",
+    "Extract files from {{to}}": "Uncompress files from {{to}}",
+    "Extract from {{from}} to {{to}}": "Extract from {{from}} to {{to}}",
+    "Extract files from {{from}} to {{to}}": "Extract files from {{from}} to {{to}}"
+  },
+  "archive-index": {
+    "h1": "Test Zip files online for free",
+    "h2": "Check and verify compressed archive files online easily",
+    "details": {
+      "h3": "How to test Zip online?",
+      "p": [
+        "Test integrity of archive file.",
+        "Supports formats such as <em>Zip, 7z, Gzip, Bzip2, Rar, LZMA etc.</em>"
+      ],
+      "li": [
+        "Load the Zip or compressedfile you want to test.",
+        "Test result will automatically show information such as <em>Type, Size, Compressed Size, Files and Folder count etc.</em>"
+      ],
+      "p2": [
+        {
+          "What is an archive file?": [
+            "An archive file is a single file that contains multiple files or directories. It is used to bundle multiple files together into a single file for easier storage, transfer, or distribution. ",
+            "The most common types of archive files are ZIP, RAR, and TAR. Archive files can be compressed to reduce their size, and they can also be password-protected for security. They can be opened and extracted with archive software such as WinZip, WinRAR, or 7-Zip."
+          ]
+        },
+        {
+          "What are the uses of testing archive file?": [
+            "Testing an archive file is used to ensure that the file is not corrupt and that all of the files within the archive can be properly extracted. ",
+            "It can also be used to check that the file has the correct file structure and format, and that the files within the archive are not missing or have been tampered with. ",
+            "Additionally, testing an archive file can be used to confirm that the file has been compressed or encrypted correctly, and that the compression or encryption algorithm used is secure."
+          ]
+        },
+        {
+          "What are the common archive formats?": [
+            "ZIP (.zip)",
+            "RAR (.rar)",
+            "TAR (.tar)",
+            "GZIP (.gz)",
+            "BZIP2 (.bz2)",
+            "7-Zip (.7z)",
+            "ISO (.iso)",
+            "CAB (.cab)",
+            "LZH (.lzh)",
+            "LZMA (.lzma)",
+            "XZ (.xz)",
+            "ARJ (.arj)",
+            "ACE (.ace)",
+            "ZOO (.zoo)",
+            "WIM (.wim)",
+            "RAR5 (.rar)",
+            "DMG (.dmg)",
+            "CPGZ (.cpgz)",
+            "CPIO (.cpio)",
+            "ISO (.iso)",
+            "PAK (.pak)",
+            "LHA (.lha)",
+            "LZOP (.lzop)",
+            "UDF (.udf)",
+            "XAR (.xar)",
+            "Z (.z)",
+            "DEB (.deb)",
+            "RPM (.rpm)",
+            "TAR.GZ (.tar.gz)",
+            "TAR.BZ2 (.tar.bz2)",
+            "TAR.XZ (.tar.xz)",
+            "TAR.ZST (.tar.zst)"
+          ]
+        }
+      ]
+    }
+  },
+  "audio-convert": {
+    "h1": "Convert audios online for free",
+    "h2": "Convert Audio files online",
+    "details": {
+      "h3": "Convert audio files online for free",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the audio files you want to convert.",
+        "Choose the format you want to convert to. ",
+        "Choose other options.",
+        "Download audio individually using Download button.",
+        "Download all converted audio files at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is converting audio format?": [
+            "Converting audio format refers to the process of changing the file format of an audio file to a different format. This can be done using various software tools, such as audio converters like this app.",
+            "The process involves decoding the original audio file and then encoding it in the desired format, while also potentially adjusting settings such as bit rate, sample rate, and number of channel."
+          ]
+        },
+        {
+          "What are some common audio formats?": [
+            "MP3 (.mp3)",
+            "WAV (.wav)",
+            "AAC (.aac, .m4a)",
+            "OGG (.ogg)",
+            "FLAC (.flac)",
+            "WMA (.wma)",
+            "AIFF (.aiff)",
+            "ALAC (.alac)",
+            "PCM (.pcm)",
+            "DSD (.dsd)"
+          ]
+        },
+        {
+          "What are the uses of converting audio format?": [
+            "Compatibility: converting audio files to a format that is compatible with a specific device or media player.",
+            "File size reduction: converting audio files to a format that results in a smaller file size, making it easier to store or share.",
+            "Quality improvement: converting audio files to a format that results in higher quality sound, such as lossless audio formats.",
+            "Editing: converting audio files to a format that can be edited more easily, such as WAV or AIFF.",
+            "Compatibility with certain software : converting audio files to a format that is compatible with specific software such as DAW(digital audio workstation)",
+            "Archival purpose: converting audio files to a format that is more suitable for long-term storage and preservation."
+          ]
+        }
+      ]
+    },
+    "Download": "Download",
+    "In Queue": "In Queue",
+    "Reset": "Reset",
+    "Converting": "Converting",
+    "Failed": "Failed",
+    "Convert": "Convert",
+    "Files": "Files",
+    "Conversion failed. Contact us.": "Conversion failed. Contact us.",
+    "Format": "Format",
+    "Audio Converter": "Audio Converter",
+    "Convert Description": "Convert music into various formats like mp3, wav, aac etc.",
+    "Convert audio from {{from}} to {{to}}": "Convert audio from {{from}} to {{to}}",
+    "Convert audio files from {{from}} to {{to}}": "Convert audio files from {{from}} to {{to}}",
+    "{{to}} Audio Converter": "{{to}} Audio Converter",
+    "Convert audio to {{to}} or from {{to}}": "Convert audio to {{to}} or from {{to}}",
+    "Click Start to transcode": "Click Start to transcode"
+  },
+  "audio-index": {
+    "h1": "Play audio files online for free",
+    "h2": "Listen to MP3, FLAC, M4A, AAC, WAV, OGG Opus, Vorbis, WEBM audio easily",
+    "details": {
+      "h3": "How to play audio online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Load the audio file you want to play.",
+        "If supported, audio will play automatically."
+      ],
+      "p2": [
+        {
+          "What audio formats are supported?": [
+            "MP3",
+            "AAC",
+            "OGG",
+            "WAV",
+            "WMA (Windows Media Audio)"
+          ]
+        }
+      ]
+    },
+    "Sorry your browser does not support embedded audios!": "Sorry your browser does not support embedded audios!",
+    "Add files to continue.": "Add files to continue.",
+    "Files": "Files",
+    "Play": "Play"
+  },
+  "audio-merge": {
+    "h1": "Merge multiple audio files into one file",
+    "h2": "Merge multiple audio files into single file for free online.",
+    "details": {
+      "h3": "Combine multiple audio files into one file for free",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the audio files from which you want to merge.",
+        "Click on the merge button.",
+        "The merged audio file will be available to download."
+      ],
+      "p2": [
+        {
+          "What is an audio jointer tool?": [
+            "An audio joiner tool is a software or online platform that allows you to combine multiple audio files into a single file. ",
+            "The resulting audio file will contain all the audio from the original files, played in the order they were joined.",
+            "This can be useful for creating a seamless mix of songs, or for combining different segments of audio (such as podcast episodes or speech recordings) into a single file for easy listening or sharing.",
+            "Some audio joiners also offer additional features such as the ability to adjust the volume of individual tracks, fade in or out between tracks, and more."
+          ]
+        },
+        {
+          "What are the uses of audio joiner?": [
+            "Combining multiple segments of a podcast or radio show into a single file for easier listening",
+            "Merging multiple songs or tracks to create a playlist or mix",
+            "Joining multiple recorded segments of a speech or presentation into a single file for easy playback",
+            "Combining multiple audio clips for use in video editing or animation",
+            "Combining multiple audio files for use in audio books or e-learning content."
+          ]
+        }
+      ]
+    },
+    "Merge": "Merge",
+    "Total Time": "Total Time",
+    "Reset": "Reset",
+    "Files": "Files",
+    "Format": "Format",
+    "Merge failed. Contact Us": "Merge failed. Contact Us",
+    "Merged and saved successfully.": "Merged and saved successfully."
+  },
+  "audio-trim": {
+    "h1": "Trim audio files Easily",
+    "h2": "Trim multiple audio files for free online.",
+    "details": {
+      "h3": "Trim audio files for free.",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the audio which you want to trim.",
+        "As the files are processed, length will be shown and trim input setting will be visible.",
+        "Click on the Trim button.",
+        "The trimmed audio file will be available to download."
+      ],
+      "p2": [
+        {
+          "What is an audio trimmer?": [
+            "An audio trimmer is a tool used to edit audio files by trimming or cutting out unwanted portions."
+          ]
+        },
+        {
+          "What are the uses of audio trimmer?": [
+            "Removing unwanted silence or background noise from the beginning or end of an audio file",
+            "Cutting out a specific section of an audio file to use as a clip or sample",
+            "Creating shorter versions of a longer audio file for use on a website or in a video",
+            "Splitting a single audio file into multiple smaller files for easier management",
+            "Trimming audio files to a specific length for use in a podcast or video project."
+          ]
+        }
+      ]
+    },
+    "Trim": "Trim",
+    "Reset": "Reset",
+    "Total Time": "Total Time",
+    "Files": "Files",
+    "Trimmed and saved successfully.": "Trimmed and saved successfully.",
+    "Trimming failed. Contact us.": "Trimming failed. Contact us.",
+    "Start Time (s)": "Start Time (s)",
+    "End Time (s)": "End Time (s)",
+    "Download": "Download",
+    "In Queue": "In Queue",
+    "Converting": "Converting",
+    "Failed": "Failed",
+    "Format": "Format"
+  },
+  "common": {
+    "title": "Luxa.org",
+    "variable-example": "Using a variable {{count}}",
+    "Image Tools": "Image Tools",
+    "Video Tools": "Video Tools",
+    "Audio Tools": "Audio Tools",
+    "PDF Tools": "PDF Tools",
+    "Zip Tools": "Zip Tools",
+    "Blog": "Blog",
+    "About Us": "About Us",
+    "Privacy Policy": "Privacy Policy",
+    "Terms of Use": "Terms of Use",
+    "Contact Us": "Contact Us",
+    "Help": "Help",
+    "Drag and drop some files here, or click to select files": "Drag and drop some files here, or click to select files.",
+    "Drag and drop a file here, or click to select file": "Drag and drop a file here, or click to select file.",
+    "Added Files": "Added Files",
+    "Add files to continue.": "Add files to continue.",
+    "Reset": "Reset",
+    "Download": "Download",
+    "Download All": "Download All",
+    "files-count": "{{count}} Files",
+    "100% Secure": "100% Secure. All conversions happen inside your computer. Your files are NOT sent to any server.",
+    "Lightening Fast": "Lightening Fast. All processing happens instantly in your browser, without any queue.",
+    "100% Free": "100% Free. No size limits. No Premiums. No Upsells. All utilities are free.",
+    "Free Online File Converter and Editor": "Free Online File Converter and Editor",
+    "Subtitle": "Convert or Edit or View image, video, audio, pdf document files for free online.",
+    "404: Not Found": "404: Not Found",
+    "This page could not be found.": "This page could not found.",
+    "Check our uptime status.": "Check our uptime status.",
+    "Change language": "Change language",
+    "Files": "Files",
+    "Failed": "Failed",
+    "In Queue": "In Queue",
+    "Converting": "Converting",
+    "Thank you for the feedback!": "Thank you for the feedback!",
+    "Error in submitting": "Error in submitting",
+    "If you have any issue or have a feature request, use contact form to get in touch with us.": "If you have any issue or have a feature request, use contact form to get in touch with us or send an email to contact@luxa.org.",
+    "Very Dissatisfied": "Very Dissatisfied",
+    "Dissatisfied": "Dissatisfied",
+    "Neutral": "Neutral",
+    "Satisfied": "Satisfied",
+    "Very Satisfied": "Very Satisfied",
+    "Give Rating": "Give Rating",
+    "Submit": "Submit",
+    "Comment": "Comment"
+  },
+  "home": {
+    "title": "Hello world",
+    "variable-example": "Using a variable {{count}}"
+  },
+  "image-add-background": {
+    "h1": "Photo Background Adder",
+    "h2": "Add a background color or image to a transparent photo",
+    "details": {
+      "h3": "How to add background color to an Image",
+      "p": [
+        "Supports plain solid, gradient background"
+      ],
+      "li": [
+        "Add all the transparent images you want to add background color to.",
+        "Choose a background color for filling the photo like white or another sprite image.",
+        "You can choose a solid background or gradient colors background.",
+        "For the solid fill in color, simply indicate the color you'd like to use in the background of the item.",
+        "You can select it in the color palette or manually enter it. ",
+        "For the gradient fill in color, you can designate two, three, or four colors for a gradient background. ",
+        "In the second block of options, you can select the gradient type.",
+        "Click convert & download modified images."
+      ],
+      "p2": [
+        {
+          "What is adding background color to an image?": [
+            "Adding a background color to an image refers to the process of filling the area around the subject of an image with a specific color."
+          ]
+        },
+        {
+          "What are the uses of adding background color?": [
+            "Enhancing the overall aesthetics of the image by providing a contrasting background for the subject.",
+            "Creating visual hierarchy by making certain elements of the image stand out more.",
+            "Helping to convey a specific mood or theme associated with the image.",
+            "Creating a sense of depth or dimensionality in the image.",
+            "Providing a consistent background for multiple images in a series or collection.",
+            "Creating a consistent visual style across a website or other visual medium.",
+            "Making transparent PNG images more visible on different backgrounds",
+            "Creating a backdrop for compositing multiple images together."
+          ]
+        }
+      ]
+    },
+    "Background Type": "Background Type",
+    "Gradient Type": "Gradient Type",
+    "Solid Background": "Solid Background",
+    "Color Num": "Color {{num}}",
+    "Gradient Background": "Gradient Background",
+    "Linear Gradient": "Linear Gradient",
+    "Direction": "Direction",
+    "Top to Bottom": "Top to Bottom",
+    "Bottom to Top": "Bottom to Top",
+    "Left to Right": "Left to Right",
+    "Right to Left": "Right to Left",
+    "Radial Gradient": "Radial Gradient",
+    "Center": "Center",
+    "Bottom Left": "Bottom Left",
+    "Bottom Right": "Bottom Right",
+    "Top Right": "Top Right",
+    "Top Left": "Top Left",
+    "Radial Gradient Radius": "Radial Gradient Radius",
+    "Color": "Color"
+  },
+  "image-add-text": {
+    "h1": "Add text to an image",
+    "h2": "Add text to photos in bulk.",
+    "details": {
+      "h3": "How to add text to an image",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to add background color to.",
+        "Enter the text you want to add.",
+        "Choose options like font size, alignment, color etc.",
+        "Click convert & download modified images.",
+        ""
+      ],
+      "p2": [
+        {
+          "What is adding text to an image?": [
+            "Adding text to an image refers to the process of placing text on top of an image."
+          ]
+        },
+        {
+          "What are the uses of adding text to images?": [
+            "Communicating information: Text can be used to label or caption an image, providing context or additional information about the subject of the image.",
+            "Creating visual interest: Text can be used as a design element to add visual interest to an image and make it more engaging.",
+            "Branding and marketing: Text can be used to add branding or marketing messages to an image, such as a company logo or tagline.",
+            "Social media: Text can be used to add captions, hashtags, or other information that is useful for social media sharing.",
+            "Call to action: Text can be used to create a call to action, such as a button or link, that encourages the viewer to take a specific action.",
+            "Creating a consistent visual style across a website or other visual medium.",
+            "Adding subtitles or captions for accessibility purposes.",
+            "Creating a watermark or adding a signature to the image to protect it from unauthorized use.",
+            "Creating meme or viral images."
+          ]
+        }
+      ]
+    },
+    "Text": "Text",
+    "Top": "Top",
+    "Left": "Left",
+    "Width": "Width",
+    "Height": "Height",
+    "Font Size": "Font Size",
+    "Line Height": "Line Height",
+    "Font Family": "Font Family",
+    "Font Weight": "Font Weight",
+    "Font Style": "Font Style",
+    "Normal": "Normal",
+    "Center": "Center",
+    "Right": "Right",
+    "Bold": "Bold",
+    "Italic": "Italic",
+    "Oblique": "Oblique",
+    "Color": "Color",
+    "Fill": "Fill",
+    "Fill Color": "Fill Color",
+    "Horizontal Align": "Horizontal Align",
+    "Vertical Align": "Vertical Align",
+    "Middle": "Middle",
+    "Bottom": "Bottom",
+    "Justify Text": "Justify Text"
+  },
+  "image-black-and-white": {
+    "h1": "Convert Image into Black and White",
+    "h2": "Convert any colorful photo into black and white image",
+    "details": {
+      "h3": "How to black and white a picture online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the photos you want to black and white.",
+        "Choose threshold between 0 and 1.",
+        "You can preview images on the right side.",
+        "Download image individually using Download button.",
+        "Download all black and white converted images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What are the uses of converting images into black and white?": [
+            "Creating a vintage or classic look: Black and white images can evoke a sense of nostalgia or timelessness, and can be used to give an image a vintage or classic feel.",
+            "Enhancing contrast and texture: Converting an image to black and white can help to bring out details and textures that may be lost in a color image.",
+            "Simplifying a composition: Removing color from an image can simplify the composition and make it easier to focus on the subject.",
+            "Creating a sense of emotion or mood: Black and white images can convey a specific mood or emotion, such as sadness, nostalgia, or elegance.",
+            "Saving file size or memory: Grayscale images take up less space and memory than color images.",
+            "Enhancing the overall aesthetics of the image by providing a monochromatic background for the subject.",
+            "Creating a consistent visual style across a website or other visual medium.",
+            "For printing purposes, some image needs to be in black and white.",
+            "Creating a more dramatic or high-contrast image.",
+            "Making the image more suitable for certain types of image processing, such as edge detection or image analysis."
+          ]
+        },
+        {
+          "What is difference between black and white and grascale?": [
+            "Black and white and grayscale refer to different ways of representing images with limited colors.",
+            "Black and white refers to images that use only two colors: black and white. These images typically have a very high contrast, with areas that are completely black and areas that are completely white, with no shades of gray.",
+            "Grayscale, on the other hand, refers to images that use a range of shades of gray to represent different levels of brightness or color. Grayscale images have a much more subtle range of tones, with areas that are very light gray and areas that are very dark gray, and many shades of gray in between.",
+            "Grayscale images are created by converting the color image into a monochrome image. This is done by defining a grayscale value for each color channel, which is determined by the intensity of the color.",
+            "In summary, black and white images only use two colors while grayscale uses a range of shades of gray to represent different levels of brightness or color. Grayscale images are more nuanced and subtle than black and white images, and can convey more information."
+          ]
+        }
+      ]
+    },
+    "Threshold": "Threshold"
+  },
+  "image-blur": {
+    "h1": "Online Image Blurring Tool",
+    "h2": "Blur an image or background or part of an image using free blurring tool.",
+    "details": {
+      "h3": "How to blur photos online?",
+      "p": [
+        "This tool uses a blurring process to allow you to select the whole image or a certain part of it.",
+        "You can choose the strength of the blur in the Blur Radius option.",
+        "Low blur strength values will cause your images to be slightly faded out and high ones will make it unlegible.",
+        "You can blur text or face etc to increase privacy of your picture.",
+        "You can chooose between Gaussian blur or Radial blur filter."
+      ],
+      "li": [
+        "Add all the photos you want to blur.",
+        "Choose blur strength between 1 and 4.",
+        "You can preview images on the right side.",
+        "Download image individually using Download button.",
+        "Download all blurred images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is blurring of an image?": [
+            "Image blurring is a technique used to soften or obscure the details of an image. There are various ways to blur an image, but the most common method is by using a blur filter, which applies a mathematical algorithm to the pixels of the image to spread them out and soften the edges."
+          ]
+        },
+        {
+          "What are the uses of blurring an image?": [
+            "Removing noise or unwanted details: Blurring can be used to remove noise or other unwanted details from an image, such as dust or scratches.",
+            "Enhancing the overall aesthetics of the image: Blurring can be used to create a sense of depth or motion in an image, by making some parts of the image appear more out of focus than others.",
+            "Creating a sense of emotion or mood: Blurring can be used to convey a specific mood or emotion, such as nostalgia, dreaminess, or uncertainty.",
+            "Concealing sensitive information: Blurring can be used to conceal sensitive information, such as faces or license plates in an image.",
+            "Creating a consistent visual style across a website or other visual medium.",
+            "For image processing and computer vision applications, blurring is often used as a preprocessing step to reduce noise and increase the signal-to-noise ratio in an image.",
+            "In graphic design, blurring can also be used to create a sense of motion or to focus the viewer's attention on a specific area of the image.",
+            "In photography, blurring can be used to create a shallow depth of field, to create a bokeh effect or to make certain parts of the image appear out of focus."
+          ]
+        },
+        {
+          "What is the difference between blurring and pixelating an image?": [
+            "Blurring and pixelating are two different techniques used to obscure or conceal details in an image.",
+            "Blurring is a technique that uses a blur filter to spread out the pixels of an image, resulting in a softened or hazy appearance. The goal of blurring is to obscure details while maintaining a relatively natural and smooth overall look. This can be achieved by applying different types of blur filter like Gaussian blur, motion blur, box blur, etc.",
+            "Pixelating, on the other hand, is a technique that replaces small regions of pixels with larger, more coarse pixels. This results in a more blocky or pixelated appearance, where fine details are replaced by larger, more obvious squares of color. The goal of pixelating is to conceal or obscure details by making them less visible or recognizable. This is often used to obscure faces, license plates, or other sensitive information in an image.",
+            "In summary, blurring is used to soften the edges of an image and make it less sharp, while pixelating is used to make an image more blocky and obscure the details by replacing them with larger pixels. Blurring aims to retain the natural look of the image while pixelating aims to make the image less recognizable or less detailed."
+          ]
+        }
+      ]
+    },
+    "Blur Strength": "Blur Strength"
+  },
+  "image-border": {
+    "h1": "Add color border to images",
+    "h2": "Online tool to add opaque or transparent borders to photos. You can choose border width, color and position.",
+    "details": {
+      "h3": "How to add border to images.",
+      "p": [
+        "You can use this tool to add white or different color outline or transparent stroke around image."
+      ],
+      "li": [
+        "Add all the images you want to add border to.",
+        "Choose desired width (in pixels) and color.",
+        "For position, choose inside (dimension remain same), outside (dimension increase by border width) or center (dimension increase by half of border width).",
+        "You can preview bordered image and download the result image.",
+        "Click convert & download images with borders with same settings."
+      ],
+      "p2": [
+        {
+          "What is adding border to an image?": [
+            "Adding a border to an image is a technique used to frame or highlight an image by adding a visible edge around it. The border can be of various widths, and it can be of different colors, patterns or textures."
+          ]
+        },
+        {
+          "What are the uses of adding border to an image?": [
+            "Enhancing the overall aesthetics of the image: A border can be used to make an image stand out more and draw attention to it.",
+            "Creating visual hierarchy: A border can be used to create visual hierarchy, making certain elements of the image stand out more.",
+            "Conveying a specific mood or theme associated with the image: The color, pattern, or texture of the border can be used to convey a specific mood or theme associated with the image.",
+            "Creating a sense of depth or dimensionality in the image: A border can be used to create a sense of depth or dimensionality in the image.",
+            "Providing a consistent background for multiple images in a series or collection: A border can be used to provide a consistent background for multiple images in a series or collection.",
+            "Creating a consistent visual style across a website or other visual medium: A border can be used to create a consistent visual style across a website or other visual medium.",
+            "Creating a backdrop for compositing multiple images together: A border can be used to create a backdrop for compositing multiple images together.",
+            "Creating a sense of framing or containing the image.",
+            "Highlighting the image as a main focus of the design or layout.",
+            "Creating a watermark or adding a signature to the image to protect it from unauthorized use."
+          ]
+        }
+      ]
+    },
+    "Color": "Color",
+    "Inside": "Inside",
+    "Outside": "Outside",
+    "Center": "Center",
+    "Width": "Width",
+    "Position": "Position"
+  },
+  "image-brightness": {
+    "h1": "Change Brightness of images",
+    "h2": "Edit brightness of photos online to optimize light.",
+    "details": {
+      "h3": "How to modify brightness of images online?",
+      "p": [
+        "Change image brightness to modify color saturation of pixels."
+      ],
+      "li": [
+        "Add all the images you want to change brightness of.",
+        "Input brightness value. A value more than 0 will increase brightness while negative value will decrease brightness.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all edited brightness images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is Brightness?": [
+            "Brightness of an image refers to the overall lightness or darkness of the image. It is a measure of the amount of light that is present in the image, and it can affect the perceived contrast and visual appeal of the image. In image and video processing, brightness is often measured as a value between 0 and 255, with 0 being completely black (no light) and 255 being completely white (maximum light). A value of 128 is considered a neutral value, with values above 128 being considered brighter and values below 128 being considered darker."
+          ]
+        },
+        {
+          "What are the uses of changing brightness": [
+            "There are several uses of changing the brightness of an image, some of the common ones are:",
+            "Correction of poor lighting conditions: Changing the brightness of an image can be used to correct for poor lighting conditions in an image, such as underexposure or overexposure. This can be done by adjusting the brightness to match the intended lighting conditions of the scene.",
+            "Achieving a desired visual effect: Changing the brightness of an image can also be used to achieve a desired visual effect, such as creating a high-key or low-key image. High-key images are bright and have a lot of white or light-colored areas, while low-key images are dark and have a lot of black or dark-colored areas.",
+            "Making certain elements stand out: Changing the brightness of an image can be used to make certain elements stand out or to draw attention to specific parts of an image. For example, by brightening the background or darkening the foreground.",
+            "Enhancing or diminishing details: Changing the brightness of an image can be used to enhance or diminish details in an image. By brightening an image, details that were previously hidden become visible, while by darkening an image, details that were previously overwhelming become less prominent.",
+            "Adjusting for different screen conditions: Changing the brightness of an image can be used to adjust the image for different screen conditions, such as adjusting the brightness of an image to match the lighting conditions of the room where it will be viewed, or to match the brightness of the screen that it will be viewed on.",
+            "Creative effect: Changing the brightness can be used to create a specific mood in an image, a bright image can make an image feel more cheerful while a darker image can create a more"
+          ]
+        },
+        {
+          "What is difference between brightness and opacity?": [
+            "Brightness and opacity are two different properties of an image that are used to manipulate and adjust the appearance of an image.",
+            "Brightness refers to the overall lightness or darkness of the image. It is a measure of the amount of light that is present in the image, and it affects the perceived contrast and visual appeal of the image. Brightness can be adjusted to correct for poor lighting conditions or to achieve a desired visual effect.",
+            "Opacity refers to the degree of transparency of an image. It is a measure of how visible or hidden an image is. An image with an opacity of 1 is fully visible, while an image with an opacity of 0 is completely transparent. Opacity can be adjusted to layer multiple images on top of each other, or to blend an image with the background.",
+            "In summary, brightness adjusts the amount of light in an image, while opacity adjusts the visibility of the image."
+          ]
+        }
+      ]
+    },
+    "Brightness Value": "Brightness Value"
+  },
+  "image-bulge": {
+    "h1": "Apply Bulge/Pinch Effect to images",
+    "h2": "Apply Bulge or Pinch effect to photos online.",
+    "details": {
+      "h3": "How to apply Bulge Pinch effect to images online?",
+      "li": [
+        "Add all the images you want to apply bulgepinch effect to.",
+        "Enter centerX The x coordinate of the pattern origin.",
+        "Enter centerY The y coordinate of the pattern origin.",
+        "Enter The radius of the circle of effect.",
+        "Enter strength, -1 to 1 (-1 is strong pinch, 0 is no effect, 1 is strong bulge).",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all bulgepinch effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p": [
+        "Bulges or pinches the image in a circle.",
+        "This is also known as lens distortion effect."
+      ],
+      "p2": [
+        {
+          "What is Bulge Effect?": [
+            "The \"bulge effect\" is a photographic technique that involves distorting the shape of an object in an image by using a wide-angle lens and positioning the camera close to the object. This causes the center of the image to appear larger and closer than the edges, creating a bulging or convex effect. This technique is most commonly used in portrait photography to make the subject's face appear more prominent, but can also be used in other types of photography such as in nature and landscape photography to create an illusion of depth."
+          ]
+        },
+        {
+          "What are the uses of Bulge Effect?": [
+            "Distorting images: The bulge effect can be used to create a distorted or \"bulging\" effect on an image, which can be used to create a sense of movement or to emphasize certain features of the image.",
+            "Creating a sense of depth: The bulge effect can be used to create a sense of depth in an image by making certain parts of the image appear to be closer or farther away.",
+            "Enhancing features: The bulge effect can be used to enhance certain features of an image, such as making eyes appear larger, making muscles appear more defined, or making a landscape appear more dramatic.",
+            "Adding a creative touch: The bulge effect can be used to add a creative touch to an image, such as making an object appear to be floating or adding a surreal feel to an image.",
+            "Architecture or interior design: The bulge effect can be used in architectural or interior design visualization to make a room look more spacious, a building look more dynamic or to make certain elements of the design stand out.",
+            "Fun or artistic effects: The bulge effect can be used for fun or artistic effect, like distorting a portrait to make it look like a caricature, or to make a landscape look like a painting."
+          ]
+        }
+      ]
+    },
+    "Strength": "Strength",
+    "Radius": "Radius",
+    "Horizontal Center (%)": "Horizontal Center (%)",
+    "Vertical Center (%)": "Vertical Center (%)"
+  },
+  "image-change-color": {
+    "h1": "Change Color in Photos",
+    "h2": "Online color swapper in image. Choose the color to be removed and its replacement.",
+    "details": {
+      "h3": "How to change colors in an image?",
+      "p": [
+        "You can change background color like red to white, hair color or eye color.",
+        "You can also change colors in a logo or switch colors in a photo using this tool.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to image color from.",
+        "Choose original color to be removed from the color picker.",
+        "Choose the replacement color you want in an image.",
+        "Optionally choose a threshold value for matching original color.",
+        "Click convert & download modified color images."
+      ],
+      "p2": [
+        {
+          "What is swapping color in an image": [
+            "Swapping color in an image refers to the process of replacing one color or range of colors with another color in an image. This can be done using various software tools and techniques, such as color replacement tools, color adjustment layers, and color balance adjustments."
+          ]
+        },
+        {
+          "What are the uses of swapping color in images?": [
+            "Changing the overall color scheme of an image: Swapping color can be used to change the overall color scheme of an image, for example, to make it more warm or more cool.",
+            "Enhancing the overall aesthetics of the image: Swapping color can be used to enhance the overall aesthetics of an image, for example, by making certain colors stand out more or by creating a specific mood or theme associated with the image.",
+            "Correcting color issues: Swapping color can be used to correct color issues, such as color cast or white balance problems, in an image.",
+            "Creating a consistent visual style across a website or other visual medium: Swapping color can be used to create a consistent visual style across a website or other visual medium.",
+            "Creating a specific look or style: Swapping color can be used to create a specific look or style, such as a retro or vintage feel, in an image.",
+            "Improving the image's readability, by making sure that the text and other important elements are distinguishable from the background.",
+            "Matching the image's color scheme with the design of a website or other visual medium.",
+            "Creating a sense of depth or dimensionality in the image: Swapping color can be used to create a sense of depth or dimensionality in the image.",
+            "Highlighting certain elements of the image: Swapping color can be used to highlight certain elements of the image"
+          ]
+        }
+      ]
+    },
+    "Threshold": "Threshold",
+    "Replacement Color": "Replacement Color",
+    "Original Color": "Original Color"
+  },
+  "image-change-opacity": {
+    "h1": "Change opacity of image",
+    "h2": "Edit opacity of image to make it translucent or semi-transparent.",
+    "details": {
+      "h3": "How to modify opacity of images",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to adjust opacity of.",
+        "Using the opacity value input, choose desired value between 0 and 1 to increase or decrease opacity.",
+        "You can preview image with modified opacity on the right.",
+        "Click convert & download images with changed opacity."
+      ],
+      "p2": [
+        {
+          "What is Opacity?": [
+            "Opacity is a property of an image that determines how transparent or opaque it is. It is typically measured as a value between 0 and 1, with 0 being completely transparent and 1 being completely opaque. When an image has an opacity of 1, it is fully visible and covers any underlying elements. When an image has an opacity less than 1, it is semi-transparent and allows some of the underlying elements to be visible."
+          ]
+        },
+        {
+          "What are the uses of changing opacity": [
+            "Layer multiple images: Changing the opacity of an image allows you to layer multiple images on top of each other and create a composite image. For example, you can use a transparent PNG image to overlay text or graphics on top of a background image.",
+            "Transparent overlays: Changing the opacity of an image can also be used to create transparent overlays that can be used to add text, graphics, or other elements to an existing image.",
+            "Blending images: Changing the opacity of an image can be used to blend an image with the background. This can be used to create a fade-in or fade-out effect, or to create a translucent effect.",
+            "Image watermarking: Changing the opacity of an image can be used to add a watermark to an image. This can be useful for protecting your images from unauthorized use.",
+            "Image cropping: Changing the opacity of an image can be used to create a cropping effect, where only a part of the image is visible.",
+            "Image masking: Changing the opacity of an image can be used to create a masking effect, where only certain parts of the image are visible and the rest are hidden.",
+            "Image compositing: Changing the opacity of an image can be used to composite images together, where multiple images are combined to form a single image."
+          ]
+        },
+        {
+          "What is difference between brightness and opacity?": [
+            "Brightness and opacity are two different properties of an image that are used to manipulate and adjust the appearance of an image.",
+            "Brightness refers to the overall lightness or darkness of the image. It is a measure of the amount of light that is present in the image, and it affects the perceived contrast and visual appeal of the image. Brightness can be adjusted to correct for poor lighting conditions or to achieve a desired visual effect.",
+            "Opacity refers to the degree of transparency of an image. It is a measure of how visible or hidden an image is. An image with an opacity of 1 is fully visible, while an image with an opacity of 0 is completely transparent. Opacity can be adjusted to layer multiple images on top of each other, or to blend an image with the background.",
+            "In summary, brightness adjusts the amount of light in an image, while opacity adjusts the visibility of the image."
+          ]
+        }
+      ]
+    },
+    "Opacity Value": "Opacity Value"
+  },
+  "image-collage": {
+    "h1": "Make collage image from multiple images.",
+    "h2": "Make collage image from many images.",
+    "details": {
+      "h3": "How to image collage?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to make image collage from.",
+        "Choose properties like collage length etc.",
+        "Click convert & download collage image."
+      ],
+      "p2": [
+        {
+          "What is collage image?": [
+            "A collage image is a composition of two or more images, often arranged in a creative or artistic way, to create a single new image. The individual images used in a collage can be photographs, drawings, or other types of images.",
+            "Collages can be created digitally or by physically assembling images. Collages are used for various purposes, such as in art, graphic design, photography, and advertising."
+          ]
+        },
+        {
+          "What are the uses of collage?": [
+            "Photo montages: Combining multiple photos into one image to create a narrative or tell a story.",
+            "Artistic expression: Using a collage to express an idea or concept in a creative way.",
+            "Graphic design: Using collages as a design element for posters, brochures, and other marketing materials.",
+            "Memory keeping: Creating a collage to remember an event or special occasion.",
+            "Social media: Creating a collage to share on social media platforms.",
+            "Advertising: Using collages to create visually appealing ads.",
+            "Educational tool: Using collages to teach concepts in a visual way.",
+            "Personal expression: Creating a collage as a form of personal self-expression."
+          ]
+        }
+      ]
+    }
+  },
+  "image-color-halftone": {
+    "h1": "Apply Color Halftone Effect to images",
+    "h2": "Apply Color Halftone effect to photos online.",
+    "details": {
+      "h3": "How to apply Color Halftone effect to images online?",
+      "p": [
+        "Simulates a CMYK halftone rendering of the image by multiplying pixel values with a four rotated 2D sine wave patterns, one each for cyan, magenta, yellow, and black.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply colorhalftone effect to.",
+        "Enter centerX The x coordinate of the pattern origin.",
+        "Enter centerY The y coordinate of the pattern origin.",
+        "Enter angle The rotation of the pattern in degrees.",
+        "Enter size The diameter of a dot in pixels.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all colorhalftone effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is color halftone effect?": [
+            "The color halftone effect is a technique used to create a stylized, dot-based representation of an image. It is often used to simulate the look of a traditional halftone print, and can be used to create a range of different styles and effects.",
+            "The color halftone effect is achieved by breaking down an image into a series of dots of varying size and color, based on the brightness and color values of the original image. The dots are then arranged in a pattern, typically in a grid, to create the final halftone image.",
+            "There are a few different algorithms that can be used to create the halftone effect, such as the \"clustered dot\" method, the \"stochastic\" method, and the \"amplitude modulation\" method. Each of these methods creates a different type of halftone pattern and can be used to achieve different effects."
+          ]
+        },
+        {
+          "What are the uses of color halftone effect?": [
+            "The color halftone effect can be used in a variety of different contexts, such as graphic design, illustration, and advertising, and can add a unique and interesting touch to an image or video."
+          ]
+        }
+      ]
+    },
+    "Horizontal Center (%)": "Horizontal Center (%)",
+    "Vertical Center (%)": "Vertical Center (%)",
+    "Angle": "Angle",
+    "Color Halftone Size": "Color Halftone Size"
+  },
+  "image-color": {
+    "h1": "Change Color of images",
+    "h2": "Edit color of photos online to optimize.",
+    "details": {
+      "h3": "How to modify color of images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to change color of.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all color edited images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What are the uses of changing color?": [
+            "Color correction: Adjusting the overall color balance of an image to make it look more natural or consistent.",
+            "Color grading: Changing the color of an image to create a specific mood or style, such as making a scene look warm and inviting or cool and mysterious.",
+            "Highlighting specific features: Changing the color of certain elements in an image to make them stand out or draw attention.",
+            "Removing color cast: Adjusting the color balance to remove unwanted color tints, such as a yellow cast from indoor lighting.",
+            "Changing the season: Changing the colors in an image to create the illusion of a different time of year.",
+            "Emphasizing or de-emphasizing elements: Changing the colors of certain elements to make them more or less prominent.",
+            "Replacing colors: Changing one color to another, such as changing a car's color in a photo.",
+            "Making black and white images: converting the image to black and white by removing all colors",
+            "Creating a vintage look: adding a color cast to make an image look like an old photo.",
+            "Enhancing the overall appeal: by adjusting the colors, saturation and brightness of an image to make it more visually pleasing."
+          ]
+        }
+      ]
+    },
+    "Red Multiplier": "Red Multiplier",
+    "Green Multiplier": "Green Multiplier",
+    "Blue Multiplier": "Blue Multiplier",
+    "Alpha Multiplier": "Alpha Multiplier",
+    "Red Offset": "Red Offset",
+    "Green Offset": "Green Offset",
+    "Blue Offset": "Blue Offset",
+    "Alpha Offset": "Alpha Offset"
+  },
+  "image-compress": {
+    "h1": "Online Image Compressor",
+    "h2": "Compress photos easily to reduce its file size and make it smaller without affecting visual quality.",
+    "details": {
+      "h3": "How to compress images online?",
+      "p": [
+        "You can compress large images without losing quality.",
+        "By reducing file size you send them over email.",
+        "You can minimize file size of multiple photos as batch.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to compress.",
+        "Choose photo quality between 0 and 1.",
+        "Values closer to zero will make size smaller and reducing its quality while values closer to 1 will not reduce much.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is compressing an image?": [
+            "Image compression is the process of reducing the file size of an image while maintaining its visual quality. This is done by removing or reducing the amount of data in the image file, while retaining the information that is important for the visual appearance of the image.",
+            "It's important to note that when compressing an image, it's a balance between the file size and the quality of the image. Compressing too much will result in a low-quality image, but compressing too little will result in a larger file size."
+          ]
+        },
+        {
+          "What are lossless and lossy compression?": [
+            "Lossless compression: Lossless compression techniques retain all the original data of an image and can recreate the original image exactly. The file size of the image will be smaller, but the quality of the image will not be affected. Examples of lossless compression include PNG and GIF.",
+            "Lossy compression: Lossy compression techniques discard some of the data from the original image, resulting in a smaller file size but also a lower quality image. The degree of compression can be adjusted to balance file size and image quality. Examples of lossy compression include JPEG and WebP."
+          ]
+        },
+        {
+          "What are the uses of compressing an image?": [
+            "Reducing the file size of an image, which results in faster loading times on websites or other digital platforms.",
+            "Saving storage space on a computer or device.",
+            "Making it easier to share images over the internet or through email.",
+            "Improving the performance of image processing and computer vision applications.",
+            "Making it possible to store more images on a memory card or other storage device.",
+            "Improving the overall user experience on a website or other digital platform.",
+            "Making it possible to use large images on mobile devices with limited storage and processing power.",
+            "Saving bandwidth costs when transmitting images over the internet."
+          ]
+        }
+      ]
+    },
+    "Quality": "Quality"
+  },
+  "image-contrast": {
+    "h1": "Change contrast of images",
+    "h2": "Edit contrast of photos online to optimize color saturation.",
+    "details": {
+      "h3": "How to modify contrast images online?",
+      "p": [
+        "Change image contrast to increase color saturation of pixels, make them brighter or decrease saturation make them black-and-white or dimmer.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to change contrast of.",
+        "Input contrast value. A value more than 0 will increase contrast while negative value will decrease contrast.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all edited contrast images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is changing contrast of an image?": [
+            "Contrast refers to the difference in brightness between the lightest and darkest areas of an image. Changing the contrast of an image involves adjusting the brightness levels of the highlights, midtones, and shadows in an image to make the overall image appear brighter or darker. This can be done using various software tools and techniques, such as contrast adjustments, levels adjustments, and curves adjustments."
+          ]
+        },
+        {
+          "What are the uses of changing contrast of an image?": [
+            "Enhancing the overall visibility and readability of an image: Increasing the contrast can make an image appear brighter and more vibrant, making it easier to see and read.",
+            "Creating a specific mood or theme associated with the image: The contrast of an image can be used to create a specific mood or theme associated with the image, for example, a high contrast image can appear more dramatic.",
+            "Correcting contrast issues: Adjusting the contrast can be used to correct contrast issues, such as an image that appears too bright or too dark.",
+            "Creating a sense of depth or dimensionality in the image: Adjusting the contrast can be used to create a sense of depth or dimensionality in the image, for example, by making the background appear more distant.",
+            "Highlighting certain elements of the image: Adjusting the contrast can be used to highlight certain elements of the image, for example, by making a subject stand out more against a background.",
+            "Making the image more visually appealing: Adjusting the contrast can make the image more visually appealing by making it more striking.",
+            "Improving the image's readability, by making sure that the text and other important elements are distinguishable from the background.",
+            "Matching the image's contrast with the design of a website or other visual medium.",
+            "Creating a consistent visual style across a website or other visual medium.",
+            "Creating a specific look or style: Adjusting the contrast can be used to create a specific look or style, such as a high-key or low"
+          ]
+        }
+      ]
+    },
+    "Contrast Value": "Contrast Value"
+  },
+  "image-convert": {
+    "h1": "Convert JPG, PNG, WEBP, GIF, BMP, AVIF, JXL image files online for free",
+    "h2": "Convert images between PNG, JPG, WEBP, BMP, GIF, AVIF, JXL in high quality for free.",
+    "details": {
+      "h3": "How to convert photos online?",
+      "p": [
+        "Output formats supported: JPEG, PNG, WEBP, BMP, GIF, AVIF, SVG, JXL.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to convert.",
+        "Choose the format you want to convert to. ",
+        "If the image has transparency, you can choose a background color like white.",
+        "Download image individually using Download button.",
+        "Download all converted images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is converting format of an image?": [
+            "Converting the format of an image refers to the process of changing the file type of an image from one format to another. This can be done using various software tools and techniques, such as image editing software, online converters, or command-line tools.",
+            "It's important to note that the appropriate format to use depends on the specific requirements of the application or device for which the image will be used, such as size, quality, and compatibility."
+          ]
+        },
+        {
+          "What are the uses of changing format of an image?": [
+            "Compatibility: Some image formats may not be compatible with certain devices or software, converting the format of an image can help ensure that the image can be viewed or used on different devices and platforms.",
+            "File size: Some image formats may result in larger file sizes than others. Converting an image to a format that results in a smaller file size can help save storage space and reduce loading times on websites or other digital platforms.",
+            "Quality: Some image formats may result in higher quality images than others. Converting an image to a format that results in a higher quality image can help ensure that the image looks its best.",
+            "Features: Some image formats may have additional features, such as support for transparent backgrounds or animation, that other formats do not have. Converting an image to a format that supports these features can help ensure that the image can be used in a wider range of applications.",
+            "Editing: Some image formats may be more easily edited than others. Converting an image to a format that is more easily edited can help ensure that the image can be modified as needed.",
+            "For the purpose of printing, as some image formats are better suited for printing than others.",
+            "To meet a specific requirement for an application or device.",
+            "To reduce the file size and improve the load time of the website."
+          ]
+        },
+        {
+          "What are some popular image formats?": [
+            "JPEG (Joint Photographic Experts Group): A lossy image format that is widely used for photographs and other images that have a large number of colors. JPEG files are generally smaller in size than other image formats, which makes them ideal for use on the web and in email attachments.",
+            "PNG (Portable Network Graphics): A lossless image format that is widely used for images that require transparent backgrounds or a high level of detail. PNG files are generally larger in size than JPEG files, but they retain more of the original image quality.",
+            "GIF (Graphics Interchange Format): A lossless image format that is widely used for simple graphics and animations. GIF files are limited to a maximum of 256 colors, which makes them less suitable for photographs and other images with a large number of colors.",
+            "BMP (Bitmap): A lossless image format that is widely used for simple graphics and images. BMP files are generally larger in size than other image formats and are not widely used on the web.",
+            "TIFF (Tagged Image File Format): A lossless image format that is widely used for professional-quality images, such as those used in print publications. TIFF files are generally larger in size than other image formats, which makes them less suitable for use on the web.",
+            "SVG (Scalable Vector Graphics): A vector image format that is widely used for simple graphics and icons. SVG images are resolution-independent and can be scaled without losing quality.",
+            "WEBP : A image format that was developed by google, it's a modern format that is both lossy and lossless, and it's smaller in size than JPEG, PNG and GIF.",
+            "HEIF (High Efficiency Image Format): A image format developed by Apple, it's similar to JPEG and HEVC, it's a lossy format and it's smaller in size.",
+            "AVIF (AV1 Image File Format): An open-source image format based on the AV1 video compression standard. It uses intra-frame compression, which means that each frame of an image is compressed individually, resulting in higher image quality than other image formats like JPEG. AVIF is designed for use on the web and it's designed to be more efficient than JPEG, in terms of file size and quality.",
+            "JXL (JPEG eXtended Range): An open-source image format that was developed by the Joint Photographic Experts Group (JPEG). It is designed to be an improved version of the JPEG format, offering better compression and improved image quality. JPEG XL uses both intra-frame and inter-frame compression, which means that it can achieve smaller file sizes than JPEG while maintaining similar image quality."
+          ]
+        }
+      ]
+    },
+    "Background Color": "Background Color",
+    "Format": "Format",
+    "Remove Transparency": "Remove Transparency",
+    "Output Format": "Output Format",
+    "To Image Converter": "{{to}} Image Converter",
+    "To Image Converter NoDesc": "Convert photos to {{to}} or from {{to}}",
+    "To Image Converter Description": "Convert photos to {{to}} or from {{to}} ({{description}})",
+    "From To": "Convert images from {{from}} to {{to}}",
+    "From To Description": "Convert files from {{from}} ({{fdesc}}) to {{to}} ({{tdesc}})"
+  },
+  "image-crop": {
+    "h1": "Crop image files online for free",
+    "h2": "Crop photos using desired width and height to reduce dimension without losing quality.",
+    "details": {
+      "h3": "How to crop images online?",
+      "p": [
+        "Using Image cropper, you can extract part of an picture.",
+        "By cropping the image you can reduce file size or dimension, cut out any sensetive information.",
+        "You can crop in various shapes like cirle, square, rectangle while keeping tranparency.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to crop.",
+        "Enter the desired width or height and crop position top and left.",
+        "You can see the preview, middle image shows crop position inside black rectangle of whole image and image on the right shows the result.",
+        "Download image individually using Download button.",
+        "Download all cropped images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is cropping of an image?": [
+            "Cropping an image refers to the process of removing unwanted areas from an image and keeping the desired portion."
+          ]
+        },
+        {
+          "What are the uses of cropping an image?": [
+            "Composition: By cropping an image, you can change the composition of the image, making it more visually appealing and emphasizing the main subject.",
+            "Removing unwanted elements: By cropping an image, you can remove unwanted elements from the image such as distracting backgrounds, people or objects that are not the main subject of the image.",
+            "Focusing on the main subject: By cropping an image, you can focus on the main subject of the image, making it more prominent and easier to see.",
+            "Changing aspect ratio: By cropping an image, you can change the aspect ratio of the image, making it more suitable for a specific purpose such as printing or displaying on a certain device.",
+            "Size reduction: By cropping an image, you can reduce the size of the image, making it more suitable for use on the web or in email attachments.",
+            "To meet a specific requirement for an application or device."
+          ]
+        }
+      ]
+    },
+    "Height": "Height",
+    "Width": "Width",
+    "Left": "Left",
+    "Top": "Top"
+  },
+  "image-denoise": {
+    "h1": "Apply Denoise Effect to images",
+    "h2": "Apply Denoise effect to photos online.",
+    "details": {
+      "h3": "How to apply Denoise effect to images online?",
+      "p": [
+        "Smooths over grainy noise in dark images using an 9x9 box filter weighted by color intensity, similar to a bilateral filter.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply denoise effect to.",
+        "The exponent of the color intensity difference, should be greater than zero. A value of zero just gives an 9x9 box blur and high values give the original image, but ideal values are usually around 10-20.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all denoise effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is denoise effect?": [
+            "The denoise effect is a technique used to reduce or remove noise from an image. Noise in an image is often caused by factors such as high ISO settings on a camera, poor lighting conditions, or image compression. Noise appears as small, randomly-colored pixels in an image and can make the image appear grainy or speckled.",
+            "The process of denoising an image typically involves analyzing the image and identifying the noise pixels, then applying an algorithm to reduce or remove them."
+          ]
+        },
+        {
+          "What are the uses of denoise effect?": [
+            "Improving image quality: Denoising can be used to remove or reduce noise from an image, resulting in a cleaner and more detailed image.",
+            "Enhancing image details: Removing noise can help to reveal subtle details in an image that might otherwise be obscured by noise, making the image appear sharper and more detailed.",
+            "Reducing file size: Removing noise can also help to reduce the file size of an image, which can be useful when working with large images or when preparing images for use on the web.",
+            "Low light conditions: Denoising is particularly useful when working with images taken in low light conditions, where noise can be more prevalent, it helps to improve the visibility of the image.",
+            "Enhancing image editing: Denoising can be used as a pre-processing step before applying other image editing techniques, such as color correction or sharpening, to improve the overall quality of the image.",
+            "Medical imaging : Denoising is used in the medical field to enhance images for diagnostic purposes, this is particularly useful in MRI and CT scans.",
+            "Scientific research : Denoising is also used in scientific research to enhance images from microscopes or telescopes, this improves the visibility of the images making it easier to make observations.",
+            "Surveillance and security: Denoising is used in surveillance and security cameras to improve the visibility of images captured in low-light conditions."
+          ]
+        }
+      ]
+    },
+    "Denoise Amount": "Denoise Amount"
+  },
+  "image-desaturate": {
+    "h1": "Desaturate image files online for free",
+    "h2": "Convert a color photo into desaturated image",
+    "details": {
+      "h3": "How to desaturate images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to desaturate.",
+        "Preview desaturated image on the right.",
+        "Download image individually using Download button.",
+        "Download all desaturated images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is desaturating an image?": [
+            "Desaturating an image refers to the process of reducing or removing the color from an image, resulting in a grayscale or black and white image. This is done by reducing the saturation of the colors in the image, which is a measure of the intensity of the colors."
+          ]
+        },
+        {
+          "What are different ways to desaturate an image?": [
+            "Adjusting the saturation level: This can be done by adjusting the saturation slider or level in the image editing software or online editor.",
+            "Using a grayscale effect: This effect will convert the image to grayscale, removing all color information.",
+            "Using a black and white effect: This effect will convert the image to black and white, removing all color information and giving the image a classic look.",
+            "Using a selective desaturation effect: This effect allows you to selectively desaturate certain colors or areas of an image, while leaving other colors or areas in color."
+          ]
+        },
+        {
+          "What are uses of desaturating an image?": [
+            "Creating a vintage or retro look for images",
+            "Creating a more dramatic or emotional impact in an image",
+            "Emphasizing the texture or patterns in an image",
+            "Creating a more professional look for images",
+            "Creating a more consistent look for a series of images",
+            "Printing in black and white",
+            "Creating a more timeless look for an image."
+          ]
+        }
+      ]
+    }
+  },
+  "image-diffusion": {
+    "h1": "Apply Diffusion Effect to images",
+    "h2": "Apply Diffusion effect to photos online.",
+    "details": {
+      "h3": "How to apply Diffusion effect to images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply diffusion effect to.",
+        "Enter scale amount between 1 and 100.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all diffusion effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is diffusion effect?": [
+            "The diffusion effect is a technique used to create a soft, hazy, or dreamy look in an image. This effect is often used in portrait photography to create a flattering, natural-looking image, or in landscape photography to create an ethereal or romantic look."
+          ]
+        },
+        {
+          "What are the uses of diffusion effect?": [
+            "Portrait photography : To create a natural-looking, flattering image of a person.",
+            "Landscape photography: To create an ethereal or romantic look for a landscape image",
+            "Fashion photography: To create a soft and dreamy look for a fashion image.",
+            "Advertising photography: To create a soft and inviting look for a product image.",
+            "Product photography: To create a soft and inviting look for a product image",
+            "Abstract photography: To create an interesting and unique look for an abstract image"
+          ]
+        }
+      ]
+    },
+    "Scale": "Scale"
+  },
+  "image-dither": {
+    "h1": "Apply Dither Effect Images",
+    "h2": "Apply Dither Filter to Photos",
+    "details": {
+      "h3": "How to dither images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to change dither.",
+        "Enter dither level. A value closer to 0 will be more dithered.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all dithered images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is dither effect?": [
+            "The dither effect in images is a technique used to create the illusion of more colors or shades in an image than are actually present.",
+            "This is done by adding a pattern of pixels to an image that simulates additional colors or shades.",
+            "This technique is often used in digital image processing, particularly in the reduction of the number of colors in an image (color quantization) or in the conversion of an image to a different color depth (such as from 24-bit to 8-bit)."
+          ]
+        },
+        {
+          "What are the uses of dithering effect?": [
+            "Reducing the number of colors in an image: When an image is reduced to a smaller number of colors, dithering can be used to create the illusion of more colors than are actually present, which can help to preserve the visual quality of the image.",
+            "Converting an image to a different color depth: When an image is converted to a different color depth, such as from 24-bit to 8-bit, dithering can be used to create the illusion of more colors or shades than are actually present, which can help to preserve the visual quality of the image.",
+            "Printing: Dithering is used in printing to create the illusion of more colors or shades than are actually present, which can help to improve the visual quality of printed images.",
+            "Displaying images on low-color devices: Dithering can be used to create the illusion of more colors or shades than are actually present on devices that support a limited number of colors, such as older or low-end computer monitors, printers, or mobile devices.",
+            "Creating unique visual effects: Dithering can be used to create unique visual effects and patterns in images, such as a retro or pixelated look.",
+            "Enhancing image quality: Dithering can be used to enhance image quality by creating the illusion of more colors or shades, which can help to preserve the visual quality of the image."
+          ]
+        }
+      ]
+    },
+    "Dither Level": "Dither Level"
+  },
+  "image-dot-screen": {
+    "h1": "Apply Dot Screen Effect to images",
+    "h2": "Apply Dot Screen effect to photos online.",
+    "details": {
+      "h3": "How to apply Dot Screen effect to images online?",
+      "p": [
+        "Simulates a black and white halftone rendering of the image by multiplying pixel values with a rotated 2D sine wave pattern.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply dotscreen effect to.",
+        "Enter centerX The x coordinate of the pattern origin.",
+        "Enter centerY The y coordinate of the pattern origin.",
+        "Enter angle The rotation of the pattern in degrees.",
+        "Enter size The diameter of a dot in pixels.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all dotscreen effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is dot screen effect?": [
+            "The dot screen effect is a technique used to create a pattern of dots in an image, similar to the halftone dot patterns used in printing. The dot screen effect can be used to create a variety of visual effects, such as a retro or pixelated look, or to simulate the look of a printed image."
+          ]
+        },
+        {
+          "What are the uses of dot screen effect?": [
+            "Creating a retro or pixelated look in an image",
+            "Simulating the look of a printed image",
+            "Creating a unique visual effect in an image",
+            "Adding texture or interest to an image",
+            "Enhancing the overall look and feel of an image",
+            "Creating a vintage or retro look for a photo"
+          ]
+        }
+      ]
+    },
+    "Horizontal Center": "Horizontal Center",
+    "Vertical Center": "Vertical Center",
+    "Angle": "Angle",
+    "Dot Screen Size": "Dot Screen Size"
+  },
+  "image-edge-work": {
+    "h1": "Apply Edge Work Effect to images",
+    "h2": "Apply Edge Work effect to photos online.",
+    "details": {
+      "h3": "How to apply Edge Work effect to images online?",
+      "p": [
+        "Picks out different frequencies in the image by subtracting two copies of the image blurred with different radii.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply edgework effect to.",
+        "Enter edge work radius (in pixels) from 1 to 100",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all edgework effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is edge work effect?": [
+            "Edge work effect is a technique used in image processing to enhance or create edges in an image. This effect is used to make the edges of objects in an image stand out more, making them appear sharper or more defined.",
+            "The edge work effect can be achieved through various image processing techniques such as edge detection, image sharpening, or edge enhancement. Edge detection algorithms are used to identify and extract the edges of objects in an image, while image sharpening and enhancement techniques are used to make the edges appear more defined and pronounced."
+          ]
+        },
+        {
+          "What are different types of edge work effect?": [
+            "Sobel Edge Detection: It is a technique used to detect edges in an image by using a Sobel filter to calculate the gradient of the image intensity at each point.",
+            "Canny Edge Detection: This is a technique that uses multiple filters and thresholding to detect edges in an image.",
+            "Laplacian Edge Detection: This is a technique that detects edges by computing the second derivative of an image's intensity."
+          ]
+        },
+        {
+          "What are uses of edge work effect?": [
+            "Object recognition and image analysis: The edge work effect can be used to extract and identify the edges of objects in an image, which can be used to analyze and understand the image's content.",
+            "Image compression: By focusing on the edges of an image, the edge work effect can be used to compress an image while preserving its visual quality.",
+            "Image enhancement: The edge work effect can be used to enhance an image's overall visual quality by making the edges of objects appear sharper or more defined.",
+            "Graphic design: Edge work effect can be used to create a unique and interesting look to the image, by making the edges of objects more pronounced and defined."
+          ]
+        }
+      ]
+    },
+    "Edge Work Radius": "Edge Work Radius"
+  },
+  "image-edge": {
+    "h1": "Convert images into edges online for free",
+    "h2": "Convert a color photo into edge image",
+    "details": {
+      "h3": "How to convert images into edge online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to convert to edge.",
+        "Preview converted image on the right.",
+        "Download image individually using Download button.",
+        "Download all edge images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is converting images into edges?": [
+            "Converting an image into an edge image, also known as edge detection, is a technique used in image processing to identify and extract the edges of objects in an image. The resulting edge image is a black and white image, with the edges of the objects in the original image appearing as white lines and the rest of the image appearing as black."
+          ]
+        }
+      ]
+    }
+  },
+  "image-emboss": {
+    "h1": "Emboss effect on image files online for free",
+    "h2": "Apply Emboss effect on photos online.",
+    "details": {
+      "h3": "How to apply emboss filter on images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply emboss effect.",
+        "Preview converted image on the right.",
+        "Download image individually using Download button.",
+        "Download all filter applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is emboss effect?": [
+            "The emboss effect is a technique used in image processing to create a 3D-like appearance in an image. This effect creates the illusion of depth by simulating the way light reflects off a raised surface. The emboss effect is typically achieved by applying a filter or algorithm to an image that enhances the edges and highlights of the image, giving it a raised or 3D look."
+          ]
+        },
+        {
+          "What are some uses of emboss effect?": [
+            "Creating a 3D-like appearance in an image",
+            "Enhancing the overall look and feel of an image",
+            "Adding texture or interest to an image",
+            "Creating a unique visual effect in an image",
+            "Highlighting the edges and details of an image",
+            "Creating a sense of depth in an image"
+          ]
+        }
+      ]
+    }
+  },
+  "image-enrich": {
+    "h1": "Enrich effect on image files online for free",
+    "h2": "Apply Enrich effect on photos online.",
+    "details": {
+      "h3": "How to apply enrich filter on images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply enrich effect.",
+        "Preview converted image on the right.",
+        "Download image individually using Download button.",
+        "Download all filter applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is enriching image?": [
+            "Enriching an image generally refers to making changes or adjustments to an image in order to enhance its visual quality or add more meaning or context to it. This can include a wide range of techniques such as color correction, cropping, retouching, adding text or graphics, and more."
+          ]
+        },
+        {
+          "What are uses of enriching image?": [
+            "Color correction: Adjusting the color balance, saturation, and hue of an image to make it more visually appealing.",
+            "Cropping: Removing unwanted areas from an image to focus on the main subject or to create a more balanced composition.",
+            "Retouching: Removing blemishes, smoothing skin, or adjusting lighting to improve the overall appearance of an image.",
+            "Adding text or graphics: Inserting text or graphics to add more meaning or context to an image.",
+            "Enhancing the resolution: Increasing the resolution of an image to make it look sharper and more detailed.",
+            "Adding special effects: Applying effects like filters, lens flares, or color grading to create a specific visual style or mood."
+          ]
+        }
+      ]
+    }
+  },
+  "image-exposure": {
+    "h1": "Apply Exposure Effect to images",
+    "h2": "Apply Exposure effect to photos online.",
+    "details": {
+      "h3": "How to apply Exposure effect to images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply exposure effect to.",
+        "Enter exposure amount between 1 and 5.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all exposure effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "what is exposure effect in images?": [
+            "Exposure effect in images refers to the amount of light that is captured by a camera's sensor when taking a photo. In photography, exposure refers to the process of adjusting the aperture, shutter speed, and ISO settings on a camera to control the amount of light that is captured. The correct exposure is when the image is captured with the correct amount of light, making the image appear neither too bright nor too dark.",
+            "An image with an exposure effect is an image that has been deliberately underexposed or overexposed to create a specific visual effect. For example, an underexposed image will appear darker and moodier, while an overexposed image will appear brighter and more washed out.",
+            "Underexposure effect: It's when the camera doesn't receive enough light to correctly expose the image, resulting in a darker image.",
+            "Overexposure effect: It's when the camera receives too much light and the image becomes too bright and washed out."
+          ]
+        },
+        {
+          "What are uses of exposure effect?": [
+            "Creating a specific visual effect: By deliberately underexposing or overexposing an image, a photographer can create a specific visual effect that might not be possible to achieve with a correctly exposed image.",
+            "Highlighting or emphasizing specific areas of an image: By adjusting the exposure of an image, a photographer can emphasize or de-emphasize certain areas of the image.",
+            "Creating a sense of mood or atmosphere: By adjusting the exposure, a photographer can create a sense of mood or atmosphere in an image.",
+            "Improving the composition and balance of an image: By adjusting the exposure, a photographer can improve the composition and balance of an image."
+          ]
+        }
+      ]
+    },
+    "Exposure": "Exposure"
+  },
+  "image-gamma": {
+    "h1": "Change Gamma of images",
+    "h2": "Edit gamma of photos online to optimize light.",
+    "details": {
+      "h3": "How to modify gamma of images online?",
+      "p": [
+        "Change image gamma to modify color saturation of pixels.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to change gamma of.",
+        "Input gamma value. A value close to 0 will darken image while higher value will brighten.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all gammed edited images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is changing gamma of images?": [
+            "Gamma correction, also known as gamma encoding, is a technique used in image processing to adjust the brightness and contrast of an image. The gamma value, also known as the gamma correction factor, controls the relationship between the input and output of an image.",
+            "The gamma value of an image controls the brightness of the mid-tones, or the tones in the middle of the brightness range of an image. A lower gamma value will result in a darker image, while a higher gamma value will result in a brighter image.",
+            "Gamma correction can be used to adjust the overall brightness and contrast of an image, and to correct for the non-linear response of certain displays and printers. It can also be used to adjust the brightness of an image to match the viewing conditions of the image. For example, adjusting the gamma of an image to match the viewing conditions of a room with low light."
+          ]
+        },
+        {
+          "What are uses of changing gamma?": [
+            "Adjusting the overall brightness and contrast of an image",
+            "Correcting for the non-linear response of certain displays and printers",
+            "Adjusting the brightness of an image to match the viewing conditions",
+            "Improving the overall look and feel of an image",
+            "Creating a specific visual effect in an image",
+            "Enhancing the overall quality of an image"
+          ]
+        }
+      ]
+    },
+    "Gamma Value": "Gamma Value"
+  },
+  "image-grayscale": {
+    "h1": "Grayscale image files online for free",
+    "h2": "Convert a color photo into grayscale image",
+    "details": {
+      "h3": "",
+      "p": [
+        "Convert pictures to monochrome (black and white) format.",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to grayscale.",
+        "Preview converted image on the right.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is grayscaling an image?": [
+            "Grayscaling an image is the process of converting a color image to a black and white or grayscale image. This is achieved by converting each pixel in the image from a color value to a single grayscale value, which is typically a value between 0 and 255. The grayscale value represents the brightness of the pixel, with 0 being black and 255 being white."
+          ]
+        },
+        {
+          "What are uses of grayscaling an image?": [
+            "Reducing file size: Grayscale images tend to be smaller in size compared to color images, making them more suitable for certain applications such as email, web, and mobile apps.",
+            "Improving image processing: Grayscale images can be easier to process and analyze than color images, as they only have one channel of information, whereas color images have three channels.",
+            "Creating a specific visual effect: Grayscale images can have a different look and feel than color images, which can be used to create a specific visual effect.",
+            "Enhancing readability: Grayscale images can be easier to read and interpret than color images, especially for people with certain visual impairments.",
+            "Creating a sense of nostalgia or vintage feel: Grayscale images can evoke a sense of nostalgia or vintage feel, which can be used to create a specific visual effect.",
+            "Enhancing the overall quality of an image: By removing the color information, grayscaling can lead to better image quality, since color noise can be removed."
+          ]
+        },
+        {
+          "What is difference between black and white and grascale?": [
+            "Black and white and grayscale refer to different ways of representing images with limited colors.",
+            "Black and white refers to images that use only two colors: black and white. These images typically have a very high contrast, with areas that are completely black and areas that are completely white, with no shades of gray.",
+            "Grayscale, on the other hand, refers to images that use a range of shades of gray to represent different levels of brightness or color. Grayscale images have a much more subtle range of tones, with areas that are very light gray and areas that are very dark gray, and many shades of gray in between.",
+            "Grayscale images are created by converting the color image into a monochrome image. This is done by defining a grayscale value for each color channel, which is determined by the intensity of the color.",
+            "In summary, black and white images only use two colors while grayscale uses a range of shades of gray to represent different levels of brightness or color. Grayscale images are more nuanced and subtle than black and white images, and can convey more information."
+          ]
+        }
+      ]
+    }
+  },
+  "image-hue": {
+    "h1": "Rotate hue of images",
+    "h2": "Shift hue of photos to change colors of a picture online.",
+    "details": {
+      "h3": "How to change hue value of images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to change hue of.",
+        "Input hue rotate value.",
+        "Preview images with changed hue on the right.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is Hue, Saturation & Luminance?": [
+            "Hue, saturation, and luminance (also called brightness) are three aspects of color that are used to describe and manipulate images and video.",
+            "Hue: refers to the dominant wavelength of light that makes up a color. It is often described as the \"color\" of the light, and is typically measured as a value between 0 and 360 degrees on a color wheel. For example, red has a hue of 0 degrees, while purple has a hue of 300 degrees.",
+            "Saturation: refers to the intensity or purity of a color. A fully saturated color is considered to be pure and vivid, while a desaturated color is closer to gray. Saturation is typically measured as a value between 0 and 100%. For example, a fully saturated red has a saturation of 100%, while a desaturated red has a saturation of 50%.",
+            "Luminance: (or brightness) refers to the amount of light that a color reflects. Luminance is typically measured as a value between 0 and 100%. For example, a black color has a luminance of 0%, while a white color has a luminance of 100%."
+          ]
+        },
+        {
+          "What are the uses of changing hue, saturation & luminance?": [
+            "In image and video processing, hue, saturation, and luminance are often used to adjust and manipulate the colors of an image or video. For example, increasing the saturation will make the colors more vivid, while decreasing the saturation will make the colors more muted. Similarly, increasing the luminance will make the image or video brighter, while decreasing the luminance will make it darker."
+          ]
+        }
+      ]
+    },
+    "Hue Rotation Value": "Hue Rotation Value",
+    "Saturation": "Saturation",
+    "Luminance Value": "Luminance Value"
+  },
+  "image-index": {
+    "h1": "View Photos files online for free",
+    "h2": "View PNG, JPG, WEBP, BMP, GIF image easily",
+    "details": {
+      "h3": "How to view images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the pictures you want to view.",
+        "All supported format images will shown along with width and height and file size."
+      ],
+      "p2": [
+        {
+          "What image formats are supported by browsers ?": [
+            "JPEG (.jpg, .jpeg)",
+            "GIF (.gif)",
+            "PNG (.png)",
+            "SVG (.svg)",
+            "WebP (.webp)",
+            "Avif (.avif)",
+            "Ico (.ico)"
+          ]
+        },
+        {
+          "What are some popular image formats?": [
+            "JPEG (Joint Photographic Experts Group): A lossy image format that is widely used for photographs and other images that have a large number of colors. JPEG files are generally smaller in size than other image formats, which makes them ideal for use on the web and in email attachments.",
+            "PNG (Portable Network Graphics): A lossless image format that is widely used for images that require transparent backgrounds or a high level of detail. PNG files are generally larger in size than JPEG files, but they retain more of the original image quality.",
+            "GIF (Graphics Interchange Format): A lossless image format that is widely used for simple graphics and animations. GIF files are limited to a maximum of 256 colors, which makes them less suitable for photographs and other images with a large number of colors.",
+            "BMP (Bitmap): A lossless image format that is widely used for simple graphics and images. BMP files are generally larger in size than other image formats and are not widely used on the web.",
+            "TIFF (Tagged Image File Format): A lossless image format that is widely used for professional-quality images, such as those used in print publications. TIFF files are generally larger in size than other image formats, which makes them less suitable for use on the web.",
+            "SVG (Scalable Vector Graphics): A vector image format that is widely used for simple graphics and icons. SVG images are resolution-independent and can be scaled without losing quality.",
+            "WEBP : A image format that was developed by google, it's a modern format that is both lossy and lossless, and it's smaller in size than JPEG, PNG and GIF.",
+            "HEIF (High Efficiency Image Format): A image format developed by Apple, it's similar to JPEG and HEVC, it's a lossy format and it's smaller in size.",
+            "AVIF (AV1 Image File Format): An open-source image format based on the AV1 video compression standard. It uses intra-frame compression, which means that each frame of an image is compressed individually, resulting in higher image quality than other image formats like JPEG. AVIF is designed for use on the web and it's designed to be more efficient than JPEG, in terms of file size and quality.",
+            "JXL (JPEG eXtended Range): An open-source image format that was developed by the Joint Photographic Experts Group (JPEG). It is designed to be an improved version of the JPEG format, offering better compression and improved image quality. JPEG XL uses both intra-frame and inter-frame compression, which means that it can achieve smaller file sizes than JPEG while maintaining similar image quality."
+          ]
+        }
+      ]
+    }
+  },
+  "image-ink": {
+    "h1": "Apply Ink Effect to images",
+    "h2": "Apply Ink effect to photos online.",
+    "details": {
+      "h3": "How to apply Ink effect to images online?",
+      "p": [
+        "outlining the image in ink by darkening edges stronger.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply ink effect to.",
+        "Enter strength The multiplicative scale of the ink edges. Values in the range 0 to 1 are usually sufficient, where 0 doesn't change the image and 1 adds lots of black edges. Negative strength values will create white ink edges instead of black ones.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all ink effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is ink effect?": [
+            "Ink effect, also known as ink wash or sumi-e effect, is a technique used in image editing to create a hand-drawn or painted look on digital images. The effect is achieved by simulating the texture and variations of ink on paper, and can be used to create a sense of movement or brushstrokes in an image."
+          ]
+        },
+        {
+          "What are uses of applying ink effect?": [
+            "Creating a specific visual effect: Ink effects can be used to create a hand-drawn or painted look on digital images, which can be used to create a specific visual effect.",
+            "Enhancing the overall look and feel of an image: Ink effects can be used to add a sense of movement or brushstrokes to an image, which can enhance the overall look and feel of an image.",
+            "Creating a sense of nostalgia or vintage feel: Ink effects can evoke a sense of nostalgia or vintage feel, which can be used to create a specific visual effect.",
+            "Creating a sense of traditional art: Ink effects can be used to create a sense of traditional art, such as in the case of Chinese ink painting (sumi-e) or Japanese ink painting (sumi-e)",
+            "Adding a personal touch to an image: Ink effects can be used to add a personal touch to an image, by creating a sense of movement or brushstrokes that are unique to the artist."
+          ]
+        },
+        {
+          "What is the difference between oil effect and ink effect?": [
+            "In summary the oil effect creates an illusion of oil paint texture, brush strokes and palette knife marks, while the ink effect create an illusion of sketchiness, texture, and style of ink painting. Both can be used to alter the visual appearance of an image, but they are based on different mediums and achieve different results."
+          ]
+        }
+      ]
+    },
+    "Ink Strength": "Ink Strength"
+  },
+  "image-invert-color": {
+    "h1": "Invert pixel color of images",
+    "h2": "Invert color of each pixel in a photo.",
+    "details": {
+      "h3": "How to invert color of images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to invert color of.",
+        "Preview inverted color photo on the right.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What are the uses of inverting pixel color": [
+            "Creating a negative image: Inverting the pixel colors of an image creates a negative image, which is the opposite of the original image in terms of colors. This can be used to create a unique and interesting effect in photography and graphic design.",
+            "Image processing: Inverting the pixel colors of an image can be used in image processing tasks such as image thresholding, which is used to separate the foreground and background of an image.",
+            "Enhancing visibility: Inverting the pixel colors of an image can be used to enhance visibility of certain features, such as in medical imaging to increase contrast and make details more visible.",
+            "Making black and white images: Inverting the pixel colors can be used to make an image black and white.",
+            "Creating a mirror image: Inverting the pixel colors can be used to create a mirror image of the original image.",
+            "Color manipulation: Inverting the pixel colors can be used in color manipulation tasks such as color inversion and color keying, which are commonly used in video editing and compositing.",
+            "Creating special effects: Inverting the pixel colors can be used to create special effects in photography and graphic design, such as creating a dreamy or surreal look."
+          ]
+        }
+      ]
+    }
+  },
+  "image-join": {
+    "h1": "Join multiple images into one",
+    "h2": "Join multiple photos into one large vertical or horizontal image.",
+    "details": {
+      "h3": "How to join multiple images into one?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to merge.",
+        "Choose join direction i.e. Horizontal or Vertical.",
+        "Click convert & download joined image."
+      ],
+      "p2": [
+        {
+          "What is joining images?": [
+            "Joining images, also known as image stitching or panorama stitching, is the process of combining multiple images together to create a single, seamless image. This is typically done by overlapping two or more images and aligning them so that they match up perfectly, creating a final image that has a wider field of view or higher resolution than any of the individual images."
+          ]
+        },
+        {
+          "What are uses of joining images?": [
+            "Creating panoramic images: Joining multiple images together can be used to create panoramic images, which have a wider field of view than any of the individual images.",
+            "Increasing image resolution: Joining multiple images together can be used to increase the resolution of an image, by combining multiple images of the same scene taken at different zoom levels or with different cameras.",
+            "Creating composite images: Joining multiple images together can be used to create composite images, which combine elements from multiple images into a single image.",
+            "Creating a sense of motion: Joining multiple images together can be used to create a sense of motion, such as in the case of time-lapse or stop-motion animation.",
+            "Creating a 3D image: Joining multiple images together can be used to create 3D images, by combining multiple images of the same scene taken from different angles."
+          ]
+        }
+      ]
+    },
+    "Direction": "Direction",
+    "Vertical": "Vertical",
+    "Horizontal": "Horizontal",
+    "Background Color": "Background Color"
+  },
+  "image-kaleidoscope": {
+    "h1": "Apply Kaleidoscope Effect to images",
+    "h2": "Apply Kaleidoscope effect to photos online.",
+    "details": {
+      "h3": "How to apply Kaleidoscope effect to images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply Kaleidoscope effect to.",
+        "Enter horizontal and vertical position, along with angle, rotation and sides.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all Kaleidoscope effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is kaleidoscope effect?": [
+            "Kaleidoscope effect is a technique used in image editing to create a symmetrical, repeating pattern of an image. The effect is achieved by reflecting and rotating an image multiple times, creating a pattern that resembles a kaleidoscope."
+          ]
+        },
+        {
+          "What are uses of kaleidoscope effect?": [
+            "Creating a decorative effect: The kaleidoscope effect can be used to create a decorative, symmetrical pattern on an image, which can be used as a design element in various types of art, graphic design, and photography.",
+            "Creating a sense of movement: The kaleidoscope effect can be used to create a sense of movement in an image, by reflecting and rotating the image multiple times.",
+            "Creating a sense of optical illusion: The kaleidoscope effect can create an optical illusion by making an image appear as if it is moving or repeating itself.",
+            "Creating a sense of mirroring: The kaleidoscope effect can be used to create a sense of mirroring in an image, by reflecting and rotating the image multiple times.",
+            "Creating a sense of symmetry: The kaleidoscope effect can be used to create a sense of symmetry in an image, by reflecting and rotating the image multiple times."
+          ]
+        }
+      ]
+    },
+    "Horizontal Position": "Horizontal Position",
+    "Vertical Position": "Vertical Position",
+    "Sides": "Sides",
+    "Rotation": "Rotation",
+    "Angle": "Angle"
+  },
+  "image-lens-blur": {
+    "h1": "Apply Lens Blur / Bokeh Effect to images",
+    "h2": "Apply Lens Blur or Bokeh effect to photos online.",
+    "details": {
+      "h3": "How to apply Lens Blur effect to images online?",
+      "p": [
+        "Imitates a camera capturing the image out of focus by using a blur that generates the large shapes known as bokeh.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply lensBlur effect to.",
+        "Enter radius the radius of the blur",
+        "Enter brightness -1 to 1 (the brightness of the bokeh, negative values will create dark bokeh)",
+        "Enter angle the rotation of the bokeh in radians.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all lens blur effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is lens blur effect?": [
+            "The lens blur effect is a technique used in image editing to simulate the effect of shallow depth of field in a photograph. This effect can be achieved by blurring the background of an image while keeping the subject of the image in focus."
+          ]
+        },
+        {
+          "What are uses of lens blur effect?": [
+            "Emphasizing the subject of an image: By blurring the background of an image and keeping the subject in focus, the lens blur effect can be used to draw attention to the subject of the image, making it stand out from the background.",
+            "Creating a sense of depth in an image: The lens blur effect can be used to create a sense of depth in an image, by simulating the shallow depth of field that can be achieved with a camera lens.",
+            "Removing background distractions: The lens blur effect can be used to remove distracting elements in the background of an image, by blurring them out and keeping the subject in focus.",
+            "Creating a sense of motion: The lens blur effect can be used to create a sense of motion in an image, by blurring the background and keeping the subject in focus.",
+            "Creating a sense of realism: The lens blur effect can be used to create a sense of realism in an image, by simulating the shallow depth of field that can be achieved with a camera lens."
+          ]
+        }
+      ]
+    },
+    "Angle": "Angle",
+    "Brightness": "Brightness",
+    "Lens Blur Radius": "Lens Blur Radius"
+  },
+  "image-mirror": {
+    "h1": "Mirror Image Maker",
+    "h2": "Make mirror image of a photo online either horizontally or vertically.",
+    "details": {
+      "h3": "How to make mirror images",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to make mirror image from.",
+        "Choose horizontal or vertical option.",
+        "Preview image on the right.",
+        "Click convert & download mirror images."
+      ],
+      "p2": [
+        {
+          "What is image mirror effect?": [
+            "The image mirror effect is a technique used in image editing to create a mirror image of an original image. The effect is achieved by reflecting the image across a vertical or horizontal axis or both."
+          ]
+        },
+        {
+          "What are uses of mirror image effect?": [
+            "Creating a sense of symmetry: The image mirror effect can be used to create a sense of symmetry in an image, by reflecting the image across a vertical or horizontal axis.",
+            "Creating a sense of movement: The image mirror effect can be used to create a sense of movement in an image, by reflecting the image across a vertical or horizontal axis.",
+            "Creating a sense of optical illusion: The image mirror effect can create an optical illusion by making an image appear as if it is moving or repeating itself.",
+            "Creating a sense of reflection: The image mirror effect can be used to create a sense of reflection in an image, by reflecting the image across a vertical or horizontal axis.",
+            "Creating a sense of mirroring: The image mirror effect can be used to create a sense of mirroring in an image, by reflecting the image across a vertical or horizontal axis."
+          ]
+        }
+      ]
+    },
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical"
+  },
+  "image-noise": {
+    "h1": "Apply Noise Effect to images",
+    "h2": "Apply Noise effect to photos online.",
+    "details": {
+      "h3": "How to apply Noise effect to images online?",
+      "p": [
+        "Adds black and white noise to the image.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply noise effect to.",
+        "Enter amount 0 to 1 (0 for no effect, 1 for maximum noise).",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all noise effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is noise effect?": [
+            "The noise effect is a technique used in image editing to add random variations of brightness and color to an image, simulating the appearance of film grain or electronic noise."
+          ]
+        },
+        {
+          "What are uses of noise effect?": [
+            "Adding texture to an image: The noise effect can be used to add texture to an image, by simulating the appearance of film grain or electronic noise.",
+            "Creating a sense of age: The noise effect can be used to create a sense of age in an image, by simulating the appearance of film grain or electronic noise that can occur in older photographs or videos.",
+            "Creating a sense of motion: The noise effect can be used to create a sense of motion in an image, by simulating the appearance of film grain or electronic noise that can occur when capturing fast-moving subjects.",
+            "Creating a sense of realism: The noise effect can be used to create a sense of realism in an image, by simulating the appearance of film grain or electronic noise that can occur in real-world images.",
+            "Creating a sense of style: The noise effect can be used to create a sense of style in an image, by simulating the appearance of film grain or electronic noise that can be used as a creative effect."
+          ]
+        }
+      ]
+    },
+    "Noise Amount": "Noise Amount"
+  },
+  "image-oil": {
+    "h1": "Apply Oil Effect to images",
+    "h2": "Apply oil effect to photos online.",
+    "details": {
+      "h3": "How to apply oil effect to images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply oil effect to.",
+        "Input range value between 1 and 5.",
+        "Input level value between 1 and 256.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all oil effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is oil effect?": [
+            "The oil effect, also known as the oil paint effect, is a technique used in image editing to give an image the appearance of being painted with oils."
+          ]
+        },
+        {
+          "What are uses of oil effect?": [
+            "Creating a sense of artistry: The oil effect can be used to give an image the appearance of being painted with oils, which can create a sense of artistry and creativity.",
+            "Creating a sense of texture: The oil effect can be used to create a sense of texture in an image, by simulating the brushstrokes and palette knife marks that are characteristic of oil paintings.",
+            "Creating a sense of depth: The oil effect can be used to create a sense of depth in an image, by simulating the layering and blending of oils that can occur in oil paintings.",
+            "Creating a sense of age: The oil effect can be used to create a sense of age in an image, by simulating the yellowing and cracking that can occur in oil paintings over time.",
+            "Creating a sense of style: The oil effect can be used to create a sense of style in an image, by simulating the brushstrokes and palette knife marks that are characteristic of certain oil painting styles."
+          ]
+        },
+        {
+          "What is the difference between oil effect and ink effect?": [
+            "The oil effect creates an illusion of oil paint texture, brush strokes and palette knife marks, while the ink effect create an illusion of sketchiness, texture, and style of ink painting. Both can be used to alter the visual appearance of an image, but they are based on different mediums and achieve different results."
+          ]
+        }
+      ]
+    },
+    "Range Value": "Range Value",
+    "Levels": "Levels"
+  },
+  "image-pattern": {
+    "h1": "Image Pattern Maker",
+    "h2": "Make pattern from a photo to generate background images.",
+    "details": {
+      "h3": "How to make pattern image.",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to make pattern from",
+        "Choose options like repeat, width, height etc.",
+        "Click convert & download pattern images."
+      ],
+      "p2": [
+        {
+          "What is image pattern maker?": [
+            "An image pattern maker is a tool or software that allows you to create repeating patterns from an image. The tool takes an image and generates a tiling pattern that can be repeated seamlessly, allowing you to create backgrounds, textiles, wallpapers, and other designs.",
+            "The process usually involves selecting an area of the image to use as the pattern and then adjusting the size, orientation, and colors as needed. Some tools may also offer additional features such as the ability to rotate, flip, or mirror the pattern, or to apply different effects to the pattern. The resulting pattern can be saved in a variety of image file formats and then used in a wide range of design projects."
+          ]
+        },
+        {
+          "What are the uses of image pattern maker?": [
+            "Backgrounds: Image patterns can be used to create interesting and unique backgrounds for websites, presentations, and other digital projects.",
+            "Textiles: Image patterns can be used to create textile designs for fabrics, clothing, and other textiles.",
+            "Wallpapers: Image patterns can be used to create custom wallpapers for desktop, mobile, and other devices.",
+            "Graphic design: Image patterns can be used in graphic design projects to create unique visual elements such as logos, icons, and illustrations.",
+            "Marketing and branding: Image patterns can be used in marketing and branding materials such as brochures, business cards, and packaging to create a consistent and recognizable look.",
+            "Scrapbooking and crafts: Image patterns can be used in scrapbooking and other craft projects to add a personal touch and unique design.",
+            "Interior design: Image patterns can be used to create unique designs for home decor such as curtains, cushions, and wallpaper.",
+            "Photography: Image patterns can be used to create interesting and unique photo effects."
+          ]
+        }
+      ]
+    },
+    "Width": "Width",
+    "Height": "Height",
+    "Repeat": "Repeat",
+    "Repeat X": "Repeat X",
+    "Repeat Y": "Repeat Y",
+    "No Repeat": "No Repeat"
+  },
+  "image-perspective": {
+    "h1": "Apply Perspective change Effect to images",
+    "h2": "Apply Perspective change effect to photos online.",
+    "details": {
+      "h3": "How to apply Perspective effect to images online?",
+      "p": [
+        "Does a perspective transform. This can be used to make a 2D image look 3D or to recover a 2D image captured in a 3D environment.",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply perspective change effect to.",
+        "Enter centerX The x coordinate of the pattern origin.",
+        "Enter centerY The y coordinate of the pattern origin.",
+        "Enter angle The rotation of the pattern in degrees.",
+        "Enter size The diameter of a dot in pixels.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all perspective effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is perspective change effect?": [
+            "The perspective change effect in images refers to the process of altering the perceived depth of an image by changing the position of the camera or the angle of view. This can be achieved by manipulating the image using image editing software or by physically moving the camera."
+          ]
+        },
+        {
+          "What are different types of perspective change effect?": [
+            "Perspective distortion: This effect is achieved by manipulating the image to make it appear as if the image is viewed from an angle different than the one it was actually taken from.",
+            "Tilt-shift: This effect is used to change the perceived depth of an image by blurring parts of the image to create the illusion of a miniature scene.",
+            "Fish-eye: This effect is used to create a distorted, wide-angle view of the image, often used to create a sense of movement or action in the image.",
+            "Converging lines: This effect is used to create the illusion of depth by manipulating the lines in the image to converge towards a point."
+          ]
+        },
+        {
+          "What are uses of perspective change effect?": [
+            "Photography: Changing the perspective of an image can help create more dynamic and interesting compositions. It can also be used to exaggerate the sense of depth and distance in a scene.",
+            "Advertising: By manipulating the perspective of an image, advertisers can draw attention to specific parts of an image and create a sense of movement or action.",
+            "Graphic Design: Changing the perspective of an image can be used to create interesting and unique layouts and designs.",
+            "Architecture and Interior Design: Perspective change effect can be used to showcase the design of a building or interior space in a more engaging and informative way.",
+            "Film and Video Production: Film and video producers use perspective change effect to create the illusion of movement and to convey a sense of distance and depth in a scene.",
+            "Cartography: Changing the perspective of an image in cartography can be used to create more accurate and informative maps."
+          ]
+        }
+      ]
+    },
+    "Horizontal Start (%)": "Horizontal Start (%)",
+    "Vertical Start (%)": "Vertical Start (%)",
+    "Horizontal End (%)": "Horizontal End (%)",
+    "Vertical End (%)": "Vertical End (%)",
+    "Blur Radius": "Blur Radius",
+    "Gradient Radius": "Gradient Radius"
+  },
+  "image-pixelate": {
+    "h1": "Pixelate image files online",
+    "h2": "Pixelate photos online to hide or censor part of the image.",
+    "details": {
+      "h3": "How to pixelate images online?",
+      "p": [
+        "Image Pixelator to make pixel art or center part of an image."
+      ],
+      "li": [
+        "Add all the images you want to pixelate.",
+        "Choose pixel block size.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is pixelating an image?": [
+            "Pixelating an image refers to the process of breaking down an image into small, square-shaped blocks called pixels. The effect makes the image appear more pixelated, meaning that the individual pixels become more visible and the overall image becomes less detailed and less sharp. This process can be used to blur out sensitive information or to create an interesting visual effect in an image."
+          ]
+        },
+        {
+          "What is the use of pixelating an image?": [
+            "Obscuring sensitive information: Pixelating can be used to blur out faces, license plates, or other sensitive information in photos or videos.",
+            "Stylistic effect: It can be used as a creative effect in graphic design and digital art, giving images a more retro or low-resolution look.",
+            "File size reduction: Pixelating can be used to reduce the file size of an image, making it less resource-intensive and easier to use online or in mobile apps.",
+            "Video compression: Pixelating can be used in video compression to save space and bandwidth while keeping the video quality intact.",
+            "Data privacy: It can be used to obscure sensitive data in images, such as credit card numbers, addresses, or other personal information, to protect the privacy of individuals.",
+            "Motion blur: It can be used to blur out moving objects or people in video editing.",
+            "Game or mobile app design: Pixelating can be used as a stylistic effect in game or mobile app design, giving the images an 8-bit or 16-bit look."
+          ]
+        },
+        {
+          "What is the difference between blurring and pixelating an image?": [
+            "Blurring and pixelating are two different techniques used to obscure or conceal details in an image.",
+            "Blurring is a technique that uses a blur filter to spread out the pixels of an image, resulting in a softened or hazy appearance. The goal of blurring is to obscure details while maintaining a relatively natural and smooth overall look. This can be achieved by applying different types of blur filter like Gaussian blur, motion blur, box blur, etc.",
+            "Pixelating, on the other hand, is a technique that replaces small regions of pixels with larger, more coarse pixels. This results in a more blocky or pixelated appearance, where fine details are replaced by larger, more obvious squares of color. The goal of pixelating is to conceal or obscure details by making them less visible or recognizable. This is often used to obscure faces, license plates, or other sensitive information in an image.",
+            "In summary, blurring is used to soften the edges of an image and make it less sharp, while pixelating is used to make an image more blocky and obscure the details by replacing them with larger pixels. Blurring aims to retain the natural look of the image while pixelating aims to make the image less recognizable or less detailed."
+          ]
+        }
+      ]
+    },
+    "Pixel Block Size": "Pixel Block Size"
+  },
+  "image-posterize": {
+    "h1": "Apply Posterize Effect to images",
+    "h2": "Apply posterize effect to photos online.",
+    "details": {
+      "h3": "How to apply posterize effect to images online?",
+      "li": [
+        "Add all the images you want to apply posterize effect to.",
+        "Input level value between 2 and 32.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all posterized applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is posterize effect?": [
+            "Posterize effect, also known as posterization, is a technique used to reduce the number of colors in an image. This effect can be applied to photographs, digital images, or artwork to create a simplified, more stylized look. It is often used to create a more artistic or retro look to an image, or to make it appear more like a comic book or cartoon. The posterize effect is also used in graphic design and illustration to create a specific aesthetic or to emphasize certain features of an image."
+          ]
+        },
+        {
+          "What are the uses of posterize effect?": [
+            "Graphic Design: Posterize effect can be used to create a specific aesthetic in graphic design and branding, such as a retro or vintage look.",
+            "Illustration: Posterize effect can be used to make illustrations look more stylized and cartoon-like.",
+            "Photography: Posterize effect can be used to create a more artistic or abstract look to a photograph.",
+            "Digital Art: Posterize effect can be used in digital art to create a specific look or to emphasize certain features of an image.",
+            "Web design: Posterize effect can be used to create simple and iconic images for website design and user interface.",
+            "Animation: Posterize effect can be used in animation to create a more stylized and cartoon-like look to characters and backgrounds.",
+            "Print media: Posterize effect can be used in print media to create a specific look for a book, poster, or magazine cover."
+          ]
+        }
+      ]
+    },
+    "Levels": "Levels"
+  },
+  "image-rainbow": {
+    "h1": "Apply Rainbow Effect to images",
+    "h2": "Apply Rainbow effect to photos online.",
+    "details": {
+      "h3": "How to apply Rainbow effect to images online?",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply rainbow effect to.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all rainbow effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is rainbow effect?": [
+            "The rainbow effect is a technique used in image editing and manipulation to add a rainbow-like effect to an image. It is typically achieved by using a combination of color filters, blending modes, and color adjustment tools. The effect can be used to add a sense of movement or depth to an image, or to create a more visually interesting and dynamic image. It can also be used to create a dreamy or surreal effect."
+          ]
+        },
+        {
+          "What are the uses of rainbow effect?": [
+            "Adding a sense of movement or depth to an image, such as in landscape photography or sports photography.",
+            "Creating a more visually interesting and dynamic image, such as in abstract art or graphic design.",
+            "Creating a dreamy or surreal effect, such as in fashion photography or fine art photography.",
+            "Enhancing the overall aesthetic appeal of an image, such as in advertising or product photography.",
+            "Creating a certain mood or atmosphere in an image, such as in concert photography or music videos.",
+            "Highlighting certain features or elements in an image, such as in architectural photography or interior design.",
+            "Creating a vintage or retro feel, such as in film posters or album covers."
+          ]
+        }
+      ]
+    }
+  },
+  "image-remove-background": {
+    "h1": "Remove background in an image",
+    "h2": "Remove a background color or photo to make transparent background image",
+    "details": {
+      "h3": "How to remove background color",
+      "p": [
+        "Using background remover tool, you can make transparent images."
+      ],
+      "li": [
+        "Add all the images you want to remove background color from.",
+        "Choose a background color or image to erase.",
+        "Click download or Download all to download all images with no background."
+      ],
+      "p2": [
+        {
+          "What is removing background in an image?": [
+            "Removing background color in an image refers to the process of removing a specific color or range of colors from an image. This can be done manually, using image editing software, or automatically using image processing algorithms. The resulting image will have the designated color(s) removed, revealing what is beneath it."
+          ]
+        },
+        {
+          "What are the uses of removing background color in an image?": [
+            "One of the main uses is to isolate the subject of the image, making it easier to edit or manipulate. This can be useful in graphic design, product photography, and photo editing, as it allows you to remove any unwanted elements or distractions from the image.",
+            "Additionally, removing the background color can also help to enhance the overall composition or visual impact of the image.",
+            "It can also be used to make the image transparent and use in other applications."
+          ]
+        }
+      ]
+    },
+    "Background Color": "Background Color",
+    "Threshold": "Threshold"
+  },
+  "image-resize": {
+    "h1": "Resize image files online",
+    "h2": "Resize image dimensions to increase or decrease resolution.",
+    "details": {
+      "h3": "",
+      "p": [
+        "Using image resizer tool, you can change size, dimension for Facebook cover, passport photo etc.",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to resize.",
+        "Enter the desired width or height or both.",
+        "To maintain aspect ratio, only set height or width.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is resizing an image?": [
+            "Resizing an image refers to the process of changing the dimensions of an image, either by increasing or decreasing the size of the image. This can be done by adjusting the width and height of the image, or by changing the resolution of the image. "
+          ]
+        },
+        {
+          "What are the uses of resizing an image?": [
+            "Fitting an image into a specific space on a website or document",
+            "Making an image smaller to reduce load times when displaying it on a website or in an email",
+            "Making an image larger to fit a specific print size or for display on a larger screen",
+            "Changing the aspect ratio of an image to suit a particular composition or frame",
+            "Changing the resolution of an image for a specific printing or display purpose",
+            "Creating different versions of an image with different sizes for different uses."
+          ]
+        }
+      ]
+    },
+    "To maintain aspect ratio, enter either desired width or height.": "To maintain aspect ratio, enter either desired width or height.",
+    "Width": "Width",
+    "Height": "Height"
+  },
+  "image-ripple": {
+    "h1": "Apply Ripple Effects to images",
+    "h2": "Apply Water, Triangle, Sine, Sawtooth Ripple effect to photos online.",
+    "details": {
+      "h3": "How to apply Water, Triangle, Sine, Sawtooth Ripple effect to images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply ripple effect to.",
+        "For water ripples, enter horizontal and vertical position, along with radius, amplitude, phase and wavelength.",
+        "For other ripple effects, enter x and y axis amplitude and wavelength.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all ripple effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is ripple effect?": [
+            "The ripple effect, also known as the wave effect, is a graphical effect that simulates the appearance of ripples or waves on the surface of water. "
+          ]
+        },
+        {
+          "What are the uses of ripple effect in images?": [
+            "It can be used to create a sense of movement or fluidity in an image.",
+            "It can also be used to add an interesting visual element to an image, such as in abstract art or digital manipulation. The ripple effect can be applied to both still images and videos.",
+            "In addition, it can be used in the field of graphic design, advertising, and animation."
+          ]
+        }
+      ]
+    },
+    "Ripple Type": "Ripple Type",
+    "Water": "Water",
+    "Sine": "Sine",
+    "Triangle": "Triangle",
+    "Sawtooth": "Sawtooth",
+    "Horizontal Position": "Horizontal Position",
+    "Vertical Position": "Vertical Position",
+    "Radius": "Radius",
+    "Amplitude": "Amplitude",
+    "Phase": "Phase",
+    "Wavelength": "Wavelength",
+    "X Amplitude": "X Amplitude",
+    "Y Amplitude": "Y Amplitude",
+    "X Wavelength": "X Wavelength",
+    "Y Wavelength": "Y Wavelength"
+  },
+  "image-rotate": {
+    "h1": "Rotate Images Online",
+    "h2": "Rotate photos online easily between 0 and 360 degrees.",
+    "details": {
+      "h3": "How to rotate image by an angle.",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to rotate.",
+        "Choose rotation angle in degree.",
+        "For image formats with no transparency support like jpg, choose a background color.",
+        "Click download to save rotated image."
+      ],
+      "p2": [
+        {
+          "What is rotating an image?": [
+            "Rotating an image is the process of turning the image by a certain angle, typically measured in degrees, clockwise or counterclockwise."
+          ]
+        },
+        {
+          "What are the uses of rotating an image?": [
+            "Changing the orientation of the image.",
+            "Adjusting the composition of the image.",
+            "Creating a sense of movement or dynamism in the image.",
+            "Fixing image that was captured at an angle.",
+            "Creating a mirrored or symmetrical effect in the image.",
+            "Creating a panoramic image by stitching multiple rotated images together.",
+            "Enhancing the overall aesthetics of the image.",
+            "Removing distortion caused by camera angle.",
+            "Preparing images for specific uses such as portrait or landscape oriented print or digital media.",
+            "Creating a 3D effect by rotating the image in different angles."
+          ]
+        }
+      ]
+    },
+    "Background Color": "Background Color",
+    "Angle": "Angle"
+  },
+  "image-saturate": {
+    "h1": "Apply Saturate Effect to images",
+    "h2": "Apply Saturate effect to photos online.",
+    "details": {
+      "h3": "How to apply Saturate effect to images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply saturate effect to.",
+        "Enter saturation amount between 0 and 2.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all saturate effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is saturate effect?": [
+            "The saturate effect is a image editing technique that increases the intensity of colors in an image. This can be used to make the image appear more vibrant or to emphasize certain colors in the image. The saturation level can be adjusted to achieve the desired effect."
+          ]
+        },
+        {
+          "What are the uses of saturate effect?": [
+            "Enhancing the overall color and vibrancy of an image.",
+            "Making colors in an image more vivid and intense.",
+            "Adjusting the balance of colors in an image.",
+            "Creating a specific mood or atmosphere in an image.",
+            "Matching the colors of an image to a particular style or aesthetic.",
+            "Adjusting the saturation levels to match the output device or medium.",
+            "Emphasizing or de-emphasizing certain colors or color ranges in an image.",
+            "Creating a stylized or artistic look for an image."
+          ]
+        }
+      ]
+    },
+    "Amount": "Amount"
+  },
+  "image-sepia": {
+    "h1": "Apply Sepia effect on image files online for free",
+    "h2": "Convert a color photo into sepia effect image",
+    "details": {
+      "h3": "How to apply Sepia filter images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply sepia effect.",
+        "Preview converted image on the right.",
+        "Download image individually using Download button.",
+        "Download all sepia images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is sepia effect?": [
+            "The sepia effect is a photo editing technique used to give an image a warm, vintage look. It is typically achieved by desaturating the colors in the image and adding a brown or yellow tint."
+          ]
+        },
+        {
+          "What are the uses of sepia effect?": [
+            "Creating a vintage or old-fashioned look in photographs.",
+            "Enhancing the warmth and nostalgia of a photograph.",
+            "Adding a unique touch to portraits or landscapes.",
+            "Creating a consistent visual style for a project or brand.",
+            "Creating a cohesive look for a set of photographs.",
+            "Adding a distinct visual interest to an otherwise plain image.",
+            "Creating a romantic or dreamy look in photographs.",
+            "Separating subject from background in certain images.",
+            "Creating a cohesive look for a set of photographs.",
+            "Creating a distinct look for a project or brand."
+          ]
+        }
+      ]
+    }
+  },
+  "image-sharpen": {
+    "h1": "Sharpen image files online",
+    "h2": "Sharpen photos online to increase quality and make it less blurry.",
+    "details": {
+      "h3": "How to sharpen images online?",
+      "p": [
+        "Increase or decrease sharpness of an image to make text readable or less blurry.",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to sharpen.",
+        "Choose sharpness factor between 1 and 10.",
+        "Download image individually using Download button.",
+        "Download all sharpen images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is sharpening an image?": [
+            "Sharpening an image is a process that increases the level of detail and clarity in an image. This can be done by increasing the contrast of edges and other fine details in the image. The process can be done digitally by using software that applies a sharpening filter, or it can be done physically by adjusting the focus or aperture of the camera lens used to capture the image. The main use of sharpening effect is to make the image appear more crisp and defined."
+          ]
+        },
+        {
+          "What are the uses of sharpening an image?": [
+            "Improving the clarity and definition of an image, making it more visually appealing.",
+            "Enhancing the details in an image, making it easier to see small details or text.",
+            "Removing blurriness from an image, making it appear more in focus.",
+            "Increasing the perceived sharpness of an image, making it appear more professional.",
+            "Preparing an image for further editing or manipulation.",
+            "Enhancing the overall visual appearance of the image.",
+            "Making the image more suitable for printing or displaying on high resolution devices."
+          ]
+        }
+      ]
+    },
+    "Factor": "Factor"
+  },
+  "image-shift": {
+    "h1": "Shift image by pixels",
+    "h2": "How to shift images vertically or horizontally.",
+    "details": {
+      "h3": "How to shift images.",
+      "p": [
+        "Shift photo vertically or horizontally by desired pixels."
+      ],
+      "li": [
+        "Add all the images you want to shift",
+        "Enter desired vertical and horizontal shift in pixels.",
+        "You can preview shifted image on the right.",
+        "Download individual image using Donwload button.",
+        "Click Download all button to save all shifted images with same settings."
+      ],
+      "p2": [
+        {
+          "What is shifting an image?": [
+            "Shifting an image refers to the process of moving the image horizontally or vertically by a certain number of pixels."
+          ]
+        },
+        {
+          "What are the uses of shifting an image?": [
+            "Adjusting the composition of the image by moving elements within the frame",
+            "Creating parallax effects in animation or video",
+            "Correcting for misalignment or camera movement during image capture",
+            "Creating a panorama by shifting and stitching multiple images together",
+            "Creating a mirror image by shifting it by half its width or height."
+          ]
+        }
+      ]
+    },
+    "Vertical": "Vertical",
+    "Horizontal": "Horizontal"
+  },
+  "image-skew": {
+    "h1": "Skew Images Online",
+    "h2": "Skew images horizontally or vertically by any angle.",
+    "details": {
+      "h3": "How to skew image.",
+      "p": [
+        "Skew a photo in vertical or horizontal direction by an desired angle.",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to skew.",
+        "Choose between horizontal and vertical skew and enter angle.",
+        "Choose background color for image formats without transparency like .jpg.",
+        "Preview images on the right and Download.",
+        "Click on Download All button to save all images with same settings."
+      ],
+      "p2": [
+        {
+          "What is skewing an image?": [
+            "Skewing an image is a process of distorting it by tilting or slanting it in a certain direction."
+          ]
+        },
+        {
+          "What are the uses of skewing an image?": [
+            "Creating a sense of movement or direction.",
+            "Adjusting the composition of an image",
+            "Creating a sense of depth or perspective.",
+            "It can also be used to correct distorted images or to create a specific visual effect.",
+            "Skewing can also be used to align text or other elements in an image."
+          ]
+        }
+      ]
+    },
+    "Background Color": "Background Color",
+    "Vertical Skew": "Vertical Skew",
+    "Value": "Value",
+    "Horizontal Skew": "Horizontal Skew",
+    "Skew Direction": "Skew Direction"
+  },
+  "image-smear": {
+    "h1": "Apply Smear Effect to images",
+    "h2": "Apply Smear effect to photos online.",
+    "details": {
+      "h3": "How to apply Smear effect to images online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply Smear effect to.",
+        "Choose type of smear like Circle, Square, Line and Square.",
+        "Choose options like size, distance, desity, mix etc.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all smear effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is smear effect": [
+            "The smear effect is a type of image manipulation that simulates smudging or smearing the pixels in an image."
+          ]
+        },
+        {
+          "What are the uses of smear effect?": [
+            "Creating an artistic and impressionistic look to an image",
+            "Emulating a smudged or smeared paint effect",
+            "Creating a sense of motion or movement in an image",
+            "Enhancing the texture and depth of an image",
+            "Adding a dreamy or surreal quality to an image",
+            "Creating a sense of chaos or disorder in an image",
+            "Concealing or obscuring certain areas of an image",
+            "Creating a sense of fluidity or liquidity in an image",
+            "Creating a sense of movement or flow in an image.",
+            "Creating a sense of dirt or grime on an image."
+          ]
+        }
+      ]
+    },
+    "Smear Type": "Smear Type",
+    "Square": "Square",
+    "Circle": "Circle",
+    "Cross": "Cross",
+    "Line": "Line",
+    "Density": "Density",
+    "Distance": "Distance",
+    "Size": "Size",
+    "Angle": "Angle",
+    "Mix": "Mix"
+  },
+  "image-sobel": {
+    "h1": "Apply Sobel Effect to images",
+    "h2": "Apply Sobel effect to photos online.",
+    "details": {
+      "h3": "How to apply Sobel effect to images online?",
+      "li": [
+        "Add all the images you want to apply sobel effect to.",
+        "Enter values for sobel strength and coefficient and other color channels for sobel line and strength.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all sobel effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is sobel effect?": [
+            "The Sobel effect is a type of image processing that is used to detect edges in an image. It works by convolving the image with a Sobel kernel, which is a small matrix that is used to calculate the gradient of the image. The Sobel effect is often used in image recognition and computer vision applications to enhance the edges of an image, making it easier to detect features and patterns in the image."
+          ]
+        },
+        {
+          "What are the uses of sobel effect?": [
+            "Image segmentation",
+            "Object recognition",
+            "Feature detection",
+            "Motion estimation",
+            "Image stabilization",
+            "Depth perception in 3D images",
+            "Automated inspection of machine parts or materials",
+            "Computer vision and image processing applications."
+          ]
+        }
+      ]
+    },
+    "Sobel Strength": "Sobel Strength",
+    "Sobel strength Coefficient": "Sobel strength Coefficient",
+    "Alpha": "Alpha",
+    "Red channel color of the sobel line": "Red channel color of the sobel line",
+    "Green channel color of the sobel line": "Green channel color of the sobel line",
+    "Blue channel color of the sobel line": "Blue channel color of the sobel line",
+    "Alpha channel color of the sobel line": "Alpha channel color of the sobel line",
+    "Red channel color of the sobel area": "Red channel color of the sobel area",
+    "Green channel color of the sobel area": "Green channel color of the sobel area",
+    "Blue channel color of the sobel area": "Blue channel color of the sobel area",
+    "Alpha channel color of the sobel area": "Alpha channel color of the sobel area"
+  },
+  "image-solarize": {
+    "h1": "Apply Solarize effect on image files online for free",
+    "h2": "Convert a color photo into solarize or absolute filter effect image",
+    "details": {
+      "h3": "How to apply Solarize filter images online?",
+      "li": [
+        "Add all the images you want to apply solarize effect.",
+        "Preview converted image on the right.",
+        "Download image individually using Download button.",
+        "Download all solarize images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is solarize effect?": [
+            "The solarize effect is a type of image processing effect that is used to invert the tonal values of an image, creating a high contrast, \"solarized\" look. "
+          ]
+        },
+        {
+          "What are the uses of solarize effect?": [
+            "Creating a unique, artistic look for a photograph or piece of digital art.",
+            "Creating a surreal or otherworldly feel for a scene in a movie or video.",
+            "Adding a dramatic effect to an image for a fashion or beauty shoot.",
+            "Creating a vintage or retro look for a photograph or digital art piece.",
+            "Enhancing the dramatic effect of a photograph taken in low-light conditions.",
+            "Creating a high-contrast, high-drama look for a portrait or landscape photograph."
+          ]
+        }
+      ]
+    }
+  },
+  "image-sparkle": {
+    "h1": "Apply Sparkle Effect to images",
+    "h2": "Apply Sparkle effect to photos online.",
+    "details": {
+      "h3": "How to apply Sparkle effect to images online?",
+      "li": [
+        "Add all the images you want to apply sparkle effect to.",
+        "Enter horizontal and vertical position, along with radius, amplitude, phase and wavelength.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all sparkle effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is sparkle effect?": [
+            "The sparkle effect is a type of image editing technique used to add sparkle or glitter to an image."
+          ]
+        },
+        {
+          "What are the uses of sparkle effect?": [
+            "Adding emphasis to certain elements of an image, such as jewelry or other shiny objects",
+            "Creating a sense of movement or animation in an image",
+            "Enhancing the overall visual appeal of an image, such as making a photo of a night sky look more dramatic",
+            "Creating a festive or celebratory look in an image",
+            "Using as a design element in social media or website backgrounds, posters, flyers and other graphics materials."
+          ]
+        }
+      ]
+    },
+    "Horizontal Position": "Horizontal Position",
+    "Vertical Position": "Vertical Position",
+    "Randomness": "Randomness",
+    "Amount": "Amount",
+    "Size": "Size",
+    "Rays": "Rays"
+  },
+  "image-symmetric": {
+    "h1": "Make Symmetric Images",
+    "h2": "Symmetric image generator by horizontal or vertical symmetry.",
+    "details": {
+      "h3": "How to make symmetric images",
+      "p": [
+        "Make symmetric maker by horizontal or vertical mirror symmetry."
+      ],
+      "li": [
+        "Add all the images you want to symmetric.",
+        "Choose horizontal or vertical option.",
+        "Choose width or heigth part to make symmetry from.",
+        "Check Swap checkbox to invert symmetric part.",
+        "Previedw images on the right and Download the symmetric image.",
+        "Download all images with same settings."
+      ],
+      "p2": [
+        {
+          "What is making image symmetric?": [
+            "Making an image symmetric is a process of creating a mirror image of a photograph or artwork. It is done by dividing the image into two equal parts and creating a copy of one half to be placed on the other half."
+          ]
+        },
+        {
+          "What are the uses of making image symmetric": [
+            "Creating a reflection effect in photographs of landscapes, buildings, or other objects.",
+            "Enhancing the aesthetics of a portrait photograph by creating a symmetric image of the subject's face.",
+            "Creating a unique and interesting composition in artworks.",
+            "Creating a logo or symbol that is symmetric, which can be useful for branding and marketing.",
+            "Creating a symmetric image can be used in print and digital media, such as brochures, posters, and websites.",
+            "Adding symmetry can be used to create a sense of balance and harmony in an image."
+          ]
+        }
+      ]
+    },
+    "Horizontal": "Horizontal",
+    "Swap": "Swap",
+    "Vertical": "Vertical",
+    "Symmetry": "Symmetry",
+    "Symmetry Type": "Symmetry Type",
+    "Position": "Position"
+  },
+  "image-tilt-shift": {
+    "h1": "Apply Tilt Shift Effect to images",
+    "h2": "Apply Tilt Shift effect to photos online.",
+    "details": {
+      "h3": "How to apply Tilt Shift effect to images online?",
+      "p": [
+        "Simulates a CMYK halftone rendering of the image by multiplying pixel values with a four rotated 2D sine wave patterns, one each for cyan, magenta, yellow, and black.",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply tiltshift effect to.",
+        "Enter centerX The x coordinate of the pattern origin.",
+        "Enter centerY The y coordinate of the pattern origin.",
+        "Enter angle The rotation of the pattern in degrees.",
+        "Enter size The diameter of a dot in pixels.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all tiltshift effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is tilt shift effect?": [
+            "The tilt-shift effect is a photographic technique that simulates a shallow depth of field, making a scene appear miniature. This effect can be achieved by using a special lens or by editing the image using software."
+          ]
+        },
+        {
+          "What are the uses for tilt shift effect?": [
+            "Making large-scale scenes look like miniature models.",
+            "Creating a dreamy or surreal effect in photographs.",
+            "Isolating a specific part of an image and making it stand out.",
+            "Creating a selective focus effect in landscapes or cityscapes.",
+            "Enhancing the playful or whimsical aspect of a photograph.",
+            "Creating an interesting composition by blurring out the background and focusing on a specific subject.",
+            "Creating a selective focus effect in portraits.",
+            "Creating a miniature effect in nature or landscape photography.",
+            "Creating a unique look for urban and architectural photography",
+            "Creating a unique look for street photography."
+          ]
+        }
+      ]
+    },
+    "Horizontal Start (%)": "Horizontal Start (%)",
+    "Vertical Start (%)": "Vertical Start (%)",
+    "Horizontal End (%)": "Horizontal End (%)",
+    "Vertical End (%)": "Vertical End (%)",
+    "Blur Radius": "Blur Radius",
+    "Gradient Radius": "Gradient Radius"
+  },
+  "image-twirl": {
+    "h1": "Apply Twirl Effect to images",
+    "h2": "Apply twirl effect to photos online.",
+    "details": {
+      "h3": "How to apply twirl effect to images online?",
+      "li": [
+        "Add all the images you want to apply twirl effect to.",
+        "Input range value between 1 and 5.",
+        "Input level value between 1 and 256.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all twirl effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is twirl effect?": [
+            "The twirl effect is a image processing technique used to create a whirlpool-like distortion effect on an image. It can be used to create a variety of artistic effects, such as giving a photo a dreamy or surreal look."
+          ]
+        },
+        {
+          "What are the uses for twirl effect?": [
+            "Creating a sense of motion or movement in an image",
+            "Enhancing the visual interest of an otherwise static scene",
+            "Creating a whimsical or playful look for a photo or design",
+            "Adding a touch of surrealism or fantasy to an image",
+            "Distorting an image in a way that makes it look like it's been twisted or bent."
+          ]
+        }
+      ]
+    },
+    "Horizontal Center": "Horizontal Center",
+    "Vertical Center": "Vertical Center",
+    "Radius": "Radius",
+    "Angle": "Angle",
+    "Transparent": "Transparent",
+    "Clamp": "Clamp",
+    "Wrap": "Wrap",
+    "Edge": "Edge"
+  },
+  "image-unsharpen": {
+    "h1": "Apply Unsharpen Effect to images",
+    "h2": "Apply Unsharpen effect to photos online.",
+    "details": {
+      "h3": "How to apply Unsharpen effect to images online?",
+      "p": [
+        "A form of image sharpening that amplifies high-frequencies in the image. It is implemented by scaling pixels away from the average of their neighbors.",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add all the images you want to apply unsharpen effect to.",
+        "Enter radius The blur radius that calculates the average of the neighboring pixels.",
+        "Enter strength A scale factor where 0 is no effect and higher values cause a stronger effect.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all unsharpen effect applied images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is unsharpening an image?": [
+            "\"Unsharpening\" an image is the opposite of sharpening an image. It is a process of reducing the sharpness or clarity of an image, making it appear softer and less defined.",
+            " This effect can be used to reduce the visibility of unwanted details, noise or blemishes in an image, or to create a certain aesthetic style."
+          ]
+        },
+        {
+          "What are the uses of unsharpening an image": [
+            "Softening the focus of an image to create a more natural and pleasing look.",
+            "Removing small details and texture from an image to create a more abstract or impressionistic look.",
+            "Reducing the visibility of noise or grain in an image.",
+            "Decreasing the perception of sharpness in an image to create a softer or more nostalgic feel.",
+            "Creating a more dreamy or ethereal look in an image.",
+            "Decreasing the visibility of small imperfections or blemishes in an image.",
+            "Creating a more smooth and polished look in an image.",
+            "Decreasing the visibility of sharp edges or lines in an image to create a more organic or natural look.",
+            "Improving the overall balance of an image by reducing the visibility of overly sharp or contrasty areas.",
+            "Creating a more vintage or retro look in an image by decreasing the overall sharpness."
+          ]
+        }
+      ]
+    },
+    "Unsharpen Radius": "Unsharpen Radius",
+    "Unsharpen Strength": "Unsharpen Strength"
+  },
+  "image-vibrance": {
+    "h1": "Apply Vibrance Effect to images",
+    "h2": "Apply Vibrance effect to photos online.",
+    "details": {
+      "h3": "How to apply Vibrance effect to images online?",
+      "p": [
+        "Modifies the saturation of desaturated colors, leaving saturated colors unmodified."
+      ],
+      "li": [
+        "Add all the images you want to apply vibrance effect to.",
+        "Enter vibrance amount from -1 to 1 (-1 is minimum vibrance, 0 is no change, and 1 is maximum vibrance).",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all vibrance effect applied images at once using the Download All button."
+      ],
+      "p2": [
+        {
+          "what is vibrance effect? ": [
+            "The vibrance effect is a photo editing tool that increases the saturation of less-saturated colors in an image while leaving already-saturated colors unchanged."
+          ]
+        },
+        {
+          "What are the uses of vibrance effect?": [
+            "Enhancing the color and overall visual interest of a photograph.",
+            "Bringing out the colors in an image that may have been washed out due to poor lighting or camera settings.",
+            "Making certain elements of an image stand out more, such as flowers in a garden or a brightly-colored bird in a tree.",
+            "Creating a vintage or retro look in an image.",
+            "Making an image look more vibrant and lifelike."
+          ]
+        }
+      ],
+      "Vibrance Amount": "Vibrance Amount"
+    }
+  },
+  "image-vignette": {
+    "h1": "Apply Vignette Effect to images",
+    "h2": "Apply Vignette effect to photos online.",
+    "details": {
+      "h3": "How to apply Vignette effect to images online?",
+      "p": [
+        "Adds a simulated lens edge darkening effect."
+      ],
+      "li": [
+        "Add all the images you want to apply vignette effect to.",
+        "Enter frame size from 0 to 1 (0 for center of frame, 1 for edge of frame).",
+        "Enter darkening amount from 0 to 1 (0 for no effect, 1 for maximum lens darkening).",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all vignette effect applied images at once using the Download All button."
+      ],
+      "p2": [
+        {
+          "What is vignette effect?": [
+            "The vignette effect is a technique in which the edges of an image are darkened or blurred in order to draw attention to the center of the image."
+          ]
+        },
+        {
+          "What are the uses for vignette effect?": [
+            "Creating a sense of depth or dimension in an image",
+            "Directing the viewer's attention to a specific area of the image",
+            "Adding a vintage or nostalgic feel to an image",
+            "Creating a sense of isolation or focus on a particular subject",
+            "Softening the edges of an image to create a more natural, organic feel",
+            "Enhancing the mood or atmosphere of an image."
+          ]
+        }
+      ],
+      "Vignette Size": "Vignette Size",
+      "Vignette Darkening": "Vignette Darkening"
+    }
+  },
+  "image-watermark": {
+    "h1": "Add watermark to image.",
+    "h2": "Watermark photo Maker to show copyright and ownership.",
+    "details": {
+      "h3": "How to add watermark to images.",
+      "p": [
+        "Add your logo image to your copyright photos."
+      ],
+      "li": [
+        "Add all the images you want to add watermark to",
+        "Choose watermark image or text.",
+        "Choose options like placement, width, height etc.",
+        "Preview watermarked image on the right and Download.",
+        "Save watermarked images using Download all button."
+      ],
+      "p2": [
+        {
+          "What is watermarking an image?": [
+            "Watermarking an image is the process of adding a small logo, text, or image to an image in order to claim ownership or prevent others from using the image without permission."
+          ]
+        },
+        {
+          "What are the uses of watermarking an image?": [
+            "Copyright protection: Watermarking an image with a copyright symbol and the name of the copyright holder can help prevent others from using the image without permission.",
+            "Branding: Companies and organizations can use watermarks to promote their brand by adding their logo to images that they use on their website, social media, or other marketing materials.",
+            "Image tracking: Watermarks can be used to track where an image is being used online, which can be useful for identifying unauthorized uses of the image.",
+            "Deterring image theft: Watermarking an image can make it less desirable for others to use or steal the image, because it is clear that the image is owned by someone else.",
+            "Authenticity: Watermarking an image can be used to indicate that an image is genuine, which can be useful in situations where the authenticity of an image is in question."
+          ]
+        }
+      ]
+    },
+    "Choose watermark image": "Choose watermark image",
+    "Horizontal": "Horizontal",
+    "Vertical": "Vertical",
+    "Width": "Width",
+    "Height": "Height"
+  },
+  "image-zoom-blur": {
+    "h1": "Apply Zoom Blur Effect to images",
+    "h2": "Apply Zoom Blur effect to photos online.",
+    "details": {
+      "h3": "How to apply Zoom Blur effect to images online?",
+      "p": [
+        "Blurs the image away from a certain point, which looks like radial motion blur"
+      ],
+      "li": [
+        "Add all the images you want to apply zoomblur effect to.",
+        "Enter centerX The x coordinate of the blur origin",
+        "Enter centerY The y coordinate of the blur origin.",
+        "Enter angle The rotation of the pattern in degrees.",
+        "Enter size The diameter of a dot in pixels.",
+        "You can preview image on the right.",
+        "Download image individually using Download button.",
+        "Download all zoomblur effect applied images at once using the Download All button"
+      ],
+      "p2": [
+        {
+          "What is zoom blur effect?": [
+            "The zoom blur effect is a photographic and digital image effect that simulates the appearance of a camera zooming while the image is being captured. ",
+            "It creates the illusion of motion by blurring the image in a circular pattern around a central point, making the image appear as though it is moving away or towards the viewer. ",
+            "This effect can be used to create a sense of movement or to draw attention to a specific part of the image. "
+          ]
+        },
+        {
+          "What are the uses of zoom blur effect?": [
+            "Creating a sense of movement or motion in a still image",
+            "Emphasizing a specific part of the image by blurring the background",
+            "Creating a dreamy or surreal effect in the image",
+            "Simulating camera shake or a shaky hand-held shot",
+            "Adding a visual interest to an otherwise plain or static image."
+          ]
+        }
+      ]
+    },
+    "Horizontal Center (%)": "Horizontal Center (%)",
+    "Vertical Center (%)": "Vertical Center (%)",
+    "Blur Strength": "Blur Strength"
+  },
+  "pdf-convert": {
+    "h1": "Convert PDF files to Images Online for free",
+    "h2": "Convert PDF to JPG/PNG or WEBP Image",
+    "details": {
+      "h3": "Convert PDF to JPG/PNG Image Online",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Add the PDF file you want to convert.",
+        "Choose output image format.",
+        "If you want to resize pages, then change scale factor.",
+        "Download image individually using Download button.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What are uses of converting PDF to image?": [
+            "Sharing the PDF content with individuals who do not have a PDF reader installed",
+            "Allowing the content to be easily embedded in websites and other digital platforms",
+            "Facilitating the editing of PDF content by converting it to an editable image format",
+            "Enabling the PDF content to be used in presentations and other visual media",
+            "Improving the overall accessibility of the PDF content by making it more widely compatible with different devices and platforms."
+          ]
+        }
+      ]
+    },
+    "Format": "Format",
+    "h1 format": "Convert PDF to {{format}}",
+    "h2 format": "Convert PDF to {{format}} for free.",
+    "Scale": "Scale"
+  },
+  "pdf-index": {
+    "h1": "View PDF files online for free",
+    "h2": "View PDF files online",
+    "details": {
+      "h3": "View PDF files online",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Drag and drop or select the PDF file you want to view.",
+        "The PDF file will be automatically open.",
+        "The PDF viewer supports functionalities such as Full Screen, Highlighting, Search, Selection, Theme, Thumbnails, Zoom etc.",
+        "The PDF file is processed in your browser itself and data remains private."
+      ],
+      "p2": [
+        {
+          "What is a PDF file?": [
+            "A PDF (Portable Document Format) file is a type of file that is used to display documents in a fixed layout, independent of the application software, hardware, and operating system used to create it. ",
+            "PDF files are widely used to share and distribute documents, such as books, magazines, forms, and brochures, online and offline. They can include text, images, videos, and interactive elements such as buttons, links, and form fields.",
+            "PDFs can be opened and read using a variety of free and paid software, including Adobe Acrobat Reader, Foxit Reader, and Google Chrome."
+          ]
+        },
+        {
+          "How to view PDF files?": [
+            "PDF (Portable Document Format) files can be viewed using a PDF reader, such as Adobe Acrobat Reader, Foxit Reader, or Sumatra PDF. These are software programs that can be downloaded and installed on a computer or mobile device.",
+            "Once installed, you can open and view PDF files by double-clicking on them or by using the \"Open\" command in the PDF reader. ",
+            "Some web browsers, such as Google Chrome, also have built-in PDF viewers that allow you to view PDF files without installing additional software. ",
+            "This app is based on the same functionality.",
+            "Additionally, many mobile devices come with a built-in PDF viewer as well."
+          ]
+        }
+      ]
+    }
+  },
+  "pdf-text": {
+    "h1": "Extract text from PDF files online for free",
+    "h2": "Extract Text from PDF files online",
+    "details": {
+      "h3": "Extract Text from PDF files online",
+      "p": [
+        ""
+      ],
+      "li": [
+        "Add the PDF file you want to extract text from.",
+        "All pages from PDF file will be available to download.",
+        "Download all resized images at once using the <em>Download All</em> button."
+      ],
+      "p2": [
+        {
+          "What is extracting text from PDF?": [
+            "Extracting text from a PDF refers to the process of extracting the text content from a Portable Document Format (PDF) file."
+          ]
+        },
+        {
+          "What are uses of extracting text from pdf file?": [
+            "Content extraction: Extracting text from a PDF file can be used to extract the written content of a document for further analysis or use in other applications.",
+            "Text editing: Extracting text from a PDF file allows users to edit the text in the document, such as making corrections or adding new content.",
+            "Text-to-speech: Extracting text from a PDF file can be used to convert the document's text into speech, which can be useful for people with visual impairments or for creating audio versions of documents.",
+            "Document archiving: Extracting text from a PDF file can be used to create a text-only version of the document for archiving purposes, which can save space and make it easier to search for specific content.",
+            "Machine learning: Extracting text from a PDF file can be used as input for machine learning algorithms.",
+            "Indexing and Searching: Extracting text from a PDF file can be used for indexing and searching large collections of documents."
+          ]
+        }
+      ]
+    },
+    "Save": "Save"
+  },
+  "slug-archive": [
+    {
+      "/archive/compress": {
+        "h1": "Compress files online for free",
+        "h2": "Compress multiple files and folder to zip format online"
+      }
+    },
+    {
+      "/archive/convert": {
+        "h1": "Convert compressed files online for free",
+        "h2": "Convert files from archived file online"
+      }
+    },
+    {
+      "/archive/extract": {
+        "h1": "Extract files online for free",
+        "h2": "Extract files from zip file online"
+      }
+    },
+    {
+      "/archive/": {
+        "h1": "Test Zip files online for free",
+        "h2": "Check and verify compressed archive files online easily"
+      }
+    }
+  ],
+  "slug-audio": [
+    {
+      "/audio/convert": {
+        "h1": "Convert audios online for free",
+        "h2": "Convert Audio files online"
+      }
+    },
+    {
+      "/audio/": {
+        "h1": "Play audio files online for free",
+        "h2": "Listen to MP3, FLAC, M4A, AAC, WAV, OGG Opus, Vorbis, WEBM audio easily"
+      }
+    },
+    {
+      "/audio/merge": {
+        "h1": "Merge multiple audio files into one file",
+        "h2": "Merge multiple audio files into single file for free online."
+      }
+    },
+    {
+      "/audio/trim": {
+        "h1": "Trim audio files Easily",
+        "h2": "Trim multiple audio files for free online."
+      }
+    }
+  ],
+  "slug-image": [
+    {
+      "/image/add-background": {
+        "h1": "Photo Background Adder",
+        "h2": "Add a background color or image to a transparent photo"
+      }
+    },
+    {
+      "/image/add-text": {
+        "h1": "Add text to an image",
+        "h2": "Add text to photos in bulk."
+      }
+    },
+    {
+      "/image/black-and-white": {
+        "h1": "Convert Image into Black and White",
+        "h2": "Convert any colorful photo into black and white image"
+      }
+    },
+    {
+      "/image/blur": {
+        "h1": "Online Image Blurring Tool",
+        "h2": "Blur an image or background or part of an image using free blurring tool."
+      }
+    },
+    {
+      "/image/border": {
+        "h1": "Add color border to images",
+        "h2": "Online tool to add opaque or transparent borders to photos. You can choose border width, color and position."
+      }
+    },
+    {
+      "/image/brightness": {
+        "h1": "Change Brightness of images",
+        "h2": "Edit brightness of photos online to optimize light."
+      }
+    },
+    {
+      "/image/bulge": {
+        "h1": "Apply Bulge/Pinch Effect to images",
+        "h2": "Apply Bulge or Pinch effect to photos online."
+      }
+    },
+    {
+      "/image/change-color": {
+        "h1": "Change Color in Photos",
+        "h2": "Online color swapper in image. Choose the color to be removed and its replacement."
+      }
+    },
+    {
+      "/image/change-opacity": {
+        "h1": "Change opacity of image",
+        "h2": "Edit opacity of image to make it translucent or semi-transparent."
+      }
+    },
+    {
+      "/image/color-halftone": {
+        "h1": "Apply Color Halftone Effect to images",
+        "h2": "Apply Color Halftone effect to photos online."
+      }
+    },
+    {
+      "/image/color": {
+        "h1": "Change Color of images",
+        "h2": "Edit color of photos online to optimize."
+      }
+    },
+    {
+      "/image/compress": {
+        "h1": "Online Image Compressor",
+        "h2": "Compress photos easily to reduce its file size and make it smaller without affecting visual quality."
+      }
+    },
+    {
+      "/image/contrast": {
+        "h1": "Change contrast of images",
+        "h2": "Edit contrast of photos online to optimize color saturation."
+      }
+    },
+    {
+      "/image/convert": {
+        "h1": "Convert JPG, PNG, WEBP, GIF, BMP, AVIF, JXL image files online for free",
+        "h2": "Convert images between PNG, JPG, WEBP, BMP, GIF, AVIF, JXL in high quality for free."
+      }
+    },
+    {
+      "/image/crop": {
+        "h1": "Crop image files online for free",
+        "h2": "Crop photos using desired width and height to reduce dimension without losing quality."
+      }
+    },
+    {
+      "/image/denoise": {
+        "h1": "Apply Denoise Effect to images",
+        "h2": "Apply Denoise effect to photos online."
+      }
+    },
+    {
+      "/image/desaturate": {
+        "h1": "Desaturate image files online for free",
+        "h2": "Convert a color photo into desaturated image"
+      }
+    },
+    {
+      "/image/diffusion": {
+        "h1": "Apply Diffusion Effect to images",
+        "h2": "Apply Diffusion effect to photos online."
+      }
+    },
+    {
+      "/image/dither": {
+        "h1": "Apply Dither Effect Images",
+        "h2": "Apply Dither Filter to Photos"
+      }
+    },
+    {
+      "/image/dot-screen": {
+        "h1": "Apply Dot Screen Effect to images",
+        "h2": "Apply Dot Screen effect to photos online."
+      }
+    },
+    {
+      "/image/edge-work": {
+        "h1": "Apply Edge Work Effect to images",
+        "h2": "Apply Edge Work effect to photos online."
+      }
+    },
+    {
+      "/image/edge": {
+        "h1": "Convert images into edges online for free",
+        "h2": "Convert a color photo into edge image"
+      }
+    },
+    {
+      "/image/emboss": {
+        "h1": "Emboss effect on image files online for free",
+        "h2": "Apply Emboss effect on photos online."
+      }
+    },
+    {
+      "/image/enrich": {
+        "h1": "Enrich effect on image files online for free",
+        "h2": "Apply Enrich effect on photos online."
+      }
+    },
+    {
+      "/image/exposure": {
+        "h1": "Apply Exposure Effect to images",
+        "h2": "Apply Exposure effect to photos online."
+      }
+    },
+    {
+      "/image/gamma": {
+        "h1": "Change Gamma of images",
+        "h2": "Edit gamma of photos online to optimize light."
+      }
+    },
+    {
+      "/image/grayscale": {
+        "h1": "Grayscale image files online for free",
+        "h2": "Convert a color photo into grayscale image"
+      }
+    },
+    {
+      "/image/hue": {
+        "h1": "Rotate hue of images",
+        "h2": "Shift hue of photos to change colors of a picture online."
+      }
+    },
+    {
+      "/image/": {
+        "h1": "View Photos files online for free",
+        "h2": "View PNG, JPG, WEBP, BMP, GIF image easily"
+      }
+    },
+    {
+      "/image/ink": {
+        "h1": "Apply Ink Effect to images",
+        "h2": "Apply Ink effect to photos online."
+      }
+    },
+    {
+      "/image/invert-color": {
+        "h1": "Invert pixel color of images",
+        "h2": "Invert color of each pixel in a photo."
+      }
+    },
+    {
+      "/image/join": {
+        "h1": "Join multiple images into one",
+        "h2": "Join multiple photos into one large vertical or horizontal image."
+      }
+    },
+    {
+      "/image/kaleidoscope": {
+        "h1": "Apply Kaleidoscope Effect to images",
+        "h2": "Apply Kaleidoscope effect to photos online."
+      }
+    },
+    {
+      "/image/lens-blur": {
+        "h1": "Apply Lens Blur / Bokeh Effect to images",
+        "h2": "Apply Lens Blur or Bokeh effect to photos online."
+      }
+    },
+    {
+      "/image/mirror": {
+        "h1": "Mirror Image Maker",
+        "h2": "Make mirror image of a photo online either horizontally or vertically."
+      }
+    },
+    {
+      "/image/noise": {
+        "h1": "Apply Noise Effect to images",
+        "h2": "Apply Noise effect to photos online."
+      }
+    },
+    {
+      "/image/oil": {
+        "h1": "Apply Oil Effect to images",
+        "h2": "Apply oil effect to photos online."
+      }
+    },
+    {
+      "/image/pattern": {
+        "h1": "Image Pattern Maker",
+        "h2": "Make pattern from a photo to generate background images."
+      }
+    },
+    {
+      "/image/perspective": {
+        "h1": "Apply Perspective change Effect to images",
+        "h2": "Apply Perspective change effect to photos online."
+      }
+    },
+    {
+      "/image/pixelate": {
+        "h1": "Pixelate image files online",
+        "h2": "Pixelate photos online to hide or censor part of the image."
+      }
+    },
+    {
+      "/image/posterize": {
+        "h1": "Apply Posterize Effect to images",
+        "h2": "Apply posterize effect to photos online."
+      }
+    },
+    {
+      "/image/rainbow": {
+        "h1": "Apply Rainbow Effect to images",
+        "h2": "Apply Rainbow effect to photos online."
+      }
+    },
+    {
+      "/image/remove-background": {
+        "h1": "Remove background in an image",
+        "h2": "Remove a background color or photo to make transparent background image"
+      }
+    },
+    {
+      "/image/resize": {
+        "h1": "Resize image files online",
+        "h2": "Resize image dimensions to increase or decrease resolution."
+      }
+    },
+    {
+      "/image/ripple": {
+        "h1": "Apply Ripple Effects to images",
+        "h2": "Apply Water, Triangle, Sine, Sawtooth Ripple effect to photos online."
+      }
+    },
+    {
+      "/image/rotate": {
+        "h1": "Rotate Images Online",
+        "h2": "Rotate photos online easily between 0 and 360 degrees."
+      }
+    },
+    {
+      "/image/saturate": {
+        "h1": "Apply Saturate Effect to images",
+        "h2": "Apply Saturate effect to photos online."
+      }
+    },
+    {
+      "/image/sepia": {
+        "h1": "Apply Sepia effect on image files online for free",
+        "h2": "Convert a color photo into sepia effect image"
+      }
+    },
+    {
+      "/image/sharpen": {
+        "h1": "Sharpen image files online",
+        "h2": "Sharpen photos online to increase quality and make it less blurry."
+      }
+    },
+    {
+      "/image/shift": {
+        "h1": "Shift image by pixels",
+        "h2": "How to shift images vertically or horizontally."
+      }
+    },
+    {
+      "/image/skew": {
+        "h1": "Skew Images Online",
+        "h2": "Skew images horizontally or vertically by any angle."
+      }
+    },
+    {
+      "/image/smear": {
+        "h1": "Apply Smear Effect to images",
+        "h2": "Apply Smear effect to photos online."
+      }
+    },
+    {
+      "/image/sobel": {
+        "h1": "Apply Sobel Effect to images",
+        "h2": "Apply Sobel effect to photos online."
+      }
+    },
+    {
+      "/image/solarize": {
+        "h1": "Apply Solarize effect on image files online for free",
+        "h2": "Convert a color photo into solarize or absolute filter effect image"
+      }
+    },
+    {
+      "/image/sparkle": {
+        "h1": "Apply Sparkle Effect to images",
+        "h2": "Apply Sparkle effect to photos online."
+      }
+    },
+    {
+      "/image/symmetric": {
+        "h1": "Make Symmetric Images",
+        "h2": "Symmetric image generator by horizontal or vertical symmetry."
+      }
+    },
+    {
+      "/image/tilt-shift": {
+        "h1": "Apply Tilt Shift Effect to images",
+        "h2": "Apply Tilt Shift effect to photos online."
+      }
+    },
+    {
+      "/image/twirl": {
+        "h1": "Apply Twirl Effect to images",
+        "h2": "Apply twirl effect to photos online."
+      }
+    },
+    {
+      "/image/unsharpen": {
+        "h1": "Apply Unsharpen Effect to images",
+        "h2": "Apply Unsharpen effect to photos online."
+      }
+    },
+    {
+      "/image/vibrance": {
+        "h1": "Apply Vibrance Effect to images",
+        "h2": "Apply Vibrance effect to photos online."
+      }
+    },
+    {
+      "/image/vignette": {
+        "h1": "Apply Vignette Effect to images",
+        "h2": "Apply Vignette effect to photos online."
+      }
+    },
+    {
+      "/image/watermark": {
+        "h1": "Add watermark to image.",
+        "h2": "Watermark photo Maker to show copyright and ownership."
+      }
+    },
+    {
+      "/image/zoom-blur": {
+        "h1": "Apply Zoom Blur Effect to images",
+        "h2": "Apply Zoom Blur effect to photos online."
+      }
+    }
+  ],
+  "slug-pdf": [
+    {
+      "/pdf/convert": {
+        "h1": "Convert PDF files to Images Online for free",
+        "h2": "Convert PDF to JPG/PNG or WEBP Image"
+      }
+    },
+    {
+      "/pdf/": {
+        "h1": "View PDF files online for free",
+        "h2": "View PDF files online"
+      }
+    },
+    {
+      "/pdf/text": {
+        "h1": "Extract text from PDF files online for free",
+        "h2": "Extract Text from PDF files online"
+      }
+    }
+  ],
+  "temp": {
+    "h1": "",
+    "h2": "",
+    "details": {
+      "h3": "",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "video-index": {
+    "h1": "Play Video files online for free",
+    "h2": "View MP4, WEBM, OGV Video easily",
+    "details": {
+      "h3": "How to play Video online?",
+      "p": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "li": [
+        "Load the Video file you want to play.",
+        "If supported, video will play automatically."
+      ],
+      "p2": [
+        {
+          "What video formats are supported?": [
+            "MP4 (H.264/AVC video codec and AAC audio codec)",
+            "WebM (VP8 video codec and Vorbis audio codec)",
+            "Ogg (Theora video codec and Vorbis audio codec)",
+            "MPEG-4 (AVI, DIVX, XVID)"
+          ]
+        }
+      ]
+    },
+    "Sorry your browser does not support embedded videos!": "Sorry your browser does not support embedded videos!",
+    "Add files to continue.": "Add files to continue.",
+    "Play": "Play",
+    "Files": "Files",
+    "Added Videos": "Added Videos"
+  }
+}
