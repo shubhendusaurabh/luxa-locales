@@ -20,13 +20,15 @@
       ],
       "p2": [
         {
-          "What is file compresser?": [
+          "q": "¿Qué es el compresor de archivos?",
+          "a": [
             "Un compresor de archivos es un programa o herramienta que se utiliza para reducir el tamaño de un archivo o grupo de archivos. Esto se puede hacer eliminando datos innecesarios, usando algoritmos de compresión o por otros medios.",
             "El archivo comprimido se puede transferir o almacenar fácilmente, ocupando menos espacio. Algunos formatos comunes de compresión de archivos incluyen ZIP, RAR y GZIP."
           ]
         },
         {
-          "What are the uses of file compresser?": [
+          "q": "¿Cuáles son los usos del compresor de archivos?",
+          "a": [
             "Reducir la cantidad de espacio de almacenamiento necesario para un archivo.",
             "Facilitando la transferencia de un archivo a través de Internet oa través de otras redes.",
             "Ahorro de ancho de banda al descargar o cargar un archivo.",
@@ -35,7 +37,8 @@
           ]
         },
         {
-          "What some common archive formats?": [
+          "q": "¿Cuáles son algunos formatos de archivo comunes?",
+          "a": [
             "ZIP",
             "RAR",
             "TAR",
@@ -83,14 +86,16 @@
       ],
       "p2": [
         {
-          "What is archive converter?": [
+          "q": "¿Qué es el convertidor de archivos?",
+          "a": [
             "Un convertidor de archivos es una herramienta o software que se utiliza para convertir archivos de un formato a otro. Por ejemplo, puede convertir un archivo .rar en un archivo .zip o un archivo .7z en un archivo .tar.",
             "Esto permite al usuario extraer el contenido del archivo y acceder a los archivos en un formato compatible con su dispositivo o aplicación.",
             "Además, también puede convertir entre diferentes métodos y niveles de compresión."
           ]
         },
         {
-          "What some common archive formats?": [
+          "q": "¿Cuáles son algunos formatos de archivo comunes?",
+          "a": [
             "ZIP",
             "RAR",
             "TAR",
@@ -109,7 +114,8 @@
           ]
         },
         {
-          "What are uses of converting archive formats?": [
+          "q": "¿Cuáles son los usos de la conversión de formatos de archivo?",
+          "a": [
             "Permitir que un usuario extraiga el contenido de un archivo en un formato que su computadora o dispositivo pueda manejar.",
             "Reducir el tamaño de un archivo comprimido para almacenarlo o compartirlo más fácilmente.",
             "Convertir un archivo de almacenamiento a un formato que sea compatible con un programa o aplicación específicos.",
@@ -158,13 +164,15 @@
       ],
       "p2": [
         {
-          "What is compressed file extractor?": [
+          "q": "¿Qué es el extractor de archivos comprimidos?",
+          "a": [
             "Un extractor de archivos comprimidos es una herramienta o programa de software que permite a los usuarios extraer o descomprimir el contenido de un archivo comprimido, como .zip, .rar, .7z, .tar, .gz u otro formato de archivo.",
             "Esta herramienta se puede utilizar para extraer archivos de un archivo y extraer los archivos del archivo. Los archivos extraídos se pueden usar o ver como archivos normales."
           ]
         },
         {
-          "What the uses of file extractor?": [
+          "q": "¿Cuáles son los usos del extractor de archivos?",
+          "a": [
             "Extraer archivos y carpetas de un archivo comprimido para acceder a los archivos individuales.",
             "Extraer archivos de un archivo a una ubicación específica, como un directorio o disco duro diferente.",
             "Extraer archivos de un archivo comprimido a una ubicación protegida con contraseña.",
@@ -201,20 +209,23 @@
       ],
       "p2": [
         {
-          "What is an archive file?": [
+          "q": "¿Qué es un archivo de almacenamiento?",
+          "a": [
             "Un archivo de almacenamiento es un único archivo que contiene varios archivos o directorios. Se utiliza para agrupar varios archivos en un solo archivo para facilitar el almacenamiento, la transferencia o la distribución.",
             "Los tipos más comunes de archivos comprimidos son ZIP, RAR y TAR. Los archivos de almacenamiento se pueden comprimir para reducir su tamaño y también se pueden proteger con contraseña por seguridad. Se pueden abrir y extraer con software de archivo como WinZip, WinRAR o 7-Zip."
           ]
         },
         {
-          "What are the uses of testing archive file?": [
+          "q": "¿Cuáles son los usos del archivo de almacenamiento de prueba?",
+          "a": [
             "La prueba de un archivo comprimido se usa para garantizar que el archivo no esté dañado y que todos los archivos dentro del archivo comprimido se puedan extraer correctamente.",
             "También se puede usar para verificar que el archivo tenga la estructura y el formato de archivo correctos, y que los archivos dentro del archivo no falten o hayan sido manipulados.",
             "Además, la prueba de un archivo comprimido se puede utilizar para confirmar que el archivo se ha comprimido o cifrado correctamente y que el algoritmo de compresión o cifrado utilizado es seguro."
           ]
         },
         {
-          "What are the common archive formats?": [
+          "q": "¿Cuáles son los formatos de archivo comunes?",
+          "a": [
             "ZIP (.zip)",
             "RAR (.rar)",
             "TAR (.tar)",
@@ -269,13 +280,15 @@
       ],
       "p2": [
         {
-          "What is converting audio format?": [
+          "q": "¿Qué es convertir formato de audio?",
+          "a": [
             "La conversión de formato de audio se refiere al proceso de cambiar el formato de archivo de un archivo de audio a un formato diferente. Esto se puede hacer utilizando varias herramientas de software, como convertidores de audio como esta aplicación.",
             "El proceso implica decodificar el archivo de audio original y luego codificarlo en el formato deseado, al mismo tiempo que se ajustan potencialmente configuraciones como la velocidad de bits, la frecuencia de muestreo y el número de canales."
           ]
         },
         {
-          "What are some common audio formats?": [
+          "q": "¿Cuáles son algunos formatos de audio comunes?",
+          "a": [
             "MP3 (.mp3)",
             "WAV (.wav)",
             "CAA (.aac, .m4a)",
@@ -289,7 +302,8 @@
           ]
         },
         {
-          "What are the uses of converting audio format?": [
+          "q": "¿Cuáles son los usos de convertir formato de audio?",
+          "a": [
             "Compatibilidad: convertir archivos de audio a un formato que sea compatible con un dispositivo o reproductor multimedia específico.",
             "Reducción del tamaño de archivo: conversión de archivos de audio a un formato que da como resultado un tamaño de archivo más pequeño, lo que facilita su almacenamiento o uso compartido.",
             "Mejora de la calidad: convertir archivos de audio a un formato que produzca un sonido de mayor calidad, como formatos de audio sin pérdidas.",
@@ -334,7 +348,8 @@
       ],
       "p2": [
         {
-          "What audio formats are supported?": [
+          "q": "¿Qué formatos de audio son compatibles?",
+          "a": [
             "MP3",
             "AAC",
             "OGG",
@@ -367,7 +382,8 @@
       ],
       "p2": [
         {
-          "What is an audio jointer tool?": [
+          "q": "¿Qué es una herramienta de unión de audio?",
+          "a": [
             "Una herramienta de unión de audio es un software o una plataforma en línea que le permite combinar varios archivos de audio en un solo archivo.",
             "El archivo de audio resultante contendrá todo el audio de los archivos originales, reproducidos en el orden en que se unieron.",
             "Esto puede ser útil para crear una combinación perfecta de canciones o para combinar diferentes segmentos de audio (como episodios de podcast o grabaciones de voz) en un solo archivo para escuchar o compartir fácilmente.",
@@ -375,7 +391,8 @@
           ]
         },
         {
-          "What are the uses of audio joiner?": [
+          "q": "¿Cuáles son los usos del ensamblador de audio?",
+          "a": [
             "Combinar múltiples segmentos de un podcast o programa de radio en un solo archivo para escuchar más fácilmente",
             "Combinar varias canciones o pistas para crear una lista de reproducción o una mezcla",
             "Unir múltiples segmentos grabados de un discurso o presentación en un solo archivo para una fácil reproducción",
@@ -412,12 +429,14 @@
       ],
       "p2": [
         {
-          "What is an audio trimmer?": [
+          "q": "¿Qué es un recortador de audio?",
+          "a": [
             "Un recortador de audio es una herramienta que se utiliza para editar archivos de audio recortando o recortando partes no deseadas."
           ]
         },
         {
-          "What are the uses of audio trimmer?": [
+          "q": "¿Cuáles son los usos del recortador de audio?",
+          "a": [
             "Eliminación de silencios o ruidos de fondo no deseados desde el principio o el final de un archivo de audio",
             "Cortar una sección específica de un archivo de audio para usar como clip o muestra",
             "Crear versiones más cortas de un archivo de audio más largo para usar en un sitio web o en un video",
@@ -512,12 +531,14 @@
       ],
       "p2": [
         {
-          "What is adding background color to an image?": [
+          "q": "¿Qué es agregar color de fondo a una imagen?",
+          "a": [
             "Agregar un color de fondo a una imagen se refiere al proceso de llenar el área alrededor del sujeto de una imagen con un color específico."
           ]
         },
         {
-          "What are the uses of adding background color?": [
+          "q": "¿Cuáles son los usos de agregar color de fondo?",
+          "a": [
             "Mejorar la estética general de la imagen proporcionando un fondo de contraste para el sujeto.",
             "Crear una jerarquía visual haciendo que ciertos elementos de la imagen se destaquen más.",
             "Ayudar a transmitir un estado de ánimo específico o un tema asociado con la imagen.",
@@ -567,12 +588,14 @@
       ],
       "p2": [
         {
-          "What is adding text to an image?": [
+          "q": "¿Qué es agregar texto a una imagen?",
+          "a": [
             "Agregar texto a una imagen se refiere al proceso de colocar texto encima de una imagen."
           ]
         },
         {
-          "What are the uses of adding text to images?": [
+          "q": "¿Cuáles son los usos de agregar texto a las imágenes?",
+          "a": [
             "Comunicar información: el texto se puede usar para etiquetar o subtitular una imagen, brindando contexto o información adicional sobre el tema de la imagen.",
             "Crear interés visual: el texto se puede utilizar como elemento de diseño para agregar interés visual a una imagen y hacerla más atractiva.",
             "Marca y marketing: el texto se puede usar para agregar mensajes de marca o marketing a una imagen, como el logotipo o el eslogan de una empresa.",
@@ -628,7 +651,8 @@
       ],
       "p2": [
         {
-          "What are the uses of converting images into black and white?": [
+          "q": "¿Cuáles son los usos de convertir imágenes a blanco y negro?",
+          "a": [
             "Crear un aspecto antiguo o clásico: las imágenes en blanco y negro pueden evocar una sensación de nostalgia o atemporalidad, y se pueden usar para dar a una imagen un aspecto antiguo o clásico.",
             "Mejorar el contraste y la textura: convertir una imagen a blanco y negro puede ayudar a resaltar detalles y texturas que pueden perderse en una imagen en color.",
             "Simplificar una composición: Eliminar el color de una imagen puede simplificar la composición y facilitar el enfoque en el sujeto.",
@@ -642,7 +666,8 @@
           ]
         },
         {
-          "What is difference between black and white and grascale?": [
+          "q": "¿Cuál es la diferencia entre blanco y negro y grascale?",
+          "a": [
             "Blanco y negro y escala de grises se refieren a diferentes formas de representar imágenes con colores limitados.",
             "Blanco y negro se refiere a imágenes que usan solo dos colores: blanco y negro. Estas imágenes suelen tener un contraste muy alto, con áreas completamente negras y áreas completamente blancas, sin sombras de gris.",
             "La escala de grises, por otro lado, se refiere a imágenes que utilizan una gama de tonos de gris para representar diferentes niveles de brillo o color. Las imágenes en escala de grises tienen una gama de tonos mucho más sutil, con áreas de gris muy claro y áreas de gris muy oscuro, y muchos tonos de gris intermedios.",
@@ -675,12 +700,14 @@
       ],
       "p2": [
         {
-          "What is blurring of an image?": [
+          "q": "¿Qué es el desenfoque de una imagen?",
+          "a": [
             "El desenfoque de imagen es una técnica utilizada para suavizar u oscurecer los detalles de una imagen. Hay varias formas de desenfocar una imagen, pero el método más común es usar un filtro de desenfoque, que aplica un algoritmo matemático a los píxeles de la imagen para esparcirlos y suavizar los bordes."
           ]
         },
         {
-          "What are the uses of blurring an image?": [
+          "q": "¿Cuáles son los usos de difuminar una imagen?",
+          "a": [
             "Eliminación de ruido o detalles no deseados: el desenfoque se puede usar para eliminar el ruido u otros detalles no deseados de una imagen, como el polvo o los rayones.",
             "Mejorar la estética general de la imagen: el desenfoque se puede utilizar para crear una sensación de profundidad o movimiento en una imagen, haciendo que algunas partes de la imagen parezcan más desenfocadas que otras.",
             "Crear una sensación de emoción o estado de ánimo: el desenfoque se puede utilizar para transmitir un estado de ánimo o una emoción específicos, como nostalgia, ensoñación o incertidumbre.",
@@ -692,7 +719,8 @@
           ]
         },
         {
-          "What is the difference between blurring and pixelating an image?": [
+          "q": "¿Cuál es la diferencia entre difuminar y pixelar una imagen?",
+          "a": [
             "El desenfoque y el pixelado son dos técnicas diferentes que se utilizan para oscurecer u ocultar detalles en una imagen.",
             "El desenfoque es una técnica que utiliza un filtro de desenfoque para dispersar los píxeles de una imagen, lo que da como resultado una apariencia borrosa o suavizada. El objetivo de difuminar es oscurecer los detalles mientras se mantiene un aspecto general relativamente natural y suave. Esto se puede lograr aplicando diferentes tipos de filtros de desenfoque como desenfoque gaussiano, desenfoque de movimiento, desenfoque de cuadro, etc.",
             "Pixelar, por otro lado, es una técnica que reemplaza pequeñas regiones de píxeles con píxeles más grandes y gruesos. Esto da como resultado una apariencia más bloqueada o pixelada, donde los detalles finos se reemplazan por cuadrados de color más grandes y más evidentes. El objetivo de pixelar es ocultar u oscurecer detalles haciéndolos menos visibles o reconocibles. Esto se usa a menudo para ocultar caras, matrículas u otra información confidencial en una imagen.",
@@ -720,12 +748,14 @@
       ],
       "p2": [
         {
-          "What is adding border to an image?": [
+          "q": "¿Qué es agregar borde a una imagen?",
+          "a": [
             "Agregar un borde a una imagen es una técnica utilizada para enmarcar o resaltar una imagen agregando un borde visible a su alrededor. El borde puede tener varios anchos y puede ser de diferentes colores, patrones o texturas."
           ]
         },
         {
-          "What are the uses of adding border to an image?": [
+          "q": "¿Cuáles son los usos de agregar borde a una imagen?",
+          "a": [
             "Mejorar la estética general de la imagen: se puede usar un borde para hacer que una imagen se destaque más y llamar la atención sobre ella.",
             "Crear una jerarquía visual: se puede usar un borde para crear una jerarquía visual, haciendo que ciertos elementos de la imagen se destaquen más.",
             "Transmitir un estado de ánimo o tema específico asociado con la imagen: el color, el patrón o la textura del borde se pueden usar para transmitir un estado de ánimo o tema específico asociado con la imagen.",
@@ -764,12 +794,14 @@
       ],
       "p2": [
         {
-          "What is Brightness?": [
+          "q": "¿Qué es el brillo?",
+          "a": [
             "El brillo de una imagen se refiere a la claridad u oscuridad general de la imagen. Es una medida de la cantidad de luz que está presente en la imagen y puede afectar el contraste percibido y el atractivo visual de la imagen. En el procesamiento de imágenes y videos, el brillo a menudo se mide como un valor entre 0 y 255, siendo 0 completamente negro (sin luz) y 255 completamente blanco (luz máxima). Un valor de 128 se considera un valor neutro; los valores por encima de 128 se consideran más brillantes y los valores por debajo de 128 se consideran más oscuros."
           ]
         },
         {
-          "What are the uses of changing brightness": [
+          "q": "¿Cuáles son los usos de cambiar el brillo?",
+          "a": [
             "Hay varios usos para cambiar el brillo de una imagen, algunos de los más comunes son:",
             "Corrección de malas condiciones de iluminación: el cambio del brillo de una imagen se puede usar para corregir las malas condiciones de iluminación en una imagen, como la subexposición o la sobreexposición. Esto se puede hacer ajustando el brillo para que coincida con las condiciones de iluminación previstas para la escena.",
             "Lograr un efecto visual deseado: cambiar el brillo de una imagen también se puede usar para lograr un efecto visual deseado, como crear una imagen de clave alta o de clave baja. Las imágenes de clave alta son brillantes y tienen muchas áreas blancas o de colores claros, mientras que las imágenes de clave baja son oscuras y tienen muchas áreas negras o de colores oscuros.",
@@ -780,7 +812,8 @@
           ]
         },
         {
-          "What is difference between brightness and opacity?": [
+          "q": "¿Cuál es la diferencia entre brillo y opacidad?",
+          "a": [
             "El brillo y la opacidad son dos propiedades diferentes de una imagen que se utilizan para manipular y ajustar la apariencia de una imagen.",
             "El brillo se refiere a la claridad u oscuridad general de la imagen. Es una medida de la cantidad de luz que está presente en la imagen y afecta el contraste percibido y el atractivo visual de la imagen. El brillo se puede ajustar para corregir las condiciones de poca luz o para lograr el efecto visual deseado.",
             "La opacidad se refiere al grado de transparencia de una imagen. Es una medida de cuán visible u oculta es una imagen. Una imagen con una opacidad de 1 es completamente visible, mientras que una imagen con una opacidad de 0 es completamente transparente. La opacidad se puede ajustar para superponer varias imágenes, o para mezclar una imagen con el fondo.",
@@ -812,12 +845,14 @@
       ],
       "p2": [
         {
-          "What is Bulge Effect?": [
+          "q": "¿Qué es el efecto abombamiento?",
+          "a": [
             "El &quot;efecto de protuberancia&quot; es una técnica fotográfica que consiste en distorsionar la forma de un objeto en una imagen utilizando una lente gran angular y colocando la cámara cerca del objeto. Esto hace que el centro de la imagen parezca más grande y más cerca que los bordes, creando un efecto abombado o convexo. Esta técnica se usa más comúnmente en la fotografía de retratos para hacer que la cara del sujeto parezca más prominente, pero también se puede usar en otros tipos de fotografía, como en la fotografía de naturaleza y paisajes, para crear una ilusión de profundidad."
           ]
         },
         {
-          "What are the uses of Bulge Effect?": [
+          "q": "¿Cuáles son los usos del Efecto Bulto?",
+          "a": [
             "Imágenes distorsionadas: el efecto de protuberancia se puede usar para crear un efecto distorsionado o &quot;abultado&quot; en una imagen, que se puede usar para crear una sensación de movimiento o para enfatizar ciertas características de la imagen.",
             "Crear una sensación de profundidad: el efecto de protuberancia se puede utilizar para crear una sensación de profundidad en una imagen al hacer que ciertas partes de la imagen parezcan estar más cerca o más lejos.",
             "Mejora de características: el efecto de protuberancia se puede usar para mejorar ciertas características de una imagen, como hacer que los ojos parezcan más grandes, que los músculos parezcan más definidos o que un paisaje parezca más dramático.",
@@ -852,12 +887,14 @@
       ],
       "p2": [
         {
-          "What is swapping color in an image": [
+          "q": "¿Qué es el cambio de color en una imagen?",
+          "a": [
             "El intercambio de color en una imagen se refiere al proceso de reemplazar un color o rango de colores con otro color en una imagen. Esto se puede hacer usando varias herramientas y técnicas de software, como herramientas de reemplazo de color, capas de ajuste de color y ajustes de balance de color."
           ]
         },
         {
-          "What are the uses of swapping color in images?": [
+          "q": "¿Cuáles son los usos de intercambiar colores en imágenes?",
+          "a": [
             "Cambiar el esquema de color general de una imagen: el cambio de color se puede usar para cambiar el esquema de color general de una imagen, por ejemplo, para hacerla más cálida o más fría.",
             "Mejorar la estética general de la imagen: el cambio de color se puede usar para mejorar la estética general de una imagen, por ejemplo, haciendo que ciertos colores se destaquen más o creando un estado de ánimo específico o un tema asociado con la imagen.",
             "Corrección de problemas de color: el cambio de color se puede utilizar para corregir problemas de color, como problemas de balance de blancos o dominantes de color, en una imagen.",
@@ -891,12 +928,14 @@
       ],
       "p2": [
         {
-          "What is Opacity?": [
+          "q": "¿Qué es la opacidad?",
+          "a": [
             "La opacidad es una propiedad de una imagen que determina cuán transparente u opaca es. Por lo general, se mide como un valor entre 0 y 1, siendo 0 completamente transparente y 1 completamente opaco. Cuando una imagen tiene una opacidad de 1, es completamente visible y cubre cualquier elemento subyacente. Cuando una imagen tiene una opacidad inferior a 1, es semitransparente y permite que algunos de los elementos subyacentes sean visibles."
           ]
         },
         {
-          "What are the uses of changing opacity": [
+          "q": "¿Cuáles son los usos de cambiar la opacidad?",
+          "a": [
             "Superponer varias imágenes: cambiar la opacidad de una imagen le permite superponer varias imágenes una encima de la otra y crear una imagen compuesta. Por ejemplo, puede utilizar una imagen PNG transparente para superponer texto o gráficos sobre una imagen de fondo.",
             "Superposiciones transparentes: cambiar la opacidad de una imagen también se puede usar para crear superposiciones transparentes que se pueden usar para agregar texto, gráficos u otros elementos a una imagen existente.",
             "Fusión de imágenes: se puede cambiar la opacidad de una imagen para fusionar una imagen con el fondo. Esto se puede usar para crear un efecto de aparición o desaparición gradual, o para crear un efecto translúcido.",
@@ -907,7 +946,8 @@
           ]
         },
         {
-          "What is difference between brightness and opacity?": [
+          "q": "¿Cuál es la diferencia entre brillo y opacidad?",
+          "a": [
             "El brillo y la opacidad son dos propiedades diferentes de una imagen que se utilizan para manipular y ajustar la apariencia de una imagen.",
             "El brillo se refiere a la claridad u oscuridad general de la imagen. Es una medida de la cantidad de luz que está presente en la imagen y afecta el contraste percibido y el atractivo visual de la imagen. El brillo se puede ajustar para corregir las condiciones de poca luz o para lograr el efecto visual deseado.",
             "La opacidad se refiere al grado de transparencia de una imagen. Es una medida de cuán visible u oculta es una imagen. Una imagen con una opacidad de 1 es completamente visible, mientras que una imagen con una opacidad de 0 es completamente transparente. La opacidad se puede ajustar para superponer varias imágenes, o para mezclar una imagen con el fondo.",
@@ -933,13 +973,15 @@
       ],
       "p2": [
         {
-          "What is collage image?": [
+          "q": "¿Qué es la imagen del collage?",
+          "a": [
             "Una imagen de collage es una composición de dos o más imágenes, a menudo dispuestas de forma creativa o artística, para crear una sola imagen nueva. Las imágenes individuales utilizadas en un collage pueden ser fotografías, dibujos u otros tipos de imágenes.",
             "Los collages se pueden crear digitalmente o ensamblando imágenes físicamente. Los collages se utilizan para diversos fines, como en el arte, el diseño gráfico, la fotografía y la publicidad."
           ]
         },
         {
-          "What are the uses of collage?": [
+          "q": "¿Cuáles son los usos del collage?",
+          "a": [
             "Montajes fotográficos: combinación de varias fotos en una sola imagen para crear una narrativa o contar una historia.",
             "Expresión artística: Usar un collage para expresar una idea o concepto de manera creativa.",
             "Diseño gráfico: uso de collages como elemento de diseño para carteles, folletos y otros materiales de marketing.",
@@ -974,14 +1016,16 @@
       ],
       "p2": [
         {
-          "What is color halftone effect?": [
+          "q": "¿Qué es el efecto de semitono de color?",
+          "a": [
             "El efecto de medios tonos de color es una técnica utilizada para crear una representación estilizada basada en puntos de una imagen. A menudo se usa para simular el aspecto de una impresión de medios tonos tradicional y se puede usar para crear una variedad de estilos y efectos diferentes.",
             "El efecto de medios tonos de color se logra dividiendo una imagen en una serie de puntos de diferentes tamaños y colores, según los valores de brillo y color de la imagen original. Luego, los puntos se organizan en un patrón, generalmente en una cuadrícula, para crear la imagen final de medios tonos.",
             "Hay algunos algoritmos diferentes que se pueden usar para crear el efecto de medios tonos, como el método de &quot;punto agrupado&quot;, el método &quot;estocástico&quot; y el método de &quot;modulación de amplitud&quot;. Cada uno de estos métodos crea un tipo diferente de patrón de medios tonos y se puede utilizar para lograr diferentes efectos."
           ]
         },
         {
-          "What are the uses of color halftone effect?": [
+          "q": "¿Cuáles son los usos del efecto de semitono de color?",
+          "a": [
             "El efecto de medios tonos de color se puede usar en una variedad de contextos diferentes, como diseño gráfico, ilustración y publicidad, y puede agregar un toque único e interesante a una imagen o video."
           ]
         }
@@ -1011,7 +1055,8 @@
       ],
       "p2": [
         {
-          "What are the uses of changing color?": [
+          "q": "¿Cuáles son los usos de cambiar de color?",
+          "a": [
             "Corrección de color: ajuste del balance de color general de una imagen para que se vea más natural o uniforme.",
             "Graduación de color: cambiar el color de una imagen para crear un estado de ánimo o estilo específico, como hacer que una escena se vea cálida y atractiva o fresca y misteriosa.",
             "Resaltar características específicas: cambiar el color de ciertos elementos en una imagen para que se destaquen o llamen la atención.",
@@ -1055,19 +1100,22 @@
       ],
       "p2": [
         {
-          "What is compressing an image?": [
+          "q": "¿Qué es comprimir una imagen?",
+          "a": [
             "La compresión de imágenes es el proceso de reducir el tamaño de archivo de una imagen manteniendo su calidad visual. Esto se hace eliminando o reduciendo la cantidad de datos en el archivo de imagen, conservando la información que es importante para la apariencia visual de la imagen.",
             "Es importante tener en cuenta que al comprimir una imagen, se trata de un equilibrio entre el tamaño del archivo y la calidad de la imagen. Comprimir demasiado dará como resultado una imagen de baja calidad, pero comprimir muy poco dará como resultado un archivo de mayor tamaño."
           ]
         },
         {
-          "What are lossless and lossy compression?": [
+          "q": "¿Qué es la compresión con y sin pérdidas?",
+          "a": [
             "Compresión sin pérdidas: las técnicas de compresión sin pérdidas conservan todos los datos originales de una imagen y pueden recrear exactamente la imagen original. El tamaño del archivo de la imagen será menor, pero la calidad de la imagen no se verá afectada. Los ejemplos de compresión sin pérdida incluyen PNG y GIF.",
             "Compresión con pérdida: las técnicas de compresión con pérdida descartan algunos de los datos de la imagen original, lo que da como resultado un tamaño de archivo más pequeño pero también una imagen de menor calidad. El grado de compresión se puede ajustar para equilibrar el tamaño del archivo y la calidad de la imagen. Los ejemplos de compresión con pérdida incluyen JPEG y WebP."
           ]
         },
         {
-          "What are the uses of compressing an image?": [
+          "q": "¿Cuáles son los usos de comprimir una imagen?",
+          "a": [
             "Reducir el tamaño de archivo de una imagen, lo que se traduce en tiempos de carga más rápidos en sitios web u otras plataformas digitales.",
             "Ahorro de espacio de almacenamiento en una computadora o dispositivo.",
             "Haciendo que sea más fácil compartir imágenes a través de Internet o por correo electrónico.",
@@ -1100,12 +1148,14 @@
       ],
       "p2": [
         {
-          "What is changing contrast of an image?": [
+          "q": "¿Qué cambia el contraste de una imagen?",
+          "a": [
             "El contraste se refiere a la diferencia de brillo entre las áreas más claras y más oscuras de una imagen. Cambiar el contraste de una imagen implica ajustar los niveles de brillo de las luces, los medios tonos y las sombras de una imagen para que la imagen general parezca más brillante o más oscura. Esto se puede hacer utilizando varias herramientas y técnicas de software, como ajustes de contraste, ajustes de niveles y ajustes de curvas."
           ]
         },
         {
-          "What are the uses of changing contrast of an image?": [
+          "q": "¿Cuáles son los usos de cambiar el contraste de una imagen?",
+          "a": [
             "Mejorar la visibilidad general y la legibilidad de una imagen: aumentar el contraste puede hacer que una imagen parezca más brillante y vibrante, lo que facilita su visualización y lectura.",
             "Creación de un estado de ánimo o tema específico asociado con la imagen: el contraste de una imagen se puede usar para crear un estado de ánimo o tema específico asociado con la imagen, por ejemplo, una imagen de alto contraste puede parecer más dramática.",
             "Corrección de problemas de contraste: el ajuste del contraste se puede usar para corregir problemas de contraste, como una imagen que parece demasiado brillante o demasiado oscura.",
@@ -1140,13 +1190,15 @@
       ],
       "p2": [
         {
-          "What is converting format of an image?": [
+          "q": "¿Qué es convertir el formato de una imagen?",
+          "a": [
             "Convertir el formato de una imagen se refiere al proceso de cambiar el tipo de archivo de una imagen de un formato a otro. Esto se puede hacer utilizando varias herramientas y técnicas de software, como software de edición de imágenes, convertidores en línea o herramientas de línea de comandos.",
             "Es importante tener en cuenta que el formato adecuado a utilizar depende de los requisitos específicos de la aplicación o dispositivo para el que se utilizará la imagen, como el tamaño, la calidad y la compatibilidad."
           ]
         },
         {
-          "What are the uses of changing format of an image?": [
+          "q": "¿Cuáles son los usos de cambiar el formato de una imagen?",
+          "a": [
             "Compatibilidad: algunos formatos de imagen pueden no ser compatibles con ciertos dispositivos o software, convertir el formato de una imagen puede ayudar a garantizar que la imagen se pueda ver o usar en diferentes dispositivos y plataformas.",
             "Tamaño de archivo: algunos formatos de imagen pueden generar archivos de mayor tamaño que otros. Convertir una imagen a un formato que resulte en un tamaño de archivo más pequeño puede ayudar a ahorrar espacio de almacenamiento y reducir los tiempos de carga en sitios web u otras plataformas digitales.",
             "Calidad: algunos formatos de imagen pueden generar imágenes de mayor calidad que otros. Convertir una imagen a un formato que resulte en una imagen de mayor calidad puede ayudar a garantizar que la imagen se vea lo mejor posible.",
@@ -1158,7 +1210,8 @@
           ]
         },
         {
-          "What are some popular image formats?": [
+          "q": "¿Cuáles son algunos formatos de imagen populares?",
+          "a": [
             "JPEG (Grupo conjunto de expertos en fotografía): un formato de imagen con pérdida que se usa ampliamente para fotografías y otras imágenes que tienen una gran cantidad de colores. Los archivos JPEG son generalmente más pequeños que otros formatos de imagen, lo que los hace ideales para usar en la web y en archivos adjuntos de correo electrónico.",
             "PNG (Gráficos de red portátiles): un formato de imagen sin pérdidas que se usa ampliamente para imágenes que requieren fondos transparentes o un alto nivel de detalle. Los archivos PNG suelen tener un tamaño mayor que los archivos JPEG, pero conservan más la calidad de la imagen original.",
             "GIF (formato de intercambio de gráficos): un formato de imagen sin pérdida que se usa ampliamente para gráficos y animaciones simples. Los archivos GIF están limitados a un máximo de 256 colores, lo que los hace menos adecuados para fotografías y otras imágenes con una gran cantidad de colores.",
@@ -1203,12 +1256,14 @@
       ],
       "p2": [
         {
-          "What is cropping of an image?": [
+          "q": "¿Qué es el recorte de una imagen?",
+          "a": [
             "Recortar una imagen se refiere al proceso de eliminar áreas no deseadas de una imagen y mantener la parte deseada."
           ]
         },
         {
-          "What are the uses of cropping an image?": [
+          "q": "¿Cuáles son los usos de recortar una imagen?",
+          "a": [
             "Composición: al recortar una imagen, puede cambiar la composición de la imagen, haciéndola más atractiva visualmente y enfatizando el tema principal.",
             "Eliminación de elementos no deseados: al recortar una imagen, puede eliminar elementos no deseados de la imagen, como fondos que distraen, personas u objetos que no son el tema principal de la imagen.",
             "Centrarse en el sujeto principal: al recortar una imagen, puede enfocar el sujeto principal de la imagen, haciéndolo más prominente y más fácil de ver.",
@@ -1242,13 +1297,15 @@
       ],
       "p2": [
         {
-          "What is denoise effect?": [
+          "q": "¿Qué es el efecto de eliminación de ruido?",
+          "a": [
             "El efecto de reducción de ruido es una técnica utilizada para reducir o eliminar el ruido de una imagen. El ruido en una imagen a menudo es causado por factores como una configuración ISO alta en una cámara, malas condiciones de iluminación o compresión de imagen. El ruido aparece como pequeños píxeles de colores aleatorios en una imagen y puede hacer que la imagen parezca granulada o moteada.",
             "El proceso de eliminar el ruido de una imagen generalmente implica analizar la imagen e identificar los píxeles de ruido, luego aplicar un algoritmo para reducirlos o eliminarlos."
           ]
         },
         {
-          "What are the uses of denoise effect?": [
+          "q": "¿Cuáles son los usos del efecto de ruido?",
+          "a": [
             "Mejora de la calidad de la imagen: la eliminación de ruido se puede utilizar para eliminar o reducir el ruido de una imagen, lo que da como resultado una imagen más limpia y detallada.",
             "Mejora de los detalles de la imagen: la eliminación del ruido puede ayudar a revelar detalles sutiles en una imagen que, de lo contrario, podrían verse oscurecidos por el ruido, lo que hace que la imagen parezca más nítida y detallada.",
             "Reducir el tamaño del archivo: Eliminar el ruido también puede ayudar a reducir el tamaño del archivo de una imagen, lo que puede ser útil cuando se trabaja con imágenes grandes o cuando se preparan imágenes para usar en la web.",
@@ -1279,12 +1336,14 @@
       ],
       "p2": [
         {
-          "What is desaturating an image?": [
+          "q": "¿Qué es desaturar una imagen?",
+          "a": [
             "Desaturar una imagen se refiere al proceso de reducir o eliminar el color de una imagen, lo que da como resultado una imagen en escala de grises o en blanco y negro. Esto se logra reduciendo la saturación de los colores en la imagen, que es una medida de la intensidad de los colores."
           ]
         },
         {
-          "What are different ways to desaturate an image?": [
+          "q": "¿Cuáles son las diferentes formas de desaturar una imagen?",
+          "a": [
             "Ajuste del nivel de saturación: esto se puede hacer ajustando el control deslizante o el nivel de saturación en el software de edición de imágenes o en el editor en línea.",
             "Uso de un efecto de escala de grises: este efecto convertirá la imagen a escala de grises, eliminando toda la información de color.",
             "Usar un efecto de blanco y negro: este efecto convertirá la imagen a blanco y negro, eliminando toda la información de color y dándole a la imagen un aspecto clásico.",
@@ -1292,7 +1351,8 @@
           ]
         },
         {
-          "What are uses of desaturating an image?": [
+          "q": "¿Cuáles son los usos de desaturar una imagen?",
+          "a": [
             "Crear un look vintage o retro para las imágenes",
             "Crear un impacto más dramático o emocional en una imagen",
             "Enfatizar la textura o los patrones en una imagen",
@@ -1322,12 +1382,14 @@
       ],
       "p2": [
         {
-          "What is diffusion effect?": [
+          "q": "¿Qué es el efecto de difusión?",
+          "a": [
             "El efecto de difusión es una técnica utilizada para crear un aspecto suave, borroso o de ensueño en una imagen. Este efecto se utiliza a menudo en la fotografía de retratos para crear una imagen halagadora de aspecto natural, o en la fotografía de paisajes para crear un aspecto etéreo o romántico."
           ]
         },
         {
-          "What are the uses of diffusion effect?": [
+          "q": "¿Cuáles son los usos del efecto difusión?",
+          "a": [
             "Fotografía de retrato: para crear una imagen natural y favorecedora de una persona.",
             "Fotografía de paisaje: para crear un aspecto etéreo o romántico para una imagen de paisaje",
             "Fotografía de moda: Para crear un look suave y soñador para una imagen de moda.",
@@ -1357,14 +1419,16 @@
       ],
       "p2": [
         {
-          "What is dither effect?": [
+          "q": "¿Qué es el efecto de tramado?",
+          "a": [
             "El efecto de tramado en las imágenes es una técnica utilizada para crear la ilusión de más colores o sombras en una imagen de los que realmente están presentes.",
             "Esto se hace agregando un patrón de píxeles a una imagen que simula colores o sombras adicionales.",
             "Esta técnica se usa a menudo en el procesamiento de imágenes digitales, particularmente en la reducción del número de colores en una imagen (cuantización del color) o en la conversión de una imagen a una profundidad de color diferente (como de 24 bits a 8 bits). ."
           ]
         },
         {
-          "What are the uses of dithering effect?": [
+          "q": "¿Cuáles son los usos del efecto de tramado?",
+          "a": [
             "Reducir la cantidad de colores en una imagen: cuando una imagen se reduce a una cantidad menor de colores, se puede usar el difuminado para crear la ilusión de más colores de los que realmente están presentes, lo que puede ayudar a preservar la calidad visual de la imagen.",
             "Conversión de una imagen a una profundidad de color diferente: cuando una imagen se convierte a una profundidad de color diferente, como de 24 bits a 8 bits, se puede usar el tramado para crear la ilusión de más colores o sombras de los que realmente están presentes, lo que puede ayudar a preservar la calidad visual de la imagen.",
             "Impresión: el tramado se utiliza en la impresión para crear la ilusión de más colores o sombras de los que realmente están presentes, lo que puede ayudar a mejorar la calidad visual de las imágenes impresas.",
@@ -1398,12 +1462,14 @@
       ],
       "p2": [
         {
-          "What is dot screen effect?": [
+          "q": "¿Qué es el efecto de pantalla de puntos?",
+          "a": [
             "El efecto de pantalla de puntos es una técnica utilizada para crear un patrón de puntos en una imagen, similar a los patrones de puntos de medios tonos que se usan en la impresión. El efecto de pantalla de puntos se puede utilizar para crear una variedad de efectos visuales, como un aspecto retro o pixelado, o para simular el aspecto de una imagen impresa."
           ]
         },
         {
-          "What are the uses of dot screen effect?": [
+          "q": "¿Cuáles son los usos del efecto de pantalla de puntos?",
+          "a": [
             "Crear un aspecto retro o pixelado en una imagen",
             "Simulación del aspecto de una imagen impresa",
             "Crear un efecto visual único en una imagen",
@@ -1437,20 +1503,23 @@
       ],
       "p2": [
         {
-          "What is edge work effect?": [
+          "q": "¿Qué es el efecto de trabajo de borde?",
+          "a": [
             "El efecto de trabajo de borde es una técnica utilizada en el procesamiento de imágenes para mejorar o crear bordes en una imagen. Este efecto se utiliza para resaltar más los bordes de los objetos en una imagen, haciéndolos parecer más nítidos o más definidos.",
             "El efecto de trabajo en los bordes se puede lograr a través de varias técnicas de procesamiento de imágenes, como la detección de bordes, la nitidez de la imagen o la mejora de los bordes. Los algoritmos de detección de bordes se utilizan para identificar y extraer los bordes de los objetos en una imagen, mientras que las técnicas de mejora y nitidez de la imagen se utilizan para hacer que los bordes parezcan más definidos y pronunciados."
           ]
         },
         {
-          "What are different types of edge work effect?": [
+          "q": "¿Cuáles son los diferentes tipos de efecto de trabajo de borde?",
+          "a": [
             "Detección de bordes Sobel: es una técnica utilizada para detectar bordes en una imagen mediante el uso de un filtro Sobel para calcular el gradiente de intensidad de la imagen en cada punto.",
             "Canny Edge Detection: esta es una técnica que utiliza múltiples filtros y umbrales para detectar bordes en una imagen.",
             "Detección de bordes laplacianos: esta es una técnica que detecta bordes calculando la segunda derivada de la intensidad de una imagen."
           ]
         },
         {
-          "What are uses of edge work effect?": [
+          "q": "¿Cuáles son los usos del efecto de trabajo de borde?",
+          "a": [
             "Reconocimiento de objetos y análisis de imágenes: el efecto de trabajo de bordes se puede usar para extraer e identificar los bordes de los objetos en una imagen, que se puede usar para analizar y comprender el contenido de la imagen.",
             "Compresión de imagen: al enfocarse en los bordes de una imagen, el efecto de trabajo de borde se puede usar para comprimir una imagen y preservar su calidad visual.",
             "Mejora de la imagen: el efecto de trabajo de borde se puede utilizar para mejorar la calidad visual general de una imagen haciendo que los bordes de los objetos parezcan más nítidos o definidos.",
@@ -1480,7 +1549,8 @@
       ],
       "p2": [
         {
-          "What is converting images into edges?": [
+          "q": "¿Qué es convertir imágenes en bordes?",
+          "a": [
             "Convertir una imagen en una imagen de borde, también conocida como detección de borde, es una técnica utilizada en el procesamiento de imágenes para identificar y extraer los bordes de los objetos en una imagen. La imagen de borde resultante es una imagen en blanco y negro, con los bordes de los objetos en la imagen original que aparecen como líneas blancas y el resto de la imagen aparece como negro."
           ]
         }
@@ -1503,12 +1573,14 @@
       ],
       "p2": [
         {
-          "What is emboss effect?": [
+          "q": "¿Qué es el efecto de relieve?",
+          "a": [
             "El efecto de relieve es una técnica utilizada en el procesamiento de imágenes para crear una apariencia de 3D en una imagen. Este efecto crea la ilusión de profundidad al simular la forma en que la luz se refleja en una superficie elevada. El efecto de relieve generalmente se logra aplicando un filtro o algoritmo a una imagen que mejora los bordes y los puntos destacados de la imagen, dándole un aspecto elevado o 3D."
           ]
         },
         {
-          "What are some uses of emboss effect?": [
+          "q": "¿Cuáles son algunos usos del efecto de relieve?",
+          "a": [
             "Crear una apariencia similar a la de 3D en una imagen",
             "Mejorar la apariencia general de una imagen",
             "Agregar textura o interés a una imagen",
@@ -1536,12 +1608,14 @@
       ],
       "p2": [
         {
-          "What is enriching image?": [
+          "q": "¿Qué es una imagen enriquecedora?",
+          "a": [
             "Enriquecer una imagen generalmente se refiere a hacer cambios o ajustes a una imagen para mejorar su calidad visual o agregarle más significado o contexto. Esto puede incluir una amplia gama de técnicas, como corrección de color, recorte, retoque, adición de texto o gráficos, y más."
           ]
         },
         {
-          "What are uses of enriching image?": [
+          "q": "¿Cuáles son los usos del enriquecimiento de imagen?",
+          "a": [
             "Corrección de color: ajustar el balance de color, la saturación y el matiz de una imagen para hacerla más atractiva visualmente.",
             "Recortar: eliminar áreas no deseadas de una imagen para enfocar el sujeto principal o para crear una composición más equilibrada.",
             "Retoque: eliminar imperfecciones, suavizar la piel o ajustar la iluminación para mejorar la apariencia general de una imagen.",
@@ -1570,7 +1644,8 @@
       ],
       "p2": [
         {
-          "what is exposure effect in images?": [
+          "q": "¿Qué es el efecto de exposición en las imágenes?",
+          "a": [
             "El efecto de exposición en las imágenes se refiere a la cantidad de luz que captura el sensor de una cámara al tomar una foto. En fotografía, la exposición se refiere al proceso de ajustar la apertura, la velocidad de obturación y la configuración ISO de una cámara para controlar la cantidad de luz que se captura. La exposición correcta es cuando la imagen se captura con la cantidad correcta de luz, haciendo que la imagen no parezca ni demasiado brillante ni demasiado oscura.",
             "Una imagen con un efecto de exposición es una imagen que ha sido subexpuesta o sobreexpuesta deliberadamente para crear un efecto visual específico. Por ejemplo, una imagen subexpuesta aparecerá más oscura y de mal humor, mientras que una imagen sobreexpuesta aparecerá más brillante y descolorida.",
             "Efecto de subexposición: Es cuando la cámara no recibe suficiente luz para exponer correctamente la imagen, resultando en una imagen más oscura.",
@@ -1578,7 +1653,8 @@
           ]
         },
         {
-          "What are uses of exposure effect?": [
+          "q": "¿Cuáles son los usos del efecto de exposición?",
+          "a": [
             "Crear un efecto visual específico: al subexponer o sobreexponer deliberadamente una imagen, un fotógrafo puede crear un efecto visual específico que quizás no sea posible lograr con una imagen correctamente expuesta.",
             "Resaltar o enfatizar áreas específicas de una imagen: al ajustar la exposición de una imagen, un fotógrafo puede enfatizar o quitar énfasis a ciertas áreas de la imagen.",
             "Crear una sensación de estado de ánimo o atmósfera: al ajustar la exposición, un fotógrafo puede crear una sensación de estado de ánimo o atmósfera en una imagen.",
@@ -1607,14 +1683,16 @@
       ],
       "p2": [
         {
-          "What is changing gamma of images?": [
+          "q": "¿Qué está cambiando la gamma de imágenes?",
+          "a": [
             "La corrección gamma, también conocida como codificación gamma, es una técnica utilizada en el procesamiento de imágenes para ajustar el brillo y el contraste de una imagen. El valor gamma, también conocido como factor de corrección gamma, controla la relación entre la entrada y la salida de una imagen.",
             "El valor gamma de una imagen controla el brillo de los tonos medios, o los tonos en el medio del rango de brillo de una imagen. Un valor gamma más bajo dará como resultado una imagen más oscura, mientras que un valor gamma más alto dará como resultado una imagen más brillante.",
             "La corrección gamma se puede utilizar para ajustar el brillo y el contraste generales de una imagen y para corregir la respuesta no lineal de ciertas pantallas e impresoras. También se puede usar para ajustar el brillo de una imagen para que coincida con las condiciones de visualización de la imagen. Por ejemplo, ajustar la gamma de una imagen para que coincida con las condiciones de visualización de una habitación con poca luz."
           ]
         },
         {
-          "What are uses of changing gamma?": [
+          "q": "¿Cuáles son los usos de cambiar la gamma?",
+          "a": [
             "Ajuste del brillo y el contraste generales de una imagen",
             "Corrección de la respuesta no lineal de ciertas pantallas e impresoras",
             "Ajuste del brillo de una imagen para que coincida con las condiciones de visualización",
@@ -1646,12 +1724,14 @@
       ],
       "p2": [
         {
-          "What is grayscaling an image?": [
+          "q": "¿Qué es la escala de grises de una imagen?",
+          "a": [
             "La escala de grises de una imagen es el proceso de convertir una imagen en color en una imagen en blanco y negro o en escala de grises. Esto se logra convirtiendo cada píxel de la imagen de un valor de color a un único valor de escala de grises, que suele ser un valor entre 0 y 255. El valor de la escala de grises representa el brillo del píxel, siendo 0 el negro y 255 el blanco."
           ]
         },
         {
-          "What are uses of grayscaling an image?": [
+          "q": "¿Cuáles son los usos de la escala de grises de una imagen?",
+          "a": [
             "Reducción del tamaño del archivo: las imágenes en escala de grises tienden a ser más pequeñas en comparación con las imágenes en color, lo que las hace más adecuadas para ciertas aplicaciones, como el correo electrónico, la web y las aplicaciones móviles.",
             "Mejora del procesamiento de imágenes: las imágenes en escala de grises pueden ser más fáciles de procesar y analizar que las imágenes en color, ya que solo tienen un canal de información, mientras que las imágenes en color tienen tres canales.",
             "Creación de un efecto visual específico: las imágenes en escala de grises pueden tener un aspecto diferente al de las imágenes en color, que se pueden usar para crear un efecto visual específico.",
@@ -1661,7 +1741,8 @@
           ]
         },
         {
-          "What is difference between black and white and grascale?": [
+          "q": "¿Cuál es la diferencia entre blanco y negro y grascale?",
+          "a": [
             "Blanco y negro y escala de grises se refieren a diferentes formas de representar imágenes con colores limitados.",
             "Blanco y negro se refiere a imágenes que usan solo dos colores: blanco y negro. Estas imágenes suelen tener un contraste muy alto, con áreas completamente negras y áreas completamente blancas, sin sombras de gris.",
             "La escala de grises, por otro lado, se refiere a imágenes que utilizan una gama de tonos de gris para representar diferentes niveles de brillo o color. Las imágenes en escala de grises tienen una gama de tonos mucho más sutil, con áreas de gris muy claro y áreas de gris muy oscuro, y muchos tonos de gris intermedios.",
@@ -1692,7 +1773,8 @@
       ],
       "p2": [
         {
-          "What is Hue, Saturation & Luminance?": [
+          "q": "¿Qué es el tono, la saturación y la luminancia?",
+          "a": [
             "El tono, la saturación y la luminancia (también llamado brillo) son tres aspectos del color que se utilizan para describir y manipular imágenes y videos.",
             "Matiz: se refiere a la longitud de onda dominante de la luz que forma un color. A menudo se describe como el &quot;color&quot; de la luz y, por lo general, se mide como un valor entre 0 y 360 grados en una rueda de colores. Por ejemplo, el rojo tiene una tonalidad de 0 grados, mientras que el violeta tiene una tonalidad de 300 grados.",
             "Saturación: se refiere a la intensidad o pureza de un color. Un color completamente saturado se considera puro y vívido, mientras que un color desaturado está más cerca del gris. La saturación generalmente se mide como un valor entre 0 y 100%. Por ejemplo, un rojo totalmente saturado tiene una saturación del 100 %, mientras que un rojo desaturado tiene una saturación del 50 %.",
@@ -1700,7 +1782,8 @@
           ]
         },
         {
-          "What are the uses of changing hue, saturation & luminance?": [
+          "q": "¿Cuáles son los usos de cambiar el tono, la saturación y la luminancia?",
+          "a": [
             "En el procesamiento de imágenes y videos, el tono, la saturación y la luminancia a menudo se usan para ajustar y manipular los colores de una imagen o video. Por ejemplo, aumentar la saturación hará que los colores sean más vivos, mientras que disminuir la saturación hará que los colores sean más apagados. De manera similar, aumentar la luminancia hará que la imagen o el video sean más brillantes, mientras que disminuir la luminancia los oscurecerá."
           ]
         }
@@ -1727,7 +1810,8 @@
       ],
       "p2": [
         {
-          "What image formats are supported by browsers ?": [
+          "q": "¿Qué formatos de imagen son compatibles con los navegadores?",
+          "a": [
             "JPEG (.jpg, .jpeg)",
             "GIF (.gif)",
             "PNG (.png)",
@@ -1738,7 +1822,8 @@
           ]
         },
         {
-          "What are some popular image formats?": [
+          "q": "¿Cuáles son algunos formatos de imagen populares?",
+          "a": [
             "JPEG (Grupo conjunto de expertos en fotografía): un formato de imagen con pérdida que se usa ampliamente para fotografías y otras imágenes que tienen una gran cantidad de colores. Los archivos JPEG son generalmente más pequeños que otros formatos de imagen, lo que los hace ideales para usar en la web y en archivos adjuntos de correo electrónico.",
             "PNG (Gráficos de red portátiles): un formato de imagen sin pérdidas que se usa ampliamente para imágenes que requieren fondos transparentes o un alto nivel de detalle. Los archivos PNG suelen tener un tamaño mayor que los archivos JPEG, pero conservan más la calidad de la imagen original.",
             "GIF (formato de intercambio de gráficos): un formato de imagen sin pérdida que se usa ampliamente para gráficos y animaciones simples. Los archivos GIF están limitados a un máximo de 256 colores, lo que los hace menos adecuados para fotografías y otras imágenes con una gran cantidad de colores.",
@@ -1772,12 +1857,14 @@
       ],
       "p2": [
         {
-          "What is ink effect?": [
+          "q": "¿Qué es el efecto tinta?",
+          "a": [
             "El efecto de tinta, también conocido como lavado de tinta o efecto sumi-e, es una técnica utilizada en la edición de imágenes para crear un aspecto pintado o dibujado a mano en imágenes digitales. El efecto se logra simulando la textura y las variaciones de la tinta sobre el papel y se puede utilizar para crear una sensación de movimiento o pinceladas en una imagen."
           ]
         },
         {
-          "What are uses of applying ink effect?": [
+          "q": "¿Cuáles son los usos de aplicar efecto tinta?",
+          "a": [
             "Creación de un efecto visual específico: los efectos de tinta se pueden usar para crear un aspecto dibujado a mano o pintado en imágenes digitales, que se pueden usar para crear un efecto visual específico.",
             "Mejorar la apariencia general de una imagen: los efectos de tinta se pueden usar para agregar una sensación de movimiento o pinceladas a una imagen, lo que puede mejorar la apariencia general de una imagen.",
             "Creación de una sensación de nostalgia o sensación vintage: los efectos de tinta pueden evocar una sensación de nostalgia o sensación vintage, que se puede utilizar para crear un efecto visual específico.",
@@ -1786,7 +1873,8 @@
           ]
         },
         {
-          "What is the difference between oil effect and ink effect?": [
+          "q": "¿Cuál es la diferencia entre efecto óleo y efecto tinta?",
+          "a": [
             "En resumen, el efecto de aceite crea una ilusión de textura de pintura al óleo, pinceladas y marcas de espátula, mientras que el efecto de tinta crea una ilusión de boceto, textura y estilo de pintura con tinta. Ambos se pueden usar para alterar la apariencia visual de una imagen, pero se basan en medios diferentes y logran resultados diferentes."
           ]
         }
@@ -1810,7 +1898,8 @@
       ],
       "p2": [
         {
-          "What are the uses of inverting pixel color": [
+          "q": "¿Cuáles son los usos de invertir el color de los píxeles?",
+          "a": [
             "Crear una imagen negativa: invertir los colores de los píxeles de una imagen crea una imagen negativa, que es lo opuesto a la imagen original en términos de colores. Esto se puede utilizar para crear un efecto único e interesante en fotografía y diseño gráfico.",
             "Procesamiento de imágenes: la inversión de los colores de píxeles de una imagen se puede usar en tareas de procesamiento de imágenes, como el umbral de imagen, que se usa para separar el primer plano y el fondo de una imagen.",
             "Mejora de la visibilidad: la inversión de los colores de los píxeles de una imagen se puede utilizar para mejorar la visibilidad de ciertas características, como en imágenes médicas para aumentar el contraste y hacer que los detalles sean más visibles.",
@@ -1838,12 +1927,14 @@
       ],
       "p2": [
         {
-          "What is joining images?": [
+          "q": "¿Qué es unir imágenes?",
+          "a": [
             "La unión de imágenes, también conocida como unión de imágenes o unión panorámica, es el proceso de combinar varias imágenes para crear una imagen única y uniforme. Esto generalmente se hace superponiendo dos o más imágenes y alineándolas para que coincidan perfectamente, creando una imagen final que tiene un campo de visión más amplio o una resolución más alta que cualquiera de las imágenes individuales."
           ]
         },
         {
-          "What are uses of joining images?": [
+          "q": "¿Cuáles son los usos de unir imágenes?",
+          "a": [
             "Creación de imágenes panorámicas: la unión de varias imágenes se puede utilizar para crear imágenes panorámicas, que tienen un campo de visión más amplio que cualquiera de las imágenes individuales.",
             "Aumento de la resolución de la imagen: la unión de varias imágenes se puede usar para aumentar la resolución de una imagen, al combinar varias imágenes de la misma escena tomadas con diferentes niveles de zoom o con diferentes cámaras.",
             "Creación de imágenes compuestas: la unión de varias imágenes se puede usar para crear imágenes compuestas, que combinan elementos de varias imágenes en una sola imagen.",
@@ -1875,12 +1966,14 @@
       ],
       "p2": [
         {
-          "What is kaleidoscope effect?": [
+          "q": "¿Qué es el efecto caleidoscopio?",
+          "a": [
             "El efecto caleidoscopio es una técnica utilizada en la edición de imágenes para crear un patrón simétrico y repetitivo de una imagen. El efecto se logra reflejando y girando una imagen varias veces, creando un patrón que se asemeja a un caleidoscopio."
           ]
         },
         {
-          "What are uses of kaleidoscope effect?": [
+          "q": "¿Cuáles son los usos del efecto caleidoscopio?",
+          "a": [
             "Crear un efecto decorativo: el efecto caleidoscopio se puede usar para crear un patrón decorativo y simétrico en una imagen, que se puede usar como elemento de diseño en varios tipos de arte, diseño gráfico y fotografía.",
             "Crear una sensación de movimiento: el efecto caleidoscopio se puede utilizar para crear una sensación de movimiento en una imagen, reflejando y girando la imagen varias veces.",
             "Crear una sensación de ilusión óptica: el efecto caleidoscopio puede crear una ilusión óptica al hacer que una imagen parezca moverse o repetirse.",
@@ -1916,12 +2009,14 @@
       ],
       "p2": [
         {
-          "What is lens blur effect?": [
+          "q": "¿Qué es el efecto de desenfoque de lente?",
+          "a": [
             "El efecto de desenfoque de lente es una técnica utilizada en la edición de imágenes para simular el efecto de poca profundidad de campo en una fotografía. Este efecto se puede lograr desenfocando el fondo de una imagen mientras se mantiene enfocado el sujeto de la imagen."
           ]
         },
         {
-          "What are uses of lens blur effect?": [
+          "q": "¿Cuáles son los usos del efecto de desenfoque de lente?",
+          "a": [
             "Enfatizar el sujeto de una imagen: al desenfocar el fondo de una imagen y mantener el sujeto enfocado, el efecto de desenfoque de lente se puede usar para llamar la atención sobre el sujeto de la imagen, haciendo que se destaque del fondo.",
             "Crear una sensación de profundidad en una imagen: el efecto de desenfoque de lente se puede utilizar para crear una sensación de profundidad en una imagen, simulando la poca profundidad de campo que se puede lograr con una lente de cámara.",
             "Eliminación de distracciones de fondo: el efecto de desenfoque de lente se puede utilizar para eliminar elementos que distraen en el fondo de una imagen, desenfocándolos y manteniendo el sujeto enfocado.",
@@ -1951,12 +2046,14 @@
       ],
       "p2": [
         {
-          "What is image mirror effect?": [
+          "q": "¿Qué es el efecto espejo de imagen?",
+          "a": [
             "El efecto espejo de imagen es una técnica utilizada en la edición de imágenes para crear una imagen especular de una imagen original. El efecto se logra reflejando la imagen a través de un eje vertical u horizontal o ambos."
           ]
         },
         {
-          "What are uses of mirror image effect?": [
+          "q": "¿Cuáles son los usos del efecto de imagen especular?",
+          "a": [
             "Crear una sensación de simetría: el efecto de espejo de imagen se puede utilizar para crear una sensación de simetría en una imagen, reflejando la imagen a lo largo de un eje vertical u horizontal.",
             "Crear una sensación de movimiento: el efecto de espejo de imagen se puede utilizar para crear una sensación de movimiento en una imagen, reflejando la imagen en un eje vertical u horizontal.",
             "Crear una sensación de ilusión óptica: el efecto de espejo de imagen puede crear una ilusión óptica al hacer que una imagen parezca moverse o repetirse.",
@@ -1987,12 +2084,14 @@
       ],
       "p2": [
         {
-          "What is noise effect?": [
+          "q": "¿Qué es el efecto de ruido?",
+          "a": [
             "El efecto de ruido es una técnica utilizada en la edición de imágenes para agregar variaciones aleatorias de brillo y color a una imagen, simulando la apariencia de grano de película o ruido electrónico."
           ]
         },
         {
-          "What are uses of noise effect?": [
+          "q": "¿Cuáles son los usos del efecto de ruido?",
+          "a": [
             "Agregar textura a una imagen: el efecto de ruido se puede usar para agregar textura a una imagen, simulando la apariencia del grano de la película o el ruido electrónico.",
             "Creación de una sensación de antigüedad: el efecto de ruido se puede utilizar para crear una sensación de antigüedad en una imagen, al simular la apariencia del grano de la película o el ruido electrónico que puede ocurrir en fotografías o videos más antiguos.",
             "Creación de una sensación de movimiento: el efecto de ruido se puede utilizar para crear una sensación de movimiento en una imagen, simulando la apariencia del grano de la película o el ruido electrónico que puede ocurrir al capturar sujetos que se mueven rápidamente.",
@@ -2022,12 +2121,14 @@
       ],
       "p2": [
         {
-          "What is oil effect?": [
+          "q": "¿Qué es el efecto aceite?",
+          "a": [
             "El efecto de aceite, también conocido como efecto de pintura al óleo, es una técnica utilizada en la edición de imágenes para dar a una imagen la apariencia de estar pintada con óleo."
           ]
         },
         {
-          "What are uses of oil effect?": [
+          "q": "¿Cuáles son los usos del efecto aceite?",
+          "a": [
             "Crear una sensación de arte: el efecto de aceite se puede utilizar para dar a una imagen la apariencia de estar pintada con óleos, lo que puede crear una sensación de arte y creatividad.",
             "Crear una sensación de textura: el efecto de aceite se puede utilizar para crear una sensación de textura en una imagen, simulando las pinceladas y las marcas de espátula que son características de las pinturas al óleo.",
             "Creación de una sensación de profundidad: el efecto de aceite se puede utilizar para crear una sensación de profundidad en una imagen, simulando la superposición y la combinación de aceites que pueden ocurrir en las pinturas al óleo.",
@@ -2036,7 +2137,8 @@
           ]
         },
         {
-          "What is the difference between oil effect and ink effect?": [
+          "q": "¿Cuál es la diferencia entre efecto óleo y efecto tinta?",
+          "a": [
             "El efecto de aceite crea una ilusión de textura de pintura al óleo, pinceladas y marcas de espátula, mientras que el efecto de tinta crea una ilusión de esbozo, textura y estilo de pintura con tinta. Ambos se pueden usar para alterar la apariencia visual de una imagen, pero se basan en medios diferentes y logran resultados diferentes."
           ]
         }
@@ -2060,13 +2162,15 @@
       ],
       "p2": [
         {
-          "What is image pattern maker?": [
+          "q": "¿Qué es el creador de patrones de imágenes?",
+          "a": [
             "Un creador de patrones de imagen es una herramienta o software que le permite crear patrones repetitivos a partir de una imagen. La herramienta toma una imagen y genera un patrón de mosaico que se puede repetir sin problemas, lo que le permite crear fondos, textiles, papeles pintados y otros diseños.",
             "El proceso generalmente implica seleccionar un área de la imagen para usar como patrón y luego ajustar el tamaño, la orientación y los colores según sea necesario. Algunas herramientas también pueden ofrecer funciones adicionales, como la capacidad de rotar, voltear o reflejar el patrón, o aplicar diferentes efectos al patrón. El patrón resultante puede guardarse en una variedad de formatos de archivo de imagen y luego usarse en una amplia gama de proyectos de diseño."
           ]
         },
         {
-          "What are the uses of image pattern maker?": [
+          "q": "¿Cuáles son los usos del creador de patrones de imágenes?",
+          "a": [
             "Fondos: los patrones de imagen se pueden usar para crear fondos únicos e interesantes para sitios web, presentaciones y otros proyectos digitales.",
             "Textiles: los patrones de imagen se pueden usar para crear diseños textiles para telas, prendas de vestir y otros textiles.",
             "Fondos de pantalla: los patrones de imagen se pueden usar para crear fondos de pantalla personalizados para computadoras de escritorio, dispositivos móviles y otros dispositivos.",
@@ -2107,12 +2211,14 @@
       ],
       "p2": [
         {
-          "What is perspective change effect?": [
+          "q": "¿Qué es el efecto de cambio de perspectiva?",
+          "a": [
             "El efecto de cambio de perspectiva en las imágenes se refiere al proceso de alterar la profundidad percibida de una imagen cambiando la posición de la cámara o el ángulo de visión. Esto se puede lograr manipulando la imagen con un software de edición de imágenes o moviendo físicamente la cámara."
           ]
         },
         {
-          "What are different types of perspective change effect?": [
+          "q": "¿Cuáles son los diferentes tipos de efecto de cambio de perspectiva?",
+          "a": [
             "Distorsión de perspectiva: este efecto se logra manipulando la imagen para que parezca que la imagen se ve desde un ángulo diferente al que realmente se tomó.",
             "Tilt-shift: este efecto se utiliza para cambiar la profundidad percibida de una imagen al desenfocar partes de la imagen para crear la ilusión de una escena en miniatura.",
             "Ojo de pez: este efecto se utiliza para crear una vista de gran angular distorsionada de la imagen, a menudo utilizada para crear una sensación de movimiento o acción en la imagen.",
@@ -2120,7 +2226,8 @@
           ]
         },
         {
-          "What are uses of perspective change effect?": [
+          "q": "¿Cuáles son los usos del efecto de cambio de perspectiva?",
+          "a": [
             "Fotografía: Cambiar la perspectiva de una imagen puede ayudar a crear composiciones más dinámicas e interesantes. También se puede utilizar para exagerar la sensación de profundidad y distancia en una escena.",
             "Publicidad: al manipular la perspectiva de una imagen, los anunciantes pueden llamar la atención sobre partes específicas de una imagen y crear una sensación de movimiento o acción.",
             "Diseño gráfico: cambiar la perspectiva de una imagen se puede usar para crear diseños y diseños interesantes y únicos.",
@@ -2154,12 +2261,14 @@
       ],
       "p2": [
         {
-          "What is pixelating an image?": [
+          "q": "¿Qué es pixelar una imagen?",
+          "a": [
             "Pixelar una imagen se refiere al proceso de dividir una imagen en pequeños bloques de forma cuadrada llamados píxeles. El efecto hace que la imagen parezca más pixelada, lo que significa que los píxeles individuales se vuelven más visibles y la imagen general se vuelve menos detallada y menos nítida. Este proceso se puede utilizar para difuminar información confidencial o para crear un efecto visual interesante en una imagen."
           ]
         },
         {
-          "What is the use of pixelating an image?": [
+          "q": "¿Para qué sirve pixelar una imagen?",
+          "a": [
             "Ocultar información confidencial: el pixelado se puede usar para desenfocar rostros, matrículas u otra información confidencial en fotos o videos.",
             "Efecto estilístico: se puede utilizar como efecto creativo en diseño gráfico y arte digital, dando a las imágenes un aspecto más retro o de baja resolución.",
             "Reducción del tamaño del archivo: el pixelado se puede usar para reducir el tamaño del archivo de una imagen, lo que hace que requiera menos recursos y sea más fácil de usar en línea o en aplicaciones móviles.",
@@ -2170,7 +2279,8 @@
           ]
         },
         {
-          "What is the difference between blurring and pixelating an image?": [
+          "q": "¿Cuál es la diferencia entre difuminar y pixelar una imagen?",
+          "a": [
             "El desenfoque y el pixelado son dos técnicas diferentes que se utilizan para oscurecer u ocultar detalles en una imagen.",
             "El desenfoque es una técnica que utiliza un filtro de desenfoque para dispersar los píxeles de una imagen, lo que da como resultado una apariencia borrosa o suavizada. El objetivo de difuminar es oscurecer los detalles mientras se mantiene un aspecto general relativamente natural y suave. Esto se puede lograr aplicando diferentes tipos de filtros de desenfoque como desenfoque gaussiano, desenfoque de movimiento, desenfoque de cuadro, etc.",
             "Pixelar, por otro lado, es una técnica que reemplaza pequeñas regiones de píxeles con píxeles más grandes y gruesos. Esto da como resultado una apariencia más bloqueada o pixelada, donde los detalles finos se reemplazan por cuadrados de color más grandes y más evidentes. El objetivo de pixelar es ocultar u oscurecer detalles haciéndolos menos visibles o reconocibles. Esto se usa a menudo para ocultar caras, matrículas u otra información confidencial en una imagen.",
@@ -2195,12 +2305,14 @@
       ],
       "p2": [
         {
-          "What is posterize effect?": [
+          "q": "¿Qué es el efecto posterizado?",
+          "a": [
             "El efecto posterizar, también conocido como posterización, es una técnica utilizada para reducir la cantidad de colores en una imagen. Este efecto se puede aplicar a fotografías, imágenes digitales o ilustraciones para crear una apariencia más simplificada y estilizada. A menudo se usa para crear un aspecto más artístico o retro en una imagen, o para hacer que se parezca más a un cómic o una caricatura. El efecto posterizar también se usa en diseño gráfico e ilustración para crear una estética específica o para enfatizar ciertas características de una imagen."
           ]
         },
         {
-          "What are the uses of posterize effect?": [
+          "q": "¿Cuáles son los usos del efecto posterizado?",
+          "a": [
             "Diseño gráfico: el efecto Posterizar se puede utilizar para crear una estética específica en el diseño gráfico y la marca, como un aspecto retro o vintage.",
             "Ilustración: el efecto Posterizar se puede usar para hacer que las ilustraciones se vean más estilizadas y parecidas a dibujos animados.",
             "Fotografía: el efecto Posterizar se puede utilizar para crear un aspecto más artístico o abstracto en una fotografía.",
@@ -2230,12 +2342,14 @@
       ],
       "p2": [
         {
-          "What is rainbow effect?": [
+          "q": "¿Qué es el efecto arcoíris?",
+          "a": [
             "El efecto arco iris es una técnica utilizada en la edición y manipulación de imágenes para agregar un efecto similar al arco iris a una imagen. Por lo general, se logra mediante el uso de una combinación de filtros de color, modos de fusión y herramientas de ajuste de color. El efecto se puede usar para agregar una sensación de movimiento o profundidad a una imagen, o para crear una imagen más dinámica e interesante visualmente. También se puede utilizar para crear un efecto de ensueño o surrealista."
           ]
         },
         {
-          "What are the uses of rainbow effect?": [
+          "q": "¿Cuáles son los usos del efecto arcoíris?",
+          "a": [
             "Agregar una sensación de movimiento o profundidad a una imagen, como en la fotografía de paisajes o la fotografía deportiva.",
             "Crear una imagen visualmente más interesante y dinámica, como en el arte abstracto o el diseño gráfico.",
             "Crear un efecto de ensueño o surrealista, como en la fotografía de moda o la fotografía de bellas artes.",
@@ -2263,12 +2377,14 @@
       ],
       "p2": [
         {
-          "What is removing background in an image?": [
+          "q": "¿Qué es eliminar el fondo de una imagen?",
+          "a": [
             "Eliminar el color de fondo de una imagen se refiere al proceso de eliminar un color específico o una gama de colores de una imagen. Esto se puede hacer manualmente, usando un software de edición de imágenes, o automáticamente usando algoritmos de procesamiento de imágenes. A la imagen resultante se le quitarán los color(es) designados, revelando lo que hay debajo."
           ]
         },
         {
-          "What are the uses of removing background color in an image?": [
+          "q": "¿Cuáles son los usos de eliminar el color de fondo de una imagen?",
+          "a": [
             "Uno de los principales usos es aislar el tema de la imagen, lo que facilita su edición o manipulación. Esto puede ser útil en el diseño gráfico, la fotografía de productos y la edición de fotografías, ya que le permite eliminar elementos no deseados o distracciones de la imagen.",
             "Además, eliminar el color de fondo también puede ayudar a mejorar la composición general o el impacto visual de la imagen.",
             "También se puede usar para hacer que la imagen sea transparente y usarla en otras aplicaciones."
@@ -2299,12 +2415,14 @@
       ],
       "p2": [
         {
-          "What is resizing an image?": [
+          "q": "¿Qué es cambiar el tamaño de una imagen?",
+          "a": [
             "Cambiar el tamaño de una imagen se refiere al proceso de cambiar las dimensiones de una imagen, ya sea aumentando o disminuyendo el tamaño de la imagen. Esto se puede hacer ajustando el ancho y alto de la imagen, o cambiando la resolución de la imagen."
           ]
         },
         {
-          "What are the uses of resizing an image?": [
+          "q": "¿Cuáles son los usos de cambiar el tamaño de una imagen?",
+          "a": [
             "Colocar una imagen en un espacio específico en un sitio web o documento",
             "Hacer una imagen más pequeña para reducir los tiempos de carga al mostrarla en un sitio web o en un correo electrónico",
             "Ampliar una imagen para que se ajuste a un tamaño de impresión específico o para mostrarla en una pantalla más grande",
@@ -2340,12 +2458,14 @@
       ],
       "p2": [
         {
-          "What is ripple effect?": [
+          "q": "¿Qué es el efecto dominó?",
+          "a": [
             "El efecto dominó, también conocido como efecto ola, es un efecto gráfico que simula la aparición de ondas u ondas en la superficie del agua."
           ]
         },
         {
-          "What are the uses of ripple effect in images?": [
+          "q": "¿Cuáles son los usos del efecto dominó en las imágenes?",
+          "a": [
             "Se puede utilizar para crear una sensación de movimiento o fluidez en una imagen.",
             "También se puede usar para agregar un elemento visual interesante a una imagen, como en el arte abstracto o la manipulación digital. El efecto dominó se puede aplicar tanto a imágenes fijas como a videos.",
             "Además, se puede utilizar en el campo del diseño gráfico, la publicidad y la animación."
@@ -2388,12 +2508,14 @@
       ],
       "p2": [
         {
-          "What is rotating an image?": [
+          "q": "¿Qué es rotar una imagen?",
+          "a": [
             "Girar una imagen es el proceso de girar la imagen en un cierto ángulo, normalmente medido en grados, en sentido horario o antihorario."
           ]
         },
         {
-          "What are the uses of rotating an image?": [
+          "q": "¿Cuáles son los usos de rotar una imagen?",
+          "a": [
             "Cambiar la orientación de la imagen.",
             "Ajuste de la composición de la imagen.",
             "Creando una sensación de movimiento o dinamismo en la imagen.",
@@ -2431,12 +2553,14 @@
       ],
       "p2": [
         {
-          "What is saturate effect?": [
+          "q": "¿Qué es el efecto de saturación?",
+          "a": [
             "El efecto de saturación es una técnica de edición de imágenes que aumenta la intensidad de los colores en una imagen. Esto se puede usar para hacer que la imagen parezca más vibrante o para enfatizar ciertos colores en la imagen. El nivel de saturación se puede ajustar para lograr el efecto deseado."
           ]
         },
         {
-          "What are the uses of saturate effect?": [
+          "q": "¿Cuáles son los usos del efecto saturar?",
+          "a": [
             "Mejorar el color general y la vitalidad de una imagen.",
             "Hacer que los colores de una imagen sean más vivos e intensos.",
             "Ajuste del balance de colores en una imagen.",
@@ -2470,12 +2594,14 @@
       ],
       "p2": [
         {
-          "What is sepia effect?": [
+          "q": "¿Qué es el efecto sepia?",
+          "a": [
             "El efecto sepia es una técnica de edición de fotografías que se utiliza para dar a una imagen un aspecto cálido y antiguo. Por lo general, se logra desaturando los colores de la imagen y agregando un tinte marrón o amarillo."
           ]
         },
         {
-          "What are the uses of sepia effect?": [
+          "q": "¿Cuáles son los usos del efecto sepia?",
+          "a": [
             "Crear un aspecto vintage o anticuado en las fotografías.",
             "Realzando la calidez y la nostalgia de una fotografía.",
             "Añadiendo un toque único a retratos o paisajes.",
@@ -2510,12 +2636,14 @@
       ],
       "p2": [
         {
-          "What is sharpening an image?": [
+          "q": "¿Qué es enfocar una imagen?",
+          "a": [
             "Enfocar una imagen es un proceso que aumenta el nivel de detalle y claridad en una imagen. Esto se puede hacer aumentando el contraste de los bordes y otros detalles finos de la imagen. El proceso se puede realizar digitalmente mediante el uso de un software que aplica un filtro de nitidez, o se puede realizar físicamente ajustando el enfoque o la apertura de la lente de la cámara utilizada para capturar la imagen. El uso principal del efecto de nitidez es hacer que la imagen parezca más nítida y definida."
           ]
         },
         {
-          "What are the uses of sharpening an image?": [
+          "q": "¿Cuáles son los usos de enfocar una imagen?",
+          "a": [
             "Mejorar la claridad y definición de una imagen, haciéndola más atractiva visualmente.",
             "Mejorar los detalles de una imagen, facilitando la visualización de pequeños detalles o texto.",
             "Eliminación de la borrosidad de una imagen, haciendo que parezca más enfocada.",
@@ -2546,12 +2674,14 @@
       ],
       "p2": [
         {
-          "What is shifting an image?": [
+          "q": "¿Qué es cambiar una imagen?",
+          "a": [
             "Desplazar una imagen se refiere al proceso de mover la imagen horizontal o verticalmente una determinada cantidad de píxeles."
           ]
         },
         {
-          "What are the uses of shifting an image?": [
+          "q": "¿Cuáles son los usos de cambiar una imagen?",
+          "a": [
             "Ajustar la composición de la imagen moviendo elementos dentro del marco",
             "Crear efectos de paralaje en animación o video",
             "Corrección de desalineación o movimiento de la cámara durante la captura de imágenes",
@@ -2584,12 +2714,14 @@
       ],
       "p2": [
         {
-          "What is skewing an image?": [
+          "q": "¿Qué es sesgar una imagen?",
+          "a": [
             "Sesgar una imagen es un proceso de distorsionarla al inclinarla o inclinarla en una dirección determinada."
           ]
         },
         {
-          "What are the uses of skewing an image?": [
+          "q": "¿Cuáles son los usos de sesgar una imagen?",
+          "a": [
             "Crear una sensación de movimiento o dirección.",
             "Ajustar la composición de una imagen",
             "Crear una sensación de profundidad o perspectiva.",
@@ -2626,12 +2758,14 @@
       ],
       "p2": [
         {
-          "What is smear effect": [
+          "q": "¿Qué es el efecto difuso?",
+          "a": [
             "El efecto smear es un tipo de manipulación de imágenes que simula borronear o emborronar los píxeles de una imagen."
           ]
         },
         {
-          "What are the uses of smear effect?": [
+          "q": "¿Cuáles son los usos del efecto smear?",
+          "a": [
             "Crear un aspecto artístico e impresionista a una imagen",
             "Emulación de un efecto de pintura manchada o emborronada",
             "Crear una sensación de movimiento o movimiento en una imagen",
@@ -2671,12 +2805,14 @@
       ],
       "p2": [
         {
-          "What is sobel effect?": [
+          "q": "¿Qué es el efecto sobel?",
+          "a": [
             "El efecto Sobel es un tipo de procesamiento de imágenes que se utiliza para detectar bordes en una imagen. Funciona convolucionando la imagen con un kernel de Sobel, que es una pequeña matriz que se utiliza para calcular el gradiente de la imagen. El efecto Sobel se usa a menudo en aplicaciones de reconocimiento de imágenes y visión por computadora para mejorar los bordes de una imagen, lo que facilita la detección de características y patrones en la imagen."
           ]
         },
         {
-          "What are the uses of sobel effect?": [
+          "q": "¿Cuáles son los usos del efecto sobel?",
+          "a": [
             "Segmentación de imagen",
             "Reconocimiento de objetos",
             "Detección de características",
@@ -2714,12 +2850,14 @@
       ],
       "p2": [
         {
-          "What is solarize effect?": [
+          "q": "¿Qué es el efecto solarizar?",
+          "a": [
             "El efecto solarizar es un tipo de efecto de procesamiento de imágenes que se utiliza para invertir los valores tonales de una imagen, creando un aspecto &quot;solarizado&quot; de alto contraste."
           ]
         },
         {
-          "What are the uses of solarize effect?": [
+          "q": "¿Cuáles son los usos del efecto solarizar?",
+          "a": [
             "Crear un aspecto artístico único para una fotografía o una obra de arte digital.",
             "Crear una sensación surrealista o de otro mundo para una escena en una película o video.",
             "Agregar un efecto dramático a una imagen para una sesión de moda o belleza.",
@@ -2745,12 +2883,14 @@
       ],
       "p2": [
         {
-          "What is sparkle effect?": [
+          "q": "¿Qué es el efecto brillo?",
+          "a": [
             "El efecto de brillo es un tipo de técnica de edición de imágenes que se utiliza para agregar brillo o brillo a una imagen."
           ]
         },
         {
-          "What are the uses of sparkle effect?": [
+          "q": "¿Cuáles son los usos del efecto brillo?",
+          "a": [
             "Agregar énfasis a ciertos elementos de una imagen, como joyas u otros objetos brillantes",
             "Crear una sensación de movimiento o animación en una imagen",
             "Mejorar el atractivo visual general de una imagen, como hacer que una foto de un cielo nocturno se vea más dramática",
@@ -2785,12 +2925,14 @@
       ],
       "p2": [
         {
-          "What is making image symmetric?": [
+          "q": "¿Qué hace que la imagen sea simétrica?",
+          "a": [
             "Hacer que una imagen sea simétrica es un proceso de creación de una imagen especular de una fotografía o una obra de arte. Se realiza dividiendo la imagen en dos partes iguales y creando una copia de una mitad para colocarla sobre la otra mitad."
           ]
         },
         {
-          "What are the uses of making image symmetric": [
+          "q": "¿Cuáles son los usos de hacer una imagen simétrica?",
+          "a": [
             "Crear un efecto de reflejo en fotografías de paisajes, edificios u otros objetos.",
             "Mejorar la estética de una fotografía de retrato al crear una imagen simétrica del rostro del sujeto.",
             "Crear una composición única e interesante en obras de arte.",
@@ -2831,12 +2973,14 @@
       ],
       "p2": [
         {
-          "What is tilt shift effect?": [
+          "q": "¿Qué es el efecto de cambio de inclinación?",
+          "a": [
             "El efecto de cambio de inclinación es una técnica fotográfica que simula una profundidad de campo reducida, haciendo que una escena parezca una miniatura. Este efecto se puede lograr usando una lente especial o editando la imagen usando un software."
           ]
         },
         {
-          "What are the uses for tilt shift effect?": [
+          "q": "¿Cuáles son los usos del efecto de cambio de inclinación?",
+          "a": [
             "Hacer que las escenas a gran escala parezcan modelos en miniatura.",
             "Creando un efecto onírico o surrealista en las fotografías.",
             "Aislar una parte específica de una imagen y hacer que se destaque.",
@@ -2873,12 +3017,14 @@
       ],
       "p2": [
         {
-          "What is twirl effect?": [
+          "q": "¿Qué es el efecto giro?",
+          "a": [
             "El efecto de giro es una técnica de procesamiento de imágenes que se utiliza para crear un efecto de distorsión similar a un remolino en una imagen. Se puede utilizar para crear una variedad de efectos artísticos, como dar a una foto un aspecto de ensueño o surrealista."
           ]
         },
         {
-          "What are the uses for twirl effect?": [
+          "q": "¿Cuáles son los usos del efecto giro?",
+          "a": [
             "Crear una sensación de movimiento o movimiento en una imagen",
             "Mejorar el interés visual de una escena estática",
             "Crear un aspecto caprichoso o divertido para una foto o un diseño",
@@ -2918,13 +3064,15 @@
       ],
       "p2": [
         {
-          "What is unsharpening an image?": [
+          "q": "¿Qué es desenfocar una imagen?",
+          "a": [
             "&quot;Desenfocar&quot; una imagen es lo opuesto a enfocar una imagen. Es un proceso de reducción de la nitidez o claridad de una imagen, haciéndola parecer más suave y menos definida.",
             "Este efecto se puede utilizar para reducir la visibilidad de detalles no deseados, ruido o imperfecciones en una imagen, o para crear un cierto estilo estético."
           ]
         },
         {
-          "What are the uses of unsharpening an image": [
+          "q": "¿Cuáles son los usos de desenfocar una imagen?",
+          "a": [
             "Suavizar el enfoque de una imagen para crear un aspecto más natural y agradable.",
             "Eliminación de pequeños detalles y texturas de una imagen para crear un aspecto más abstracto o impresionista.",
             "Reducir la visibilidad del ruido o el grano en una imagen.",
@@ -2959,12 +3107,14 @@
       ],
       "p2": [
         {
-          "what is vibrance effect? ": [
+          "q": "¿Qué es el efecto de vibración?",
+          "a": [
             "El efecto de vitalidad es una herramienta de edición de fotografías que aumenta la saturación de los colores menos saturados en una imagen mientras deja intactos los colores ya saturados."
           ]
         },
         {
-          "What are the uses of vibrance effect?": [
+          "q": "¿Cuáles son los usos del efecto vibración?",
+          "a": [
             "Mejorar el color y el interés visual general de una fotografía.",
             "Resaltar los colores de una imagen que puede haberse desteñido debido a la mala iluminación o a la configuración de la cámara.",
             "Hacer que ciertos elementos de una imagen se destaquen más, como las flores en un jardín o un pájaro de colores brillantes en un árbol.",
@@ -2994,12 +3144,14 @@
       ],
       "p2": [
         {
-          "What is vignette effect?": [
+          "q": "¿Qué es el efecto viñeta?",
+          "a": [
             "El efecto de viñeta es una técnica en la que los bordes de una imagen se oscurecen o se desenfocan para llamar la atención sobre el centro de la imagen."
           ]
         },
         {
-          "What are the uses for vignette effect?": [
+          "q": "¿Cuáles son los usos del efecto viñeta?",
+          "a": [
             "Crear una sensación de profundidad o dimensión en una imagen",
             "Dirigir la atención del espectador a un área específica de la imagen",
             "Agregar una sensación vintage o nostálgica a una imagen",
@@ -3030,12 +3182,14 @@
       ],
       "p2": [
         {
-          "What is watermarking an image?": [
+          "q": "¿Qué es poner una marca de agua en una imagen?",
+          "a": [
             "La marca de agua de una imagen es el proceso de agregar un pequeño logotipo, texto o imagen a una imagen para reclamar la propiedad o evitar que otros usen la imagen sin permiso."
           ]
         },
         {
-          "What are the uses of watermarking an image?": [
+          "q": "¿Cuáles son los usos de poner una marca de agua en una imagen?",
+          "a": [
             "Protección de derechos de autor: la marca de agua de una imagen con un símbolo de derechos de autor y el nombre del propietario de los derechos de autor puede ayudar a evitar que otros usen la imagen sin permiso.",
             "Marca: las empresas y organizaciones pueden usar marcas de agua para promocionar su marca agregando su logotipo a las imágenes que usan en su sitio web, redes sociales u otros materiales de marketing.",
             "Seguimiento de imágenes: las marcas de agua se pueden usar para rastrear dónde se usa una imagen en línea, lo que puede ser útil para identificar usos no autorizados de la imagen.",
@@ -3071,14 +3225,16 @@
       ],
       "p2": [
         {
-          "What is zoom blur effect?": [
+          "q": "¿Qué es el efecto de desenfoque de zoom?",
+          "a": [
             "El efecto de desenfoque de zoom es un efecto de imagen fotográfica y digital que simula la apariencia de una cámara haciendo zoom mientras se captura la imagen.",
             "Crea la ilusión de movimiento al desenfocar la imagen en un patrón circular alrededor de un punto central, haciendo que la imagen parezca alejarse o acercarse al espectador.",
             "Este efecto se puede utilizar para crear una sensación de movimiento o para llamar la atención sobre una parte específica de la imagen."
           ]
         },
         {
-          "What are the uses of zoom blur effect?": [
+          "q": "¿Cuáles son los usos del efecto de desenfoque de zoom?",
+          "a": [
             "Crear una sensación de movimiento o movimiento en una imagen fija",
             "Enfatizar una parte específica de la imagen desenfocando el fondo",
             "Crear un efecto de ensueño o surrealista en la imagen",
@@ -3112,7 +3268,8 @@
       ],
       "p2": [
         {
-          "What are uses of converting PDF to image?": [
+          "q": "¿Cuáles son los usos de convertir PDF a imagen?",
+          "a": [
             "Compartir el contenido del PDF con personas que no tienen instalado un lector de PDF",
             "Permitir que el contenido se incruste fácilmente en sitios web y otras plataformas digitales",
             "Facilitar la edición de contenido PDF al convertirlo a un formato de imagen editable",
@@ -3146,14 +3303,16 @@
       ],
       "p2": [
         {
-          "What is a PDF file?": [
+          "q": "¿Qué es un archivo PDF?",
+          "a": [
             "Un archivo PDF (formato de documento portátil) es un tipo de archivo que se utiliza para mostrar documentos en un diseño fijo, independientemente del software de la aplicación, el hardware y el sistema operativo utilizado para crearlo.",
             "Los archivos PDF se utilizan ampliamente para compartir y distribuir documentos, como libros, revistas, formularios y folletos, en línea y fuera de línea. Pueden incluir texto, imágenes, videos y elementos interactivos como botones, enlaces y campos de formulario.",
             "Los archivos PDF se pueden abrir y leer con una variedad de software gratuito y de pago, incluidos Adobe Acrobat Reader, Foxit Reader y Google Chrome."
           ]
         },
         {
-          "How to view PDF files?": [
+          "q": "¿Cómo ver archivos PDF?",
+          "a": [
             "Los archivos PDF (formato de documento portátil) se pueden ver con un lector de PDF, como Adobe Acrobat Reader, Foxit Reader o Sumatra PDF. Estos son programas de software que se pueden descargar e instalar en una computadora o dispositivo móvil.",
             "Una vez instalado, puede abrir y ver archivos PDF haciendo doble clic en ellos o usando el comando &quot;Abrir&quot; en el lector de PDF.",
             "Algunos navegadores web, como Google Chrome, también tienen visores de PDF integrados que le permiten ver archivos PDF sin instalar software adicional.",
@@ -3179,12 +3338,14 @@
       ],
       "p2": [
         {
-          "What is extracting text from PDF?": [
+          "q": "¿Qué es extraer texto de un PDF?",
+          "a": [
             "La extracción de texto de un PDF se refiere al proceso de extracción del contenido de texto de un archivo de formato de documento portátil (PDF)."
           ]
         },
         {
-          "What are uses of extracting text from pdf file?": [
+          "q": "¿Cuáles son los usos de extraer texto de un archivo pdf?",
+          "a": [
             "Extracción de contenido: la extracción de texto de un archivo PDF se puede utilizar para extraer el contenido escrito de un documento para su posterior análisis o uso en otras aplicaciones.",
             "Edición de texto: la extracción de texto de un archivo PDF permite a los usuarios editar el texto del documento, como hacer correcciones o agregar contenido nuevo.",
             "Texto a voz: la extracción de texto de un archivo PDF se puede usar para convertir el texto del documento en voz, lo que puede ser útil para personas con discapacidades visuales o para crear versiones de audio de documentos.",
@@ -3686,7 +3847,8 @@
       ],
       "p2": [
         {
-          "What video formats are supported?": [
+          "q": "¿Qué formatos de vídeo son compatibles?",
+          "a": [
             "MP4 (códec de video H.264/AVC y códec de audio AAC)",
             "WebM (códec de video VP8 y códec de audio Vorbis)",
             "Ogg (códec de video Theora y códec de audio Vorbis)",
