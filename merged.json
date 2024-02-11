@@ -505,7 +505,10 @@
     "Very Satisfied": "Very Satisfied",
     "Give Rating": "Give Rating",
     "Submit": "Submit",
-    "Comment": "Comment"
+    "Comment": "Comment",
+    "Donate": "Donate",
+    "Switch to dark mode": "Switch to dark mode",
+    "Switch to light mode": "Switch to light mode"
   },
   "home": {
     "title": "Hello world",
